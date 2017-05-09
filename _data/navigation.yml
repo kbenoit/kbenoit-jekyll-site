@@ -10,8 +10,8 @@ main:
     url: /cv/publications/
   - title: "Software"
     url: /software/
-  - title: "Research Associates"
-    url: /research-associates/
+  - title: "Associates"
+    url: /associates/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
