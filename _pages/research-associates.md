@@ -1,5 +1,5 @@
 ---
-title: "Research Associates"
+title: "Associates"
 type: pages
 ---
 
