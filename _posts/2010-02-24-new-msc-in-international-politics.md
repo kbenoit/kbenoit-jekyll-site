@@ -5,7 +5,7 @@ date: 2010-02-24T08:54:49+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=694
-permalink: /posts/new-msc-in-international-politics/
+permalink: /new-msc-in-international-politics/
 categories:
   - Course-related
   - Uncategorized
@@ -21,3 +21,4 @@ This new M.Sc. in International Politics offers graduate students a combination 
 For programme and application details, click [here](http://www.tcd.ie/Political_Science/postgraduate/ipmscindex.php "MSc in International Politics Trinity College Dublin").
 
 **Merit-based SCHOLARSHIPS** are available for the incoming cohort that enters the programme in September 2010. One full-fees scholarship (EU or non-EU fees as relevant to the beneficiary) will be awarded for each Masters programme on offer in the Department. The Department will also offer a limited number of partial fee awards. For information on how to apply for these merit-based scholarships, please visit the [Admission Requirements and Application Procedure](http://www.tcd.ie/Political_Science/postgraduate/mscadmissions.php) website.
+

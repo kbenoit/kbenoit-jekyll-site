@@ -5,7 +5,7 @@ date: 2008-10-12T20:40:06+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=91
-permalink: /posts/validation-of-google-scholar-as-an-impact-measure-for-political-science/
+permalink: /validation-of-google-scholar-as-an-impact-measure-for-political-science/
 categories:
   - Latest research
 ---
@@ -26,3 +26,4 @@ categories:
 
 
 This figure shows the relationships between five different sources, taking in each case total citations: Google scholar, ISI, Scopus, ISI-CRS (books only) and ISI-CRS (all material).  ISI has been the most widely used source to date despite concerns about its coverage. We can see that its results correlate quite well with those form Scopus (0.73), and also with Google Scholar (0.69) but less well with the full ISI-CRS where the correlation is only 0.52. Most strikingly, it correlates at only 0.25 with the books only citations from ISI-CRS. Scopus provides pretty similar results, correlating modestly with ISI-CRS (total cites) and more strongly with Google Scholar, but also very poorly with the book only measure from ISI-CRS. It is very clear that measures based just on books will give different results to those based just on articles, although article based measures do correlate more highly with total measures than do book only measures, suggesting that a majority of citations are to articles.   The two most inclusive measures, Google Scholar and the full ISI-CRS, provide the highest correlation in the whole matrix, 0.84. In general the analysis here seems to "confirm"the worth of Google scholar. Not only does it correlate more highly with ISI and Scopus, but it also matches well with the total CRS citations (books and articles), suggesting that Google provides a valid aggregate measure that includes both books and articles.
+

@@ -5,7 +5,7 @@ date: 2008-04-09T15:07:43+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=20
-permalink: /posts/ranking-of-politics-scholarship-in-ireland-available/
+permalink: /ranking-of-politics-scholarship-in-ireland-available/
 categories:
   - Latest research
   - Macintosh
@@ -91,3 +91,4 @@ On June 4, President of the PSAI (Political Studies Association of Ireland) sent
     Neil Collins
 
 </address>
+

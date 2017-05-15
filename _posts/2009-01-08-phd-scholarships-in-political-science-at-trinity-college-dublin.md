@@ -5,7 +5,7 @@ date: 2009-01-08T16:25:54+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=240
-permalink: /posts/phd-scholarships-in-political-science-at-trinity-college-dublin/
+permalink: /phd-scholarships-in-political-science-at-trinity-college-dublin/
 categories:
   - Course-related
   - Uncategorized
@@ -29,3 +29,4 @@ We seek outstanding and motivated graduates for entry to our doctoral programme 
 Prospective students are encouraged to consult the webpages of members of staff (<http://www.tcd.ie/Political_Science/>), and to email individual staff members who could be potential supervisors for their Ph.D. dissertations. General enquiries may be directed to the Director of Graduate Studies, Dr. William Phelan (). Further details of the Ph.D. programme can be found at <http://www.tcd.ie/Political_Science/postgraduate/phdindex.php> 
 
 Applications for entry in September 2009 are now being taken, with a closing deadline of April 1st 2009. Students who require an early decision on their entry to the doctoral programme are encouraged to contact the Director of Graduate Studies.
+

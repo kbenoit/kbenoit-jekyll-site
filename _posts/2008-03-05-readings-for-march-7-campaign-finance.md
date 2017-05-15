@@ -5,7 +5,7 @@ date: 2008-03-05T14:08:23+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=19
-permalink: /posts/readings-for-march-7-campaign-finance/
+permalink: /readings-for-march-7-campaign-finance/
 categories:
   - Field Seminar
 ---
@@ -24,3 +24,4 @@ Recommended:
 [Kenneth Benoit and Michael Marsh. "The Campaign Value of Incumbency: A New Solution to the Puzzle of Less Effective Incumbent Spending."Trinity College manuscript.](http://www.kenbenoit.net/pdfs/cvi_7jan2008.pdf) 
 
 [Moon, Woojin. 2006. "The Paradox of Less Effective Incumbent Spending: Theory and Tests."_British Journal of Political Science_ 36: 705"721.](http://www.kenbenoit.net/pdfs/Moon_BJPS_2006.pdf)
+

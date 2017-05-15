@@ -5,7 +5,7 @@ date: 2008-12-03T15:32:25+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=147
-permalink: /posts/msc-modules-on-electoral-party-systems/
+permalink: /msc-modules-on-electoral-party-systems/
 categories:
   - Course-related
 tags:
@@ -28,3 +28,4 @@ As promised I have now posted the presentations from the weeks in **Government I
   - [My overview](http://www.tcd.ie/Political_Science/local/docs/Party%20Systems/Benoit%20Overview%20Party%20Systems.pdf)  
   - [Party systems](http://www.tcd.ie/Political_Science/local/docs/Party%20Systems/Party%20Systems.pdf)
   - [Party families](http://www.tcd.ie/Political_Science/local/docs/Party%20Systems/Party%20Families%20PP%20-%20Hood.pdf)
+

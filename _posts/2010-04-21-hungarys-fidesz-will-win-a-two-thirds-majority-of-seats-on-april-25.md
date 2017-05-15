@@ -5,7 +5,7 @@ date: 2010-04-21T06:29:35+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=713
-permalink: /posts/hungarys-fidesz-will-win-a-two-thirds-majority-of-seats-on-april-25/
+permalink: /hungarys-fidesz-will-win-a-two-thirds-majority-of-seats-on-april-25/
 categories:
   - Latest research
   - Uncategorized
@@ -21,3 +21,4 @@ Jobbik: 48 seats (12.4%)
 LMP: 16 seats (4.1%)
 
 I&#8217;ve written about this in more detail in [a post on the Monkey Cage blog](http://www.themonkeycage.org/2010/04/hungarian_election_prediction.html).
+

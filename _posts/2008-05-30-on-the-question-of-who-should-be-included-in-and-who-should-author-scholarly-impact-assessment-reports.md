@@ -5,7 +5,7 @@ date: 2008-05-30T09:34:44+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=25
-permalink: /posts/on-the-question-of-who-should-be-included-in-and-who-should-author-scholarly-impact-assessment-reports/
+permalink: /on-the-question-of-who-should-be-included-in-and-who-should-author-scholarly-impact-assessment-reports/
 categories:
   - Latest research
 ---
@@ -70,3 +70,4 @@ In other words, any other scholar would be able to reproduce these results using
 Turned around, would the report's conclusions be more credible if the two scholars at the bottom of the rankings had undertaken this exericise? Putting aside the fact that two scholars with zero citations on any ranking would never undertake such an exercise, as long as the method is public and can be replicated, the identity of the authors or position of the authors in the ranking should not be related to the conclusions drawn. In other words, the authors, whether from the bottom, top, or a randomly chosen position in the rankings, should reach exactly the same conclusions.
 
 We do agree however that it would be preferable from many standpoints - certainly from that of not attracting the ire of the bulk of the Irish political science community! - had an independent, third-party commission undertaken this review. But as far as we know, no such commission has been awarded or plans to be tendered for a stidy such as ours any time soon. This is no doubt why political scientists in Australasia and economists in Ireland and the Netherlands (see citations above) have conducted such studies themselves, just as we have.
+

@@ -27,3 +27,4 @@ Here&#8217;s a recent article published in the New York Times about [**R**](http
   A programming language’s versatility and its price (free) makes it a favorite of data analysts.
  [http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html?partner=permalink&exprod=permalink](http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html?partner=permalink&exprod=permalink)
 
+

@@ -5,7 +5,7 @@ date: 2008-04-05T21:12:32+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=21
-permalink: /posts/how-to-get-an-iphone-working-on-meteor-ireland/
+permalink: /how-to-get-an-iphone-working-on-meteor-ireland/
 categories:
   - Computers
   - Macintosh
@@ -29,3 +29,4 @@ This is my experience with getting an iPhone working with Ireland&#8217;s Meteor
       * Yes you do need to tur**n your phone off and turn it back on**. Before you do this, be sure to deactivate Wi-Fi if you have been using that, since otherwise you won&#8217;t be able to test the EDGE/GPRS function. Once you do that it should work! 
   5. **Things that still do not work:** 
       * **Voicemail.** Visual voicemail will probably never work, but there are ways to hack the phone so that the voicemail button calls Meteor voicemail. I am working on this too.
+

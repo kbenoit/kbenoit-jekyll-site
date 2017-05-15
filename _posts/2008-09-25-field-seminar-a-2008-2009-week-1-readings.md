@@ -5,7 +5,7 @@ date: 2008-09-25T11:37:24+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=68
-permalink: /posts/field-seminar-a-2008-2009-week-1-readings/
+permalink: /field-seminar-a-2008-2009-week-1-readings/
 categories:
   - Field Seminar
 ---
@@ -87,3 +87,4 @@ Kenneth Benoit and Michael Laver. 2006. _[**Party Policy in Modern Democracies**
 <!--EndFragment-->
 
 <!--EndFragment-->
+

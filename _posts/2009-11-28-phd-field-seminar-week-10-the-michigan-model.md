@@ -5,7 +5,7 @@ date: 2009-11-28T10:02:18+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=622
-permalink: /posts/phd-field-seminar-week-10-the-michigan-model/
+permalink: /phd-field-seminar-week-10-the-michigan-model/
 categories:
   - Field Seminar
 ---
@@ -27,3 +27,4 @@ A recent debate on party identification is Bartle and Bellucci&#8217;s edited vo
   * [Chapter 4 B. Grofman et al](https://www.tcd.ie/Political_Science/local/docs/Ch4.pdf)
   * [Chapter  6 Clark et al](https://www.tcd.ie/Political_Science/local/docs/Ch6.pdf)
   * [Chapter 11 Green and Schickler](https://www.tcd.ie/Political_Science/local/docs/Ch11.pdf) &#8211; a defence of TAV.
+

@@ -5,7 +5,7 @@ date: 2008-01-28T12:19:21+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=15
-permalink: /posts/readings-for-field-sem-a-autumn-2007/
+permalink: /readings-for-field-sem-a-autumn-2007/
 categories:
   - Field Seminar
 ---
@@ -28,3 +28,4 @@ Duverger, Maurice. 1986. &#8220;Duverger&#8217;s Law: Forty Years Later&#8221;. 
 Gallagher, Michael. 1991. &#8220;Proportionality, disproportionality, and electoral systems.&#8221; _Electoral Studies_ 10(1): 33-51. (photocopied)
 
 Ordeshook, Peter, and Olga Shvetsova. 1994. &#8220;Ethnic heterogeneity, district magnitude, and the number of parties.&#8221; _American Journal of Political Science_ 38(1): 100-123. (JSTOR)
+

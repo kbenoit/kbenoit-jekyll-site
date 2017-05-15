@@ -5,7 +5,7 @@ date: 2011-12-29T11:21:20+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=1018
-permalink: /posts/research-officer-quantess-ad/
+permalink: /research-officer-quantess-ad/
 categories:
   - Quantitative Methods
   - Uncategorized
@@ -43,3 +43,4 @@ To apply for this post please go to [www.lse.ac.uk/JobsatLSE](http://www.lse.ac.
 
 
 Closing date for receipt of applications is: 31 January 2012 by 23.59 (UK time).
+

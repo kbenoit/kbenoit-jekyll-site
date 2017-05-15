@@ -5,7 +5,7 @@ date: 2008-10-15T13:27:12+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=123
-permalink: /posts/tcd-political-science-on-a-par-with-best-of-britain/
+permalink: /tcd-political-science-on-a-par-with-best-of-britain/
 categories:
   - Latest research
 ---
@@ -51,3 +51,4 @@ Differences between departmental profiles can be summarized graphically using bo
 
 
 Different departments not only have different numbers of staff, they also have very different age profiles. Counting total citations clearly advantages departments with senior staff whose longer careers have provided more opportunity to accumulate citations. In the second box plot, we portray the profiles of departments according to productivity, on a linear scale, according to the Google Scholar citations per year. Essex, shown in gray, has a median that is all but indistinguishable from Trinity's.
+

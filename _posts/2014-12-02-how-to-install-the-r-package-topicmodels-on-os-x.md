@@ -5,7 +5,7 @@ date: 2014-12-02T20:10:21+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=1383
-permalink: /posts/how-to-install-the-r-package-topicmodels-on-os-x/
+permalink: /how-to-install-the-r-package-topicmodels-on-os-x/
 categories:
   - Uncategorized
 ---
@@ -29,3 +29,4 @@ Then install gsl using:
   If for some reason the second command fails, then try
 
         install.packages("http://cran.r-project.org/src/contrib/topicmodels_0.2-1.tar.gz", repos=NULL, type="source")
+

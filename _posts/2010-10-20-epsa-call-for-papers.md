@@ -5,7 +5,7 @@ date: 2010-10-20T15:37:16+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=867
-permalink: /posts/epsa-call-for-papers/
+permalink: /epsa-call-for-papers/
 categories:
   - Uncategorized
 ---
@@ -16,3 +16,4 @@ The recently formed [European Political Science Association](http://www.epsanet.
 Information on the conference and the **[online proposal system can be found here](http://www.epsanet.org/generalconference2011.html)**, and the EPSA website accepts [discounted early membership registration and payment here](http://www.epsanet.org/join.html).
 
 EPSA is also on [Facebook](http://www.facebook.com/pages/European-Political-Science-Association/130232720338287) and Twitter ([@europsa](http://www.twitter.com/europsa)) if you fancy those.
+

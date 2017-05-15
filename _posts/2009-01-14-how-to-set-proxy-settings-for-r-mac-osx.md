@@ -5,7 +5,7 @@ date: 2009-01-14T17:51:40+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=261
-permalink: /posts/how-to-set-proxy-settings-for-r-mac-osx/
+permalink: /how-to-set-proxy-settings-for-r-mac-osx/
 categories:
   - Macintosh
   - Statistics
@@ -24,3 +24,4 @@ Create a text file called .Rprofile in your home directory (on Mac OSX, this is 
 substituting your own username, password, and proxy server and port settings of course.
 
 It seems that running this from R before you need it does not work, since I have heard reports that it only works if you run it as the first command in R when you start a new R session. By setting this up in your `~/.Rprofile` you avoid having to retype it each time you start R, as well as making sure that this command is run at startup.
+

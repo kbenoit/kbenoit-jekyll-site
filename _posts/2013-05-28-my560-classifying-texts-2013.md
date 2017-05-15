@@ -5,7 +5,7 @@ date: 2013-05-28T12:37:01+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=1115
-permalink: /posts/my560-classifying-texts-2013/
+permalink: /my560-classifying-texts-2013/
 categories:
   - Course-related
 ---
@@ -14,3 +14,4 @@ Here are the slides and files from my &#8220;Introduction to Supervised Method
   * [Slides here](http://www.kenbenoit.net/pdfs/MY560_QTA2_Classification.pdf)
   * [Lab Exercise here](http://www.kenbenoit.net/pdfs/MY560_QTA2_Classification_Lab.pdf)
   * Files for lab exercise: [Movie Reviews](http://www.kenbenoit.net/files/moviereviews.zip) and the [amicus briefs](http://www.kenbenoit.net/files/amicuscuriae.zip)
+

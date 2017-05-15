@@ -5,7 +5,7 @@ date: 2015-01-23T10:49:27+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=1401
-permalink: /posts/statistical-learning-tcd2015/
+permalink: /statistical-learning-tcd2015/
 categories:
   - Course-related
 ---
@@ -117,3 +117,4 @@ categories:
 - [Exercise 4: Working with Textual Data](http://www.kenbenoit.net/courses/dmslTCD2015/Days5-6_Exercise.html).
 
 &nbsp;
+

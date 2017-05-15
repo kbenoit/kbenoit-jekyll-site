@@ -5,7 +5,7 @@ date: 2010-09-22T14:18:29+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=734
-permalink: /posts/next-stop-london-school-of-economics-and-political-science/
+permalink: /next-stop-london-school-of-economics-and-political-science/
 categories:
   - Uncategorized
 ---
@@ -17,4 +17,5 @@ I&#8217;ve accepted a position at the [London School of Economics and Political
   
     My workplace from Jan 2011
   
+
 

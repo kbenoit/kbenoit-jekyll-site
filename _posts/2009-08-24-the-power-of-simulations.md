@@ -5,7 +5,7 @@ date: 2009-08-24T09:57:13+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=454
-permalink: /posts/the-power-of-simulations/
+permalink: /the-power-of-simulations/
 categories:
   - Quantitative Methods
   - Statistics
@@ -18,4 +18,5 @@ This is very close to what we do in statistical sciences!
   
     Success through simulation
   
+
 

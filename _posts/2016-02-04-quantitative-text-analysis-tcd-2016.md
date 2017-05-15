@@ -5,7 +5,7 @@ date: 2016-02-04T21:48:30+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=1459
-permalink: /posts/quantitative-text-analysis-tcd-2016/
+permalink: /quantitative-text-analysis-tcd-2016/
 categories:
 - Course-related
 - Quantitative Methods
@@ -282,3 +282,4 @@ There is no rigid set of guidelines, but you should use a Chicago manual of styl
 
 
 30 April 2016, 5pm, by email to [kbenoit@tcd.ie](mailto:kbenoit@tcd.ie).
+

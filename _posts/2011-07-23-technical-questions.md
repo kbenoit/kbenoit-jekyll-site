@@ -5,7 +5,7 @@ date: 2011-07-23T12:01:08+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=1004
-permalink: /posts/technical-questions/
+permalink: /technical-questions/
 categories:
   - Uncategorized
 ---
@@ -16,3 +16,4 @@ Just finished teaching at the Essex Summer School in Data Analysis, Session 1. G
 
 
 Technical questions
+

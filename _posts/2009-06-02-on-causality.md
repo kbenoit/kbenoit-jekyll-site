@@ -5,7 +5,7 @@ date: 2009-06-02T13:23:13+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=422
-permalink: /posts/on-causality/
+permalink: /on-causality/
 categories:
   - Quantitative Methods
   - Statistics
@@ -36,4 +36,5 @@ tags:
 
 
    
+
 

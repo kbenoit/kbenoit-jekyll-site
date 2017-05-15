@@ -5,7 +5,7 @@ date: 2010-01-13T10:33:36+00:00
 author: Ken
 layout: single
 guid: http://www.kenbenoit.net/?p=635
-permalink: /posts/field-seminar-b-2009-2010-spring-weeks-1-and-2/
+permalink: /field-seminar-b-2009-2010-spring-weeks-1-and-2/
 categories:
   - Uncategorized
 ---
@@ -99,3 +99,4 @@ Interviewing techniques " Compiled by Adriana Bunea
 
 
   Craig D. Murray and Judith Sixsmith. 2003. 'E-mail: A Qualitative Research Medium for Interviewing?' in _Interviewing _Sage Benchmarks in Social Research Methods Vol. 2. Ed. Nigel Fielding. London: Sage. 128-148.
+
