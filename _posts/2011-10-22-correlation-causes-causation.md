@@ -10,7 +10,7 @@ categories:
   - Uncategorized
 ---
 
-  A brilliant cartoon from [Craphound](http://craphound.com/):
+A brilliant cartoon from [Craphound](http://craphound.com/):
 
 
 <img class="alignleft" title="Correlation causes causation, from Craphound.com" src="http://craphound.com/images/2010-09-27-Correlation-Loves-Causation.png.jpg" alt="" width="500" height="505" />
