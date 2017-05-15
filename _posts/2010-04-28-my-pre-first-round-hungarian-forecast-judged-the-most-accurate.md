@@ -11,6 +11,6 @@ categories:
 ---
 You have to be able to read Hungarian, but here is the story:
 
-****&#8220;[A Republikoné és a Századvégé volt a legpontosabb mandátumbecslés&#8221;](http://index.hu/belfold/2010/valasztas/a_republikon_intezete_es_a_szazadvege_volt_a_legpontosabb_mandatumbecsles/)****
+**&#8220;[A Republikoné és a Századvégé volt a legpontosabb mandátumbecslés&#8221;](http://index.hu/belfold/2010/valasztas/a_republikon_intezete_es_a_szazadvege_volt_a_legpontosabb_mandatumbecsles/)**
 
 **Don&#8217;t read Hungarian? Try <http://translate.google.ie/?hl=en&tab=wT#hu|en|>.**

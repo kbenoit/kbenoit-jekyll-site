@@ -9,38 +9,37 @@ permalink: /posts/field-seminar-a-2008-2009-week-1-readings/
 categories:
   - Field Seminar
 ---
-<!--StartFragment-->
+
 
 **Note:** The latest version of the course handout is available from <http://www.tcd.ie/Political_Science/postgraduate/phdtaught.php>. That version lacks the hyperlinks to the readings below, however.
 
-<!--StartFragment-->The
-
- **meeting time and place** is Friday 10-13:00, College Green 4, starting 3 October 2008. In practice the actual length of the Seminar will depend on the instructor, and typically will run from 10-12:00 only. While I am the coordinator for the course, the weekly seminars are led by a rotating set of staff from Political Science  
-
-### **Week 1 &#8211; 3 Oct 2008 &#8211; Ken Benoit â€“ Policy Positions and Policy Spaces**
-
-Kenneth Benoit and Michael Laver. 2006. _[**Party Policy in Modern Democracies**](http://www.politics.tcd.ie/ppmd/)_. London: Routledge, 2006. Wiesehomeier, Nina and Kenneth Benoit.â€œPresidents, Parties And Policy Competition.â€ University of Konstanz and Trinity College Dublin manuscript. [**Version: July 7, 2008.**](http://www.kenbenoit.net/pdfs/PPPC_LatinAm_7july2008.pdf)
-
-<!--StartFragment-->
-
-### Week 2 &#8211; 10 Oct &#8211; Ken Benoit â€“ Electoral System Origins
-
-<!--StartFragment-->
+The **meeting time and place** is Friday 10-13:00, College Green 4, starting 3 October 2008. In practice the actual length of the Seminar will depend on the instructor, and typically will run from 10-12:00 only. While I am the coordinator for the course, the weekly seminars are led by a rotating set of staff from Political Science  
 
 
-  Kenneth Benoit. 2007. â€œ[Electoral Laws as Political Consequences: Explaining the Origins and Change of Electoral Institutions](http://arjournals.annualreviews.org/doi/pdf/10.1146/annurev.polisci.10.072805.101608).â€ _Annual Review of Political Science_ 10: 363-90.
+### Week 1 &#8211; 3 Oct 2008 &#8211; Ken Benoit - Policy Positions and Policy Spaces
+
+Kenneth Benoit and Michael Laver. 2006. _[**Party Policy in Modern Democracies**](http://www.politics.tcd.ie/ppmd/)_. London: Routledge, 2006. Wiesehomeier, Nina and Kenneth Benoit."Presidents, Parties And Policy Competition."University of Konstanz and Trinity College Dublin manuscript. [**Version: July 7, 2008.**](http://www.kenbenoit.net/pdfs/PPPC_LatinAm_7july2008.pdf)
 
 
 
-  Boix, C. 1999. â€œ[Setting the rules of the game: The choice of electoral systems in advanced democracies](http://www.tcd.ie/Political_Science/local/docs/boix_1999_apsr.pdf).â€ _American Political Science Review_ 93 (3): 609-624.
+### Week 2 &#8211; 10 Oct &#8211; Ken Benoit - Electoral System Origins
 
 
 
-  Andrews, Josephine and Robert Jackman. 2005. â€œ[Strategic Fools: Electoral rule choice under extreme uncertainty](http://www.tcd.ie/Political_Science/local/docs/andrews_jackman_2005_elstud.pdf).â€ _Electoral Studies_ 24: 65-84.
+
+  Kenneth Benoit. 2007. "[Electoral Laws as Political Consequences: Explaining the Origins and Change of Electoral Institutions](http://arjournals.annualreviews.org/doi/pdf/10.1146/annurev.polisci.10.072805.101608)."_Annual Review of Political Science_ 10: 363-90.
 
 
 
-  Colomer, Josep M. (2004). &#8220;[The Strategy and History of Electoral System Choice](http://www.tcd.ie/Political_Science/local/docs/Colomer_ElectSysChoice.pdf).&#8221; In Josep M. Colomer (Ed.), _Handbook of Electoral System Choice_, pp. 3â€“78. New York: Palgrave Macmillan. (photocopied)
+  Boix, C. 1999. "[Setting the rules of the game: The choice of electoral systems in advanced democracies](http://www.tcd.ie/Political_Science/local/docs/boix_1999_apsr.pdf)."_American Political Science Review_ 93 (3): 609-624.
+
+
+
+  Andrews, Josephine and Robert Jackman. 2005. "[Strategic Fools: Electoral rule choice under extreme uncertainty](http://www.tcd.ie/Political_Science/local/docs/andrews_jackman_2005_elstud.pdf)."_Electoral Studies_ 24: 65-84.
+
+
+
+  Colomer, Josep M. (2004). &#8220;[The Strategy and History of Electoral System Choice](http://www.tcd.ie/Political_Science/local/docs/Colomer_ElectSysChoice.pdf).&#8221; In Josep M. Colomer (Ed.), _Handbook of Electoral System Choice_, pp. 3"78. New York: Palgrave Macmillan. (photocopied)
 
 
 
@@ -48,19 +47,19 @@ Kenneth Benoit and Michael Laver. 2006. _[**Party Policy in Modern Democracies**
 
 
 
-  2004. Benoit, Kenneth and Jacqueline Hayden. â€œ[Institutional Change and Persistence: The Evolution of Poland&#8217;s Electoral System 1989-2001](http://www.kenbenoit.net/pdfs/BenoitHayden_JOP2004.pdf).â€ _Journal of Politics _66 (May, 2): 396-427.
+  2004. Benoit, Kenneth and Jacqueline Hayden. "[Institutional Change and Persistence: The Evolution of Poland&#8217;s Electoral System 1989-2001](http://www.kenbenoit.net/pdfs/BenoitHayden_JOP2004.pdf)."_Journal of Politics _66 (May, 2): 396-427.
 
 
 
-  <!--StartFragment-->
 
 
-### Week 3 &#8211; 17 Oct &#8211; Ken Benoit â€“ Electoral System Consequences
 
-<!--StartFragment-->
+### Week 3 &#8211; 17 Oct &#8211; Ken Benoit - Electoral System Consequences
 
 
-  Gallagher, Michael and Paul Mitchell. 2005. â€œ[Introduction to Electoral Systems](http://www.tcd.ie/Political_Science/local/docs/01-Gallagher-chap01.pdf).â€ In Michael Gallagher and Paul Mitchell, eds., _The Politics of Electoral Systems_. Oxford: Oxford University Press. pp3-24.
+
+
+  Gallagher, Michael and Paul Mitchell. 2005. "[Introduction to Electoral Systems](http://www.tcd.ie/Political_Science/local/docs/01-Gallagher-chap01.pdf)."In Michael Gallagher and Paul Mitchell, eds., _The Politics of Electoral Systems_. Oxford: Oxford University Press. pp3-24.
 
 
 
@@ -68,7 +67,7 @@ Kenneth Benoit and Michael Laver. 2006. _[**Party Policy in Modern Democracies**
 
 
 
-  Duverger, Maurice. 1959. _Political parties: Their organization and activity in the modern state_. Second English Revised ed. London: Methuen & Co. Book II, Chapter 1, â€œThe Number of Parties.â€ Also see [this related reading](olitical_Science/local/docs/olitical_Science/local/docs/Duverger_InfOfElectSys.pdf).
+  Duverger, Maurice. 1959. _Political parties: Their organization and activity in the modern state_. Second English Revised ed. London: Methuen & Co. Book II, Chapter 1, "The Number of Parties."Also see [this related reading](olitical_Science/local/docs/olitical_Science/local/docs/Duverger_InfOfElectSys.pdf).
 
 
 

@@ -19,7 +19,7 @@ Following the initiation of my [research project on citations with Michael Marsh
 
 **Q: Is it the prerogative of an _individual scholar_ to &ldquo;opt out&rdquo; of the exercise?**
 
-**m A: No. Our data comes from publicly available sources on _public_ations, also by definition (and etymology) public, and anyone has the right to analyze these._**
+**A: No. Our data comes from publicly available sources on _public_ations, also by definition (and etymology) public, and anyone has the right to analyze these._**
 
 First, the research was conducted on the basis of publicly available data, and anyone has the right to analyze these data. Just as no TD could demand to be omitted from a study of legislative activity based on openly published data, individual scholars employed at public universities in Ireland have no basis on which to demand to be omitted from the exercise. We might add here that, much like other public servants, the scholars included in our exercise are all permanent employees with very secure employment, in a higher-education sector that is among the best-paid and best-pensioned in the world. Second, as a profile of research impact in Ireland, the analysis would be invalidated as a comparison of scholarship if those included were selected according to their levels of impact. (Since those with the lowest measured impact have the greatest incentive to be omitted from the exercise, this is exactly what we suspect would happen.) So unless we held a purely randomly drawn lottery to remove individual scholars, allowing (self-)selected opt-outs would invalidate our exercise.
 
@@ -46,15 +46,9 @@ Hix, Simon. 2004. &#8220;A global ranking of political science departments.&#822
 As well as in **Ireland specifically** (including economics):
 
 
-  Elgie, Robert and Iain Mcmenamin. 2008. &ldquo;Journal Publications From Politics Departments In Ireland 2003-2007: An Update Using The Hix Method.&rdquo; Dublin City University Manuscript.
-
-
-
-  Rouane, Frances and Richard S. J. Tol. 2007. &ldquo;Centres of Research Excellence in Economics in the Republic of Ireland.&rdquo; _Economic and Social Review_ 38(3, Winter): 289-322.
-
-
-
-  Coup, Tom and Patrick Paul Walsh. 2003. &ldquo;Quality Based Rankings of Irish Economists 1990-2000.&rdquo; _Economic and Social Review_ 34(2, Summer/Autumn): 145-149.
+  - Elgie, Robert and Iain Mcmenamin. 2008. &ldquo;Journal Publications From Politics Departments In Ireland 2003-2007: An Update Using The Hix Method.&rdquo; Dublin City University Manuscript.
+  - Rouane, Frances and Richard S. J. Tol. 2007. &ldquo;Centres of Research Excellence in Economics in the Republic of Ireland.&rdquo; _Economic and Social Review_ 38(3, Winter): 289-322.
+  - Coup, Tom and Patrick Paul Walsh. 2003. &ldquo;Quality Based Rankings of Irish Economists 1990-2000.&rdquo; _Economic and Social Review_ 34(2, Summer/Autumn): 145-149.
 
 
 **Q: Should our review exclude departments outside the Republic of Ireland?**
@@ -67,9 +61,9 @@ Previous studies (e.g. Hix 2004, Dale and Goldfinch 2005) have compared departme
 
 A sensible question arises with regard to whether any ranking of individual political scientists is meaningful in a selected international context, and here we would tend to agree that either the context should be restricted to a meaningful boundary for inclusion, or broadened to a Europe-wide or fully international focus.
 
-**Q: Does the fact that the authors appear at the top of the rankings in their own paper not impugn the credibility of the exercise?
+**Q: Does the fact that the authors appear at the top of the rankings in their own paper not impugn the credibility of the exercise?**
 
-A: It should not, because the rankings are based on completely open, publicly available criteria, and not created, manipulated, transformed, or selectively applied by the authors.**
+**A: It should not, because the rankings are based on completely open, publicly available criteria, and not created, manipulated, transformed, or selectively applied by the authors.**
 
 In other words, any other scholar would be able to reproduce these results using the methods which we have carefully and explicitly detailed in our draft paper, and also publicly listed in order that others might also verify that the authors' citation rates are what they claim. We welcome any scrutiny in this regard.
 

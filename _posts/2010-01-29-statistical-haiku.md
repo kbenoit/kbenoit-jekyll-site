@@ -12,9 +12,6 @@ categories:
 See [Keisuke Hirano&#8217;s Haiku page](http://www.u.arizona.edu/~hirano/haiku.html). Here is one of my favorites:
 
 
-  T-stat looks too good.
- Use robust standard errors&#8211;
+  T-stat looks too good.  
+ Use robust standard errors&#8211;  
  significance gone.
-
-
-

@@ -23,18 +23,8 @@ As promised I have now posted the presentations from the weeks in **Government I
   * [Electoral systems and womens&#8217; representation](http://www.tcd.ie/Political_Science/local/docs/Electoral%20Systems/womens_representation.pdf)
 
 
-  **Week 7 Political parties and party systems:**
+**Week 7 Political parties and party systems:**
 
-
-
-  
-    - [My overview](http://www.tcd.ie/Political_Science/local/docs/Party%20Systems/Benoit%20Overview%20Party%20Systems.pdf)
-    
-    - [Party systems](http://www.tcd.ie/Political_Science/local/docs/Party%20Systems/Party%20Systems.pdf)
-    
-    - [Party families](http://www.tcd.ie/Political_Science/local/docs/Party%20Systems/Party%20Families%20PP%20-%20Hood.pdf)
-    
-  
-
-
-<!--StartFragment-->
+  - [My overview](http://www.tcd.ie/Political_Science/local/docs/Party%20Systems/Benoit%20Overview%20Party%20Systems.pdf)  
+  - [Party systems](http://www.tcd.ie/Political_Science/local/docs/Party%20Systems/Party%20Systems.pdf)
+  - [Party families](http://www.tcd.ie/Political_Science/local/docs/Party%20Systems/Party%20Families%20PP%20-%20Hood.pdf)

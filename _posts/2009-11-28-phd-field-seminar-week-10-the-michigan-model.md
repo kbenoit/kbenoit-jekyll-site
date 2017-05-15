@@ -17,7 +17,7 @@ A sympathetic  but contemporary restatement is M. Lewis-Beck at al, The America
 
 For Ireland
 
-Michael Marsh, Party identification in Ireland An insecure anchor for a floating party systemâ€™, Electoral Studies, 25, (3), 2006, p489 &#8211; 508
+Michael Marsh, Party identification in Ireland An insecure anchor for a floating party system', Electoral Studies, 25, (3), 2006, p489 &#8211; 508
   
 [available from INES page at [www.tcd.ie/ines]](http://www.tcd.ie/ines/)
 
