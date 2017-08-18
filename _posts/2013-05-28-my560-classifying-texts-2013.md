@@ -11,7 +11,7 @@ categories:
 ---
 Here are the slides and files from my &#8220;Introduction to Supervised Methods for Classifying and Scaling Texts&#8221; workshop in our MY560 series from May 28, 2013.
 
-  * [Slides here](http://www.kenbenoit.net/pdfs/MY560_QTA2_Classification.pdf)
-  * [Lab Exercise here](http://www.kenbenoit.net/pdfs/MY560_QTA2_Classification_Lab.pdf)
+  * [Slides here](/assets/files/pdfs/MY560_QTA2_Classification.pdf)
+  * [Lab Exercise here](/assets/files/pdfs/MY560_QTA2_Classification_Lab.pdf)
   * Files for lab exercise: [Movie Reviews](http://www.kenbenoit.net/files/moviereviews.zip) and the [amicus briefs](http://www.kenbenoit.net/files/amicuscuriae.zip)
 

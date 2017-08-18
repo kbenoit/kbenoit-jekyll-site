@@ -10,7 +10,7 @@ categories:
   - Latest research
 ---
 
-  The paper I wrote last year with Michael Marsh, &#8220;[**A Relative Impact Ranking of Political Studies in Ireland**](http://www.kenbenoit.net/pdfs/RIRPSI_final_corrected.pdf) will be published in the 3rd issue of _Economic and Social Review_. A corrected manuscript can be downloaded by clicking on the title.
+  The paper I wrote last year with Michael Marsh, &#8220;[**A Relative Impact Ranking of Political Studies in Ireland**](/assets/files/pdfs/RIRPSI_final_corrected.pdf) will be published in the 3rd issue of _Economic and Social Review_. A corrected manuscript can be downloaded by clicking on the title.
 
 
 

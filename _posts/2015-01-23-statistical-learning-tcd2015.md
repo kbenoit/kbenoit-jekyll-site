@@ -113,7 +113,7 @@ categories:
 
 - Readings:
   * Grimmer, J, and B M Stewart. 2013. &#8220;Text as Data: the Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.&#8221; 21(3): 267–97.
-  * Benoit, Kenneth and Alexander Herzog. In press. &#8220;[Text Analysis: Estimating Policy Preferences From Written and Spoken Words](http://www.kenbenoit.net/pdfs/HerzogBenoit_bookchapter.pdf).&#8221; In _Analytics, Policy and Governance_, eds. Jennifer Bachner, Kathyrn Wagner Hill, and Benjamin Ginsberg.
+  * Benoit, Kenneth and Alexander Herzog. In press. &#8220;[Text Analysis: Estimating Policy Preferences From Written and Spoken Words](/assets/files/pdfs/HerzogBenoit_bookchapter.pdf).&#8221; In _Analytics, Policy and Governance_, eds. Jennifer Bachner, Kathyrn Wagner Hill, and Benjamin Ginsberg.
 - [Exercise 4: Working with Textual Data](http://www.kenbenoit.net/courses/dmslTCD2015/Days5-6_Exercise.html).
 
 &nbsp;
