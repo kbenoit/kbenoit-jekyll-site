@@ -15,7 +15,7 @@ categories:
 
 5 February, 12 February, 11 March, 18 March.
 
-## [Course Handout](http://www.kenbenoit.net/courses/tcd2016qta/QTA_TCD_syllabus_2016.pdf)
+## [Course Handout](/assets/courses/tcd2016qta/QTA_TCD_syllabus_2016.pdf)
 
 ## Short Outline
 
@@ -30,7 +30,7 @@ The course is also designed to cover many fundamental issues in quantitative tex
 
 
 ## Detailed  Course Schedule
-### [Session 1: Introduction and Issues in quantitative text analysis](http://www.kenbenoit.net/courses/tcd2016qta/QTA_TCD_Day1.pdf)
+### [Session 1: Introduction and Issues in quantitative text analysis](/assets/courses/tcd2016qta/QTA_TCD_Day1.pdf)
 
 This session will cover fundamentals, including the continuum from traditional (non-computer assisted) content analysis to fully automated quantitative text analysis. We will cover the conceptual foundations of content analysis and quantitative content analysis, discuss the objectives, the approach to knowledge, and the particular view of texts when performing quantitative analysis. We will also discuss issues including where to obtain textual data; formatting and working with text files; indexing and meta-data; units of analysis; and definitions of features and measures commonly extracted from texts, including stemming, and stop-words.
 #### Required Reading:
@@ -72,10 +72,10 @@ This session will cover fundamentals, including the continuum from traditional 
 
 **Resources:**
 
-* [Exercise 1: Working with Texts in quanteda](http://www.kenbenoit.net/courses/tcd2016qta/exercise1.html)
-* _[Exercise 1 solution](http://www.kenbenoit.net/courses/tcd2016qta/exercise1_answers.html)_
-* [Example code for Week 1](http://www.kenbenoit.net/courses/tcd2016qta/day1examples.R) (using [quanteda](http://github.com/kbenoit/quanteda)).
-###**[Session 2: Quantitative methods for comparing texts](http://www.kenbenoit.net/courses/tcd2016qta/QTA_TCD_Day2.pdf)**
+* [Exercise 1: Working with Texts in quanteda](/assets/courses/tcd2016qta/exercise1.html)
+* _[Exercise 1 solution](/assets/courses/tcd2016qta/exercise1_answers.html)_
+* [Example code for Week 1](/assets/courses/tcd2016qta/day1examples.R) (using [quanteda](http://github.com/kbenoit/quanteda)).
+###**[Session 2: Quantitative methods for comparing texts](/assets/courses/tcd2016qta/QTA_TCD_Day2.pdf)**
 
 
 Here we focus on quantitative methods for describing texts, focusing on summary measures that highlight particular characteristics of documents and allowing these to be compared. These meth- ods include characterizing texts through concordances, co-occurrences, and keywords in context; complexity and readability measures; and an in-depth discussion of text types, tokens, and equiv- alencies. We will also discuss weighting strategies for features, such as tf-idf. The emphasis will be on comparing texts, through concordances and keyword identification, dissimilarity measures, association models, and vector-space models.
@@ -100,16 +100,16 @@ Here we focus on quantitative methods for describing texts, focusing on summary 
 
 
 
-- [Exercise 2: Describing and comparing texts and their features](http://www.kenbenoit.net/courses/tcd2016qta/exercise2.html)
+- [Exercise 2: Describing and comparing texts and their features](/assets/courses/tcd2016qta/exercise2.html)
 
-- _[Exercise 2 solution](http://www.kenbenoit.net/courses/tcd2016qta/exercise2_solution.html)_
+- _[Exercise 2 solution](/assets/courses/tcd2016qta/exercise2_solution.html)_
 
-- [Example code for Week 2](http://www.kenbenoit.net/courses/tcd2016qta/day2examples.R)
-
-
+- [Example code for Week 2](/assets/courses/tcd2016qta/day2examples.R)
 
 
-### [Session 3: Automated dictionary-based approaches](http://www.kenbenoit.net/courses/tcd2016qta/QTA_TCD_Day3.pdf)
+
+
+### [Session 3: Automated dictionary-based approaches](/assets/courses/tcd2016qta/QTA_TCD_Day3.pdf)
 
 
 
@@ -149,11 +149,11 @@ Automatic dictionary-based methods involve association of pre-defined word lists
 
 
 - [Exercise 3: Applying, modifying, and creating dictionaries for the analysis of political texts.
- (](http://www.kenbenoit.net/courses/tcd2016qta/exercise3.html)and the [.Rmd source](http://www.kenbenoit.net/courses/tcd2016qta/exercise3.Rmd) for those who would like to use it as a template for their answers)
+ (](/assets/courses/tcd2016qta/exercise3.html)and the [.Rmd source](/assets/courses/tcd2016qta/exercise3.Rmd) for those who would like to use it as a template for their answers)
 
 - _Exercise 3 solution_
 
-- [Example code for Week 3](http://www.kenbenoit.net/courses/tcd2016qta/day3examples.R)
+- [Example code for Week 3](/assets/courses/tcd2016qta/day3examples.R)
 
 
 
@@ -164,7 +164,7 @@ Automatic dictionary-based methods involve association of pre-defined word lists
 
 
 
-###  [Session 4: Machine Learning for Texts](http://www.kenbenoit.net/courses/tcd2016qta/QTA_TCD_Day4.pdf)
+###  [Session 4: Machine Learning for Texts](/assets/courses/tcd2016qta/QTA_TCD_Day4.pdf)
 
 
 Classification methods permit the automatic classification of texts in a test set following machine learning from a training set. We will introduce machine learning methods for classifying documents, including one of the most popular classifiers, the Naive Bayes model. The topic also introduces validation and reporting methods for classifiers and discusses where these methods are applicable. Building on the Naive Bayes classifier, we introduce the “Wordscores” method of Laver, Benoit and Garry (2003) for scaling latent traits, and show the link between classification and scaling. We also cover applications of penalized regression to score and scale texts.
@@ -217,11 +217,11 @@ Classification methods permit the automatic classification of texts in a test se
 
 
 
-- [Exercise 4: Classifying legal documents and legislative speeches.](http://www.kenbenoit.net/courses/tcd2016qta/exercise4.html)
+- [Exercise 4: Classifying legal documents and legislative speeches.](/assets/courses/tcd2016qta/exercise4.html)
 
 - _Exercise 4 solution_
 
-- [Example code for Week 4](http://www.kenbenoit.net/courses/tcd2016qta/day4examples.R)
+- [Example code for Week 4](/assets/courses/tcd2016qta/day4examples.R)
 
 
 

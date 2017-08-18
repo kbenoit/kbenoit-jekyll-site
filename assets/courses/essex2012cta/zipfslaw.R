@@ -1,0 +1,5 @@
+wfm <- read.csv("budget_2010.csv")
+wfreqs <- apply(wfm[,-1], 2, sum)
+wfreqs <- sort(wfreqs, decreasing=TRUE)
+lm(log(wfreqs[1:1000]) ~ log(1:1000))
+plot(log(wfreqs[1:1000]) ~ log((1:1000)))

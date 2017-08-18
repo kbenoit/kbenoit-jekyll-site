@@ -30,7 +30,7 @@ categories:
 
 **Detailed Schedule**
 
-**Day 1 [Working with data and data structures](http://www.kenbenoit.net/courses/dmslTCD2015/Day1_Data.pdf)**
+**Day 1 [Working with data and data structures](/assets/courses/dmslTCD2015/Day1_Data.pdf)**
 
 (Mon 9 Feb, 14:00-16:30, Room 201 Pheonix House)
 
@@ -40,10 +40,10 @@ categories:
   * [Introduction to SQL](http://www.sqlcourse.com)
   * [Introduction to reshape2](http://seananderson.ca/2013/10/19/reshape.html)
   * [A non-programmer&#8217;s introduction to JSON](A%20Non-Programmer's Introduction to JSON)
-- [Exercise 1](http://www.kenbenoit.net/courses/dmslTCD2015/Day1_Exercise.html "Exercise 1"), due Wed Mar 25. [Answer key here](http://www.kenbenoit.net/courses/dmslTCD2015/Day1_Exercise_Answers.html).
+- [Exercise 1](/assets/courses/dmslTCD2015/Day1_Exercise.html "Exercise 1"), due Wed Mar 25. [Answer key here](/assets/courses/dmslTCD2015/Day1_Exercise_Answers.html).
 
 
-**Day 2 [Rethinking regression as a predictive tool](http://www.kenbenoit.net/courses/dmslTCD2015/Day2_Regression.pdf)**
+**Day 2 [Rethinking regression as a predictive tool](/assets/courses/dmslTCD2015/Day2_Regression.pdf)**
 (Wed 25 Mar, 10:00-12:30, Arts Block 3025)
 
 
@@ -58,7 +58,7 @@ categories:
 - Exercises: None, due to the short week, prediction methods will be rolled into the exercise for week 3.
 
 
-**Day 3 [Introduction to machine learning](http://www.kenbenoit.net/courses/dmslTCD2015/Day3_ML.pdf)**
+**Day 3 [Introduction to machine learning](/assets/courses/dmslTCD2015/Day3_ML.pdf)**
  (Mon 2 Mar, 14:00-16:30, 206 Pheonix House)
 
 
@@ -71,10 +71,10 @@ categories:
   * Manning, Raghavan and Schütze (2008, Ch. 13)
   * Evans et al. (2007)
   * Statsoft, “Naive Bayes Classifier Introductory Overview,” [http://www.statsoft.com/textbook/ naive-bayes-classifier/](http://www.statsoft.com/textbook/%20naive-bayes-classifier/).
-- [Exercise 2: Machine Learning and Prediction](http://www.kenbenoit.net/courses/dmslTCD2015/Days2-3_Exercise.html). Answer set [here](http://www.kenbenoit.net/courses/dmslTCD2015/Days2-3_Exercise_Answers.html).
+- [Exercise 2: Machine Learning and Prediction](/assets/courses/dmslTCD2015/Days2-3_Exercise.html). Answer set [here](/assets/courses/dmslTCD2015/Days2-3_Exercise_Answers.html).
 
 
-**Day 4 [Shrinkage methods](http://www.kenbenoit.net/courses/dmslTCD2015/Day4_Shrinkage.pdf)**
+**Day 4 [Shrinkage methods](/assets/courses/dmslTCD2015/Day4_Shrinkage.pdf)**
  (Mon 9 Mar, 14:00-16:30, 206 Pheonix House)
 
 
@@ -89,7 +89,7 @@ categories:
     2. Following the worked examples from James et al Ch. 6, do Problem 9 from p263 using the College dataset. You can get this from the &#8220;ISLR&#8221; package.
 
 
-**Day 5 [Unsupervised learning](http://www.kenbenoit.net/courses/dmslTCD2015/Day5_Unsupervised.pdf)**
+**Day 5 [Unsupervised learning](/assets/courses/dmslTCD2015/Day5_Unsupervised.pdf)**
  (Mon 16 Mar, 14:00-16:30,Aras an Phiarsigh Room 2.04)
 
 -   Principal components, clustering methods.
@@ -105,7 +105,7 @@ categories:
 -       Weller, Susan C, and A Kimball Romney. 1990. _Metric Scaling: Correspondence Analysis_. Sage.
 
 
-**Day 6 [Working with text](http://www.kenbenoit.net/courses/dmslTCD2015/Day6_Text.pdf)**
+**Day 6 [Working with text](/assets/courses/dmslTCD2015/Day6_Text.pdf)**
  (Mon 23 Mar, 14:00-16:30, Room 201 Pheonix House)
 
 
@@ -114,7 +114,7 @@ categories:
 - Readings:
   * Grimmer, J, and B M Stewart. 2013. &#8220;Text as Data: the Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.&#8221; 21(3): 267–97.
   * Benoit, Kenneth and Alexander Herzog. In press. &#8220;[Text Analysis: Estimating Policy Preferences From Written and Spoken Words](/assets/files/pdfs/HerzogBenoit_bookchapter.pdf).&#8221; In _Analytics, Policy and Governance_, eds. Jennifer Bachner, Kathyrn Wagner Hill, and Benjamin Ginsberg.
-- [Exercise 4: Working with Textual Data](http://www.kenbenoit.net/courses/dmslTCD2015/Days5-6_Exercise.html).
+- [Exercise 4: Working with Textual Data](/assets/courses/dmslTCD2015/Days5-6_Exercise.html).
 
 &nbsp;
 
