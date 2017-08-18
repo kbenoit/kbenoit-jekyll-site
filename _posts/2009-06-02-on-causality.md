@@ -13,7 +13,7 @@ tags:
   - causality
 ---
 
-  <img class="size-full wp-image-423 aligncenter" title="correlation" src="http://www.kenbenoit.net/wp-content/uploads/2009/06/correlation.png" alt="correlation" width="459" height="185" srcset="http://www.kenbenoit.net/wp-content/uploads/2009/06/correlation.png 459w, http://www.kenbenoit.net/wp-content/uploads/2009/06/correlation-300x120.png 300w" sizes="(max-width: 459px) 100vw, 459px" />
+  <img class="size-full wp-image-423 aligncenter" title="correlation" src="/assets/images/correlation.png" alt="correlation" width="459" height="185" srcset="/assets/images/correlation.png 459w, /assets/images/correlation-300x120.png 300w" sizes="(max-width: 459px) 100vw, 459px" />
 
 
 

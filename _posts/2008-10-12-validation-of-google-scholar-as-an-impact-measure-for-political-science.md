@@ -18,7 +18,7 @@ categories:
 
 
 
-  [<img class="size-full wp-image-108" title="Inter-measure Correlations of Citation Counts" src="http://www.kenbenoit.net/wp-content/uploads/2008/10/figure_intermeasurecorrelations1.png" alt="Inter-measure Correlations of Citation Counts" width="500" height="500" srcset="http://www.kenbenoit.net/wp-content/uploads/2008/10/figure_intermeasurecorrelations1.png 1440w, http://www.kenbenoit.net/wp-content/uploads/2008/10/figure_intermeasurecorrelations1-150x150.png 150w, http://www.kenbenoit.net/wp-content/uploads/2008/10/figure_intermeasurecorrelations1-300x300.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://www.kenbenoit.net/wp-content/uploads/2008/10/figure_intermeasurecorrelations1.png)
+  [<img class="size-full wp-image-108" title="Inter-measure Correlations of Citation Counts" src="/assets/images/figure_intermeasurecorrelations1.png" alt="Inter-measure Correlations of Citation Counts" width="500" height="500" srcset="/assets/images/figure_intermeasurecorrelations1.png 1440w, /assets/images/figure_intermeasurecorrelations1-150x150.png 150w, /assets/images/figure_intermeasurecorrelations1-300x300.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](/assets/images/figure_intermeasurecorrelations1.png)
 
 
 ##### Inter-measure Correlations of Citation Counts

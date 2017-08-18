@@ -25,7 +25,7 @@ We found in our analysis that in per capita terms, Essex was ahead of TCD, but j
 
 
 
-[<img class="alignncenter size-full wp-image-125" title="figure_googlexdept" src="http://www.kenbenoit.net/wp-content/uploads/2008/10/figure_googlexdept.png" alt="Boxplot of overall impact by department, measured as total Google citations" width="500" height="444" srcset="http://www.kenbenoit.net/wp-content/uploads/2008/10/figure_googlexdept.png 1296w, http://www.kenbenoit.net/wp-content/uploads/2008/10/figure_googlexdept-300x266.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://www.kenbenoit.net/wp-content/uploads/2008/10/figure_googlexdept.png)
+[<img class="alignncenter size-full wp-image-125" title="figure_googlexdept" src="/assets/images/figure_googlexdept.png" alt="Boxplot of overall impact by department, measured as total Google citations" width="500" height="444" srcset="/assets/images/figure_googlexdept.png 1296w, /assets/images/figure_googlexdept-300x266.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](/assets/images/figure_googlexdept.png)
 
 
 
@@ -42,7 +42,7 @@ Differences between departmental profiles can be summarized graphically using bo
 
 
 
-[<img class="size-full wp-image-126" title="figure_productivityxdept" src="http://www.kenbenoit.net/wp-content/uploads/2008/10/figure_productivityxdept.png" alt="Boxplot of productivity by department, measured as Google citations/year" width="500" height="444" srcset="http://www.kenbenoit.net/wp-content/uploads/2008/10/figure_productivityxdept.png 1296w, http://www.kenbenoit.net/wp-content/uploads/2008/10/figure_productivityxdept-300x266.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://www.kenbenoit.net/wp-content/uploads/2008/10/figure_productivityxdept.png)
+[<img class="size-full wp-image-126" title="figure_productivityxdept" src="/assets/images/figure_productivityxdept.png" alt="Boxplot of productivity by department, measured as Google citations/year" width="500" height="444" srcset="/assets/images/figure_productivityxdept.png 1296w, /assets/images/figure_productivityxdept-300x266.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](/assets/images/figure_productivityxdept.png)
 
 
   Boxplot of productivity by department, measured as Google Citations/year
