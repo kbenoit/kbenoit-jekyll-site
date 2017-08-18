@@ -1,0 +1,547 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1p1 release (March 2nd, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Why I Use Linux</TITLE>
+<META NAME="description" CONTENT="Why I Use Linux">
+<META NAME="keywords" CONTENT="linuxreviewTPM">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="linuxreviewTPM.css">
+</HEAD>
+<BODY >
+<!--Navigation Panel-->
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next" SRC="next_motif_gr.gif"> 
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up" SRC="up_motif_gr.gif"> 
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous" SRC="previous_motif_gr.gif">   
+<BR>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<P>
+  <body
+  BACKGROUND="pics/linuxbgnd.gif"
+  BGCOLOR=#FFFFFF>
+
+<P>
+<H1 ALIGN="CENTER">Why I Use Linux</H1>
+<P ALIGN="CENTER"><STRONG>Kenneth Benoit</STRONG></P>
+<P ALIGN="LEFT"></P>
+
+<P>
+Imagine having a powerful workstation on your desk that integrates
+seamlessly with the campus network.  Imagine having a computer that
+can run a long statistical process in the background while you use
+Netscape and work on a paper you are writing.  Imagine that this same
+computer is serving your web pages and receiving your e-mail, and that
+you can access it from home or from anywhere in the world using the
+Internet.  Imagine that this is your multi-tasking workstation using a
+200-Mhz super-fast processor, with a high-resolution color graphical
+X-windows user interface.  Now grab a tissue and wipe that drool off
+your <EM>TPM</EM> and brace yourself for the best part of all: the total
+cost of this system was only $2,500!
+
+<P>
+That's because the computer in this reverie is an inexpensive
+Pentium/200 running the free Linux operating system.  In this article
+I describe Linux, identify its chief advantages (lots) and its main
+disadvantages (few).  What follows is less of a formal review than an
+unabashed attempt to convince you that Linux is worth using, or at
+least trying.  Linux users are notorious for their zealotry, and
+rather than attempt to appear objective I will simply make my
+prejudices plain.  I have been using Linux for my main computing needs
+for over a year now and cannot imagine using anything else--including
+much more expensive commercial UNIXes.  So in what remains I will
+describe Linux and its hardware requirements, and then identify two
+different groups of political methodologists and why they might want
+or not want to use Linux.
+
+<P>
+
+<H1><A NAME="SECTION00010000000000000000">
+What Linux Is</A>
+</H1>
+
+<P>
+<A NAME="tex2html1"
+ HREF="http://www.linux.org">Linux</A>
+is a version of
+the UNIX operating system--a multitasking, multiuser operating system
+originally designed for high-powered mainframes and workstations--for
+systems generally known as ``personal computers.''  Linux comes from
+an independent source code base, but behaves exactly like UNIX built
+on licensed code.  In technical terms, Linux reimplements the POSIX
+specification with SYSV and BSD extensions; in practical terms, Linux
+<EM>is</EM> UNIX.
+
+<P>
+One of the very best features of Linux is its price.  Believe it or
+not, Linux is maintained by a worldwide team of volunteer programmers,
+and distributed for free!  Linux was originally written by living
+legend and computer folk hero <A NAME="tex2html2"
+ HREF="http://www.ssc.com/linux/gx/linus3.gif">Linus
+  Torvalds</A>
+in 1991 while he
+was a computer science student at the University of
+Helsinki.<A NAME="tex2html3"
+ HREF="#foot15"><SUP>1</SUP></A> In the past several years, Linux
+has become skyrocketed in popularity and sophistication.
+<A NAME="tex2html4"
+ HREF="http://www.webcrawler.com/WebCrawler/Facts/Servers.html">Nearly 85% of computers on the world wide web
+  run some version of UNIX, and it is estimated that a huge proportion
+  of those are Linux
+  boxes.</A>
+<P>
+The Linux kernel--the basic operating system itself--is updated on a
+practically weekly basis by Linus and teams of programmers around the
+world.  The source code is completely open, covered by the
+GNU Public license which prohibits selling it except for the
+distribution costs.  This has allowed many commercial providers to
+bundle their own mixtures of Linux and application software, known as
+``distributions,'' but has kept the cost to a reasonable figure of
+between $15 and $100.  And even the commerical distributions may be
+downloaded directly from the Internet for no charge.
+
+<P>
+Linux is a completely stable operating system.  I have run it for over a
+year using the beta versions of the new 2.x kernel sources until these
+were declared ``finished,'' and not a single time has my system locked
+up.  I cannot make this claim for any other operating system I have ever
+used.  Furthermore, Linux use and product support has exploded in recent
+years and shows no sign of slowing down.  Drivers, for example, are
+hardly ever a problem these days, and commercial software increasingly
+comes in Linux versions.  Perhaps once the <A NAME="tex2html5"
+ HREF="http://www.cviog.uga.edu/Misc/info/LinuxBleed.html">bleeding
+  edge</A>, and
+currently the cutting edge, Linux is on its way to becoming a major
+established player in the operating system world.
+
+<P>
+
+<H1><A NAME="SECTION00020000000000000000">
+System Requirements</A>
+</H1>
+
+<P>
+Originally written to run on the Intel 386 platform, Linux now runs on a
+wide variety of architectures.  Most common are the ``x86'' Linuxes,
+running on the Intel, Cyrix, and AMD versions of the 486, Pentium, 6x86,
+5x86, and K5 chips.  But Linux also runs on the Digital Alpha, the
+Motorola PowerPC, and Sun's SPARC platforms.  Most importantly, Linux
+runs <EM>well</EM> on a variety of hardware.  It ran fine for me for 9
+months on an AMD 486DX/100 machine, until I upgraded to a screaming
+Cyrix 6x86/P150+.  Linux likes 16MB of RAM and 300MB of hard drive space
+to run comfortably, although I prefer 32MB of RAM and 500MB of hard
+drive space to run it luxuriously.  There are still people, however, who
+run Linux in terminal mode with 6 to 8 MB of RAM and around 100MB of
+hard drive space.
+
+<P>
+Linux now has drivers for all major hardware, including CD-ROM/CD-R
+drives, tape drives, sound cards, even wierd things like virtual
+reality helmets.  It doesn't like IBM's MCA bus, but works with just
+about every other system architecture available.
+
+<P>
+The Linux installation procedure works just as would installing
+<A NAME="tex2html6"
+ HREF="http://www.microsoft.com/windows95/default.asp">Windows
+  95</A>
+or
+<A NAME="tex2html7"
+ HREF="http://www.software.ibm.com/os/warp/">OS/2 Warp</A>.
+Modern distributions-such as <A NAME="tex2html8"
+ HREF="http://www.redhat.com/">Red
+
+Hat</A>
+or
+<A NAME="tex2html9"
+ HREF="http://www.caldera.com/">Caldera</A>
+make this
+process very easy.  Installation involves creating a boot diskette,
+restarting your computer, and following answering questions about what
+kind of hardware you have and which applications you wish installed.
+This is also one of the primary advantages of Linux over other UNIXes:
+all of the important UNIX software you cannot live without, such as
+T<SMALL>E</SMALL>X/L<SUP><SMALL>A</SMALL></SUP>T<SMALL>E</SMALL>X, Emacs, bash, pine, and so on are installed with the
+operating system and work as soon as you log in for the first time.
+This includes complicated things like networking, web/ftp/telnet
+servers, sendmail, and UUCP.  Anyone who tells you installing Linux is
+complicated is either using an old distribution or has never been
+anything but a Macintosh user.  (I was a devoted Mac user for 5 years,
+so please contain your flames.)
+
+<P>
+Several X-windows environments--the standard graphical user
+environment for UNIX systems--are available for Linux, although by
+far the free version from
+<A NAME="tex2html10"
+ HREF="http://www.xfree86.org/">XFree86</A>
+is the most
+widely used.  There are also commercial versions which claim more
+hardware support and faster speeds, although I have been able to tell
+no difference.  Graphics performance will depend directly on your
+graphics hardware.  I find that an inexpensive accelerated Mach64
+(PCI, 2MB) card gives me excellent performance at 1024x768 on a
+17-inch monitor.  Motif libraries are available commercially (although
+work is in progress for a free Motif clone); Openlook and several
+other window managers are available for free.  I have been very happy
+with <A NAME="tex2html11"
+ HREF="http://www.hpc.uh.edu/fvwm/"><TT>fvwm</TT></A>,
+the ``f'' virtual window manager (use your imagination), which
+includes a paged desktop, a configurable toolbar, pop-up menus, and
+behaves similarly to Motif.  The latest version of <TT>fvwm</TT> even
+comes preconfigured to resemble Windows 95, complete with Start Menu
+and the Recycle Bin, if such be your tastes.
+
+<P>
+
+<H1><A NAME="SECTION00030000000000000000">
+Why Use It?</A>
+</H1>
+
+<P>
+If you are not a UNIX user, you ask, then what are the advantages of
+using Linux?  Most political methodologists probably use one of the
+Microsoft operating systems and interact with UNIX only for network
+communications if at all.  For example, let's imagine that you
+commonly use Microsoft Word and Excel, communicate with Eudora e-mail,
+and need to interface with Netware printers and volumes.  Furthermore,
+you run Stata for your statistical needs and occasionally Gauss.
+Finally, you use a variety of other DOS/Windows programs that you just
+can't do without:
+<A NAME="tex2html12"
+ HREF="http://www.intuit.com/quicken97/">Quicken</A>,
+<A NAME="tex2html13"
+ HREF="http://www.idsoftware.com">DOOM</A>, and
+<A NAME="tex2html14"
+ HREF="http://GKing.Harvard.Edu/stats.html"><EM>EzI: A(n Easy) Program for Ecological
+
+Inference</EM></A>.  What benefits
+would Linux have for you?
+
+<P>
+Actually, Linux may have several distinct <EM>dis</EM>advantages that
+Linux has for you.  First, <EM>there are lots of DOS and Windows
+  programs that simply will not run under Linux</EM>.  For example, the
+DOS version of <EM>EzI</EM> will not run under Linux; nor will most of
+the DOS/Windows software on our campus Novell servers.  This said,
+there are ways to get around this problem.  One is to use the
+<A NAME="tex2html15"
+ HREF="http://www.caldera.com/">Caldera</A>
+distribution of
+Linux (my personal choice) for which
+<A NAME="tex2html16"
+ HREF="http://www.sun.com/sunsoft/">Sunsoft</A>'s
+<A NAME="tex2html17"
+ HREF="http://www.caldera.com/wabi/">WABI</A>
+is available: a
+Windows Emulator.  WABI will run MS Office 4.3, Word 6.0, Excel 5.0,
+Wordperfect 6.1, Quicken 4.0 Deluxe, MS Encarta and Bookshelf, Eudora
+mail, and many others.  In addition, Caldera's distribution ships with
+a Netware client written by
+<A NAME="tex2html18"
+ HREF="http://www.novell.com/">Novell</A>
+that allows
+printing to Netware printer queues and access to Netware volumes.  A
+second possibility is the free <TT>DOSEmu</TT> DOS emulator which will
+run many DOS programs in Linux.  The Linux team is also working on a
+free Windows emulator (named ``Wine'') but it is not yet finished.
+
+<P>
+Another way around the software problem is to keep Windows on your
+machine and boot up Linux only when you need to.  For instance, I keep
+several different filesystems and operating systems on different
+partitions of my computer's hard drives, and use OS/2 Boot Manager to
+let me choose Linux, OS/2, or Windows 95 when I reboot my computer.
+This way I can develop DOS and Windows software on my Linux machine.
+Windows, and most other OSes, will run nicely in their own partitions
+and not even know that Linux is also there.  Most other OSes cannot read
+Linux filesystems, although Linux can read and write DOS, Windows 95,
+Unixware, SCO, and NFS volumes, and read-only from OS/2 HPFS and
+Macintosh HFS filesystems.  The majority of individual users of Linux
+keep some sort of dual-boot capability on their machine.  In fact, this
+is how most people get started with Linux: testing it as an additional
+OS while keeping their original setup intact.  This is also a great way
+to learn UNIX for a very small financial investment.
+
+<P>
+A final solution to the software problem is to simply to switch to Linux
+versions of your old software.  Wordperfect for Linux is available,
+although you could also switch to L<SUP><SMALL>A</SMALL></SUP>T<SMALL>E</SMALL>X, in which case you will
+probably soon want to start using GNU Emacs and AucT<SMALL>E</SMALL>X.  Several Linux
+word processors and spreadsheets also exist that have no Windows
+versions.  Most DOS and Windows statistical packages also have Linux
+versions (see <A NAME="tex2html19"
+ HREF="#statspackages">below</A>).  This is even
+true for many
+<A NAME="tex2html20"
+ HREF="http://www.cs.washington.edu/homes/tlau/linux-game.html">games</A>:
+<A NAME="tex2html21"
+ HREF="ftp://uiarchive.cso.uiuc.edu/pub/systems/linux/sunsite/games/doom/INDEX.html">DOOM</A>,
+for instance.  Likewise, there are native (and better) versions of
+<A NAME="tex2html22"
+ HREF="http://www.netscape.com/">Netscape</A>,
+<A NAME="tex2html23"
+ HREF="http://www.adobe.com/prodindex/acrobat/">Adobe Acrobat
+
+Reader</A>,
+<A NAME="tex2html24"
+ HREF="http://www.realaudio.com/">RealAudio</A>, MPEG movie
+players, drawing and painting programs (<TT>xfig</TT> is an excellent
+program not available for Windows), and network communications tools.
+And: the Linux versions of these are free!
+
+<P>
+A second problem is that <EM>UNIX is not for everyone</EM>.  The power of
+a real command shell and the ability to customize your own kernel (the
+operating system software itself) come with their own costs.  Many
+commercial vendors (RedHat, Caldera, and Slackware) provide some
+technical support, but you'll have to rely for assistance mostly on your
+own soon-to-grow expertise, publications such as the
+<A NAME="tex2html25"
+ HREF="http://www.ssc.com/lj/"><EM>Linux Journal</EM></A>
+and the
+very helpful Linux community on the
+<A NAME="tex2html26"
+ HREF="news:comp.os.linux.answers"><TT>comp.os.linux.*</TT></A>
+groups.  I installed and configured my own system in an overwhelmingly
+Windows/Novell environment, but it was not especially hard, and my
+network administrator was able to assist with the network configuration.
+As long as you have an ethernet connection and an IP address, you should
+be able to communicate just fine with your campus network.  I use mail
+on a different UNIX host, since I sometimes (although rarely) turn my
+system off, but there is no reason why I could not be my own
+mail-receiving UNIX host.  (I admit being tempted by the snob appeal of
+having my e-mail address be <TT>ken@benoit.harvard.edu</TT>.)
+
+<P>
+While installing a good commercial distribution of Linux is no more
+difficult than installing Windows 95, it does require some technical
+knowledge, especially when your hardware is non-standard.  Also, the
+power of UNIX generally is also the power to wreak havoc when you
+don't know what you're doing.  One myth, however, is that using UNIX
+for your personal computing needs requires you to spend lots of time
+as a ``system administrator.''  This is no more true than it is for
+any other operating system, unless you are letting multiple users
+access and use your system.  I occasionally upgrade Netscape or add
+new Emacs <TT>.el</TT> files to my system, but otherwise never touch
+my basic system configuration.  And since I log in as a regular user
+each day I have no power to destroy the system setup beyond my
+personal directories.
+
+<P>
+So what are the advantages of using UNIX for you?  All benefits 
+delineated in the next section apply to those making their first leap
+to UNIX.  In addition, you will find that Linux provides a far more
+effective use of your computer resources than does Windows 95 or OS/2
+Warp (or, if you are one of the three remaining people who use it,
+DOS).  I found both Windows 95 and OS/2 intolerably slow on a 486DX/66
+with 16MB of RAM, yet this same system hummed just fine under Linux.
+And I used the same software on all three platforms: Netscape, L<SUP><SMALL>A</SMALL></SUP>T<SMALL>E</SMALL>X,
+Emacs, and Gauss.   If you are already using Emacs and L<SUP><SMALL>A</SMALL></SUP>T<SMALL>E</SMALL>X for
+Windows 95, and customizing your command shell with versions of
+<TT>bash</TT> and other UNIX goodies, why not just switch to the real
+thing?  If you are a happy user of Wordperfect who uses Windows 95 and
+has no idea what <TT>bash</TT> is, then a world of opportunity awaits.
+You have no idea of the kinds of uses to which you could be putting your
+largely wasted system.
+
+<P>
+
+<H1><A NAME="SECTION00040000000000000000">
+Linux for UNIX users</A>
+</H1>
+
+<P>
+A different group of political methodologists that might be interested
+in Linux are those who already use or have just decided to use a UNIX
+platform.  Perhaps you use an HP or Sun workstation at the office, and
+are looking for a home machine.  Or, you are going to purchase a new
+system for your office and want UNIX but only have a few thousand
+dollars to spend.  Then Linux may be perfect for you.
+
+<P>
+The advantage of Linux for you is this: it will run nearly everything
+you want at a much lower cost, and depending on your hardware, at
+greater speed.
+
+<P>
+If you already use UNIX, then having a machine that won't run Microsoft
+Word is not a problem for you.  Linux will run all of the standard UNIX
+platform software you know and love.  Indeed, most distributions will
+automatically install and configure T<SMALL>E</SMALL>X, Emacs, X-windows, all of the
+GNU utilities, vi, xfig, Ghostscript and Ghostview, your choice of
+mailer and newsreader, Netscape (depending on your distribution) and
+much more.  This includes programming languages, libraries, and
+utilities such as C/C++, Fortran, lisp, assembler, Java, BASIC, make,
+faces, curses, gdb, xgdb, and tcl.  All at no additional cost and
+automatically installed!  The GNU C compiler (<TT>gcc</TT>) is nothing
+to scoff at, either: the Linux kernel itself is compiled with it.  So is
+Aptech System's Gauss.
+
+<P>
+   <A NAME = "statspackages">
+So what about commerical statistical packages?  This is a key question
+for political methodologists, and has two answers.  First, if you are a
+single UNIX user in a PC environment, then you will have to rely on the
+packages available for Linux.  But Surprise! the list of available
+statistics packages probably includes the ones you use on other
+platforms.  Linux versions exist of
+<A NAME="tex2html27"
+ HREF="http://weber.u.washington.edu/~rons/aptech.html">Gauss</A>,
+<A NAME="tex2html28"
+ HREF="http://www.stata.com/">Stata</A>,
+<A NAME="tex2html29"
+ HREF="http://www.mathworks.com/">MATLAB</A>,
+<A NAME="tex2html30"
+ HREF="http://www.estima.com/unixrats.htm">RATS</A>,
+<A NAME="tex2html31"
+ HREF="http://www.crl.com">TSP</A>,
+<A NAME="tex2html32"
+ HREF="http://lear.caltech.edu:80/sst/html/main.help.sst.html">SST</A>,
+<A NAME="tex2html33"
+ HREF="http://shazam.econ.ubc.ca/">Shazam</A>,
+<A NAME="tex2html34"
+ HREF="http://www.wolfram.com/mathematica/">Mathematica</A>,
+and the free programs
+<A NAME="tex2html35"
+ HREF="http://www.nuff.ox.ac.uk/Users/Doornik/">Ox</A>
+and
+<A NAME="tex2html36"
+ HREF="http://www.cas.lancs.ac.uk/software/sabre.html">SABRE</A>.
+Most of these packages now use file formats that are binary compatible
+with versions from other platforms.  That is useful for exchanging files
+with colleagues or students who might use the Windows or DOS versions of
+these programs, for example.
+
+<P>
+Although the growing number of packages available for Linux is already
+impressive, a few notables are not among them.
+<A NAME="tex2html37"
+ HREF="http://www.mathsoft.com/splus.html">S-plus</A>
+currently does not run on Linux and there are no plans for porting it.
+Nor are versions of <A NAME="tex2html38"
+ HREF="http://www.sas.com/">SAS</A>,
+<A NAME="tex2html39"
+ HREF="http://www.spss.com/">SPSS</A>, or
+<A NAME="tex2html40"
+ HREF="http://www.minitab.com/">Minitab</A>
+currently
+available, although the Wabi port <A NAME="tex2html41"
+ HREF="http://wabiapps.psgroup.com/rep2wrk.htm#SPlus">is reported to
+
+run S-Plus for
+  Windows</A>.  But there
+are ways around this problem.
+
+<P>
+For the second type of UNIX user, the one connected to a network of
+other UNIX hosts and having accounts on these systems, it is possible to
+run other software remotely.  If you have an account on any UNIX system
+that has software you wish to run, you can run them as X clients on your
+local machine.  Your computer supplies the graphical user interface,
+theirs does the computing, and as long as your network connection is
+fast you probably won't be able to tell the difference.  This is
+currently how I run S-plus and SAS on my machine from our remote HP
+network.  This is also a good solution for anyone who can persuade his
+or her university's statistics or economics departments to give them
+accounts on their UNIX systems.
+
+<P>
+This strategy is also useful for computing from home, for those who work
+already in a UNIX environment.  Linux can be configured easily with a
+<A NAME="tex2html42"
+ HREF="http://uwsg.ucs.indiana.edu/linux/mdw/HOWTO/PPP-HOWTO.html">PPP
+  client</A>
+to
+connect to your campus network or other Internet service provider.  This
+permits you to browse the web, read network news, use e-mail, and--as a
+nice bonus that costs several hundred dollars to set up with
+Windows--run X-networking clients remotely.  There is <EM>no</EM> less
+expensive solution to provide your PC hardware with X-terminal
+capabilities than Linux.
+
+<P>
+
+<H1><A NAME="SECTION00050000000000000000">
+Need I Say More?</A>
+</H1>
+
+<P>
+Not many people use Linux in the political methodology community, but
+may more should consider using this wonderful open operating system.
+Not only does it do nearly everything that much more expensive
+commercial UNIX workstations provide, but it costs less and in many
+cases will be faster.  Linux on an Alpha 500MHz platform will provide
+you with the fastest microcomputer workstation on the planet, for a
+fraction of the cost of a machine from Sun or HP that even comes close
+in performance.
+
+<P>
+Some benchmark results from my own setup confirm that even a mid-range
+Linux system will perform comparably or better than many commercial
+workstations.  For example, I ran the <A NAME="tex2html43"
+ HREF="http://www.uni-frankfurt.de/~stst/gaussst.html">Gauss speed
+  comparison tests from Stefan
+  Steinhaus</A>
+to see how
+my Cyrix 6x86/P150+ ranked.  To my delight its overall performance was
+better than that of the HP 715/100 and the Sun Sparc 5 and Ultra Sparc
+170!  I also ran a large
+<A NAME="tex2html44"
+ HREF="http://GKing.Harvard.Edu/stats.html"><EM>EI</EM></A>
+<A NAME="tex2html45"
+ HREF="http://hdc-www.harvard.edu/staff/ken_benoit/linux/eigausstest.zip">estimation</A>
+estimation using <A NAME="tex2html46"
+ HREF="http://GKing.Harvard.Edu/">Gary
+  King</A>'s software.  It took 41 minutes, 55
+seconds on my machine but 48 minutes, 46 seconds on our departments's HP
+715/80.  I also ran tests in Stata using <A NAME="tex2html47"
+ HREF="http://ezinfo.ucs.indiana.edu/~rmtucker/">Richard
+
+Tucker</A>'s
+<A NAME="tex2html48"
+ HREF="http://ezinfo.ucs.indiana.edu/~rmtucker/">DyadHard</A>
+software for the years 1816-1900.  Creating the dataset took 1 minute,
+44 seconds on the HP but only 43 seconds on mine.  These tests and my
+general experience indicates that my modest desktop using Linux offers
+more computing power than the HP workstation costing thousands more.  I
+only allow myself to dream what these results would look like with a
+faster processor, say, a Pentium Pro 200 like the one for which Charles
+Franklin posted benchmark results on Stefan's page...
+
+<P>
+Where did I put that tissue?
+
+<P>
+<BR><HR><H4>Footnotes</H4>
+<DL>
+<DT><A NAME="foot15">...
+Helsinki.</A><A NAME="foot15"
+ HREF="linuxreviewTPM.html#tex2html3"><SUP>1</SUP></A>
+<DD>The pronunciation of ``Linux'' is the subject of
+  tremendous flame wars.  Torvalds--and most of those in the
+  know--pronounces it ``lih-nucks,'' rhyming with ``cynics.''  This
+  is because Linux is named after Torvalds and his name in Finnish is
+  pronounced with a shorter ``i''.
+
+</DL><HR>
+<!--Navigation Panel-->
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next" SRC="next_motif_gr.gif"> 
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up" SRC="up_motif_gr.gif"> 
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous" SRC="previous_motif_gr.gif">   
+<BR>
+<!--End of Navigation Panel-->
+<ADDRESS>
+<I>Kenneth R. Benoit</I>
+<BR><I>1998-10-09</I>
+</ADDRESS>
+</BODY>
+</HTML>
