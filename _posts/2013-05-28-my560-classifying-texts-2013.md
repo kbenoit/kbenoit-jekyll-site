@@ -13,5 +13,5 @@ Here are the slides and files from my &#8220;Introduction to Supervised Method
 
   * [Slides here](/assets/files/pdfs/MY560_QTA2_Classification.pdf)
   * [Lab Exercise here](/assets/files/pdfs/MY560_QTA2_Classification_Lab.pdf)
-  * Files for lab exercise: [Movie Reviews](http://www.kenbenoit.net/files/moviereviews.zip) and the [amicus briefs](http://www.kenbenoit.net/files/amicuscuriae.zip)
+  * Files for lab exercise: [Movie Reviews](/assets/files/moviereviews.zip) and the [amicus briefs](/assets/files/amicuscuriae.zip)
 
