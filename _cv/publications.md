@@ -27,7 +27,7 @@ type: cv
 
 2012\. McElroy, Gail and Kenneth Benoit. “[Policy Positioning in the European Parliament](/assets/files/pdfs/European%20Union%20Politics-2012-McElroy-150-67.pdf).” _**European Union Politics**_. 13(1): 150-167. [Web-based appendix here](/assets/files/pdfs/MEPS2010_EUP_Appendix.pdf).
 
-2012\. Mikhaylov, Slava, Michael Laver, and Kenneth Benoit. “[Coder Reliability and Misclassification in the Human Coding of Party Manifestos](/assets/files/pdfs/MLB_PA_2012.pdf).” **_Political Analysis  _**20(1): 78–91**_._ **Replication materials including original data available [**here**](/assets/files/CMP_reliability_replication.zip).
+2012\. Mikhaylov, Slava, Michael Laver, and Kenneth Benoit. “[Coder Reliability and Misclassification in the Human Coding of Party Manifestos](/assets/files/pdfs/MLB_PA_2012.pdf).” **_Political Analysis  _**20(1): 78–91**. Replication materials including original data available [**here**](/assets/files/CMP_reliability_replication.zip).
 
 2011\. William Lowe, Kenneth Benoit, Slava Mikhaylov, and Michael Laver. “[Scaling Policy Preferences From Coded Political Texts](/assets/files/pdfs/Loweetal_2010_LSQ.pdf).” _**Legislative Studies Quarterly** 26(1, Feb): 123-155\._ The **replication** **dataset** also containing more than 20 new scales (and confidence intervals) is available **[here](http://hdl.handle.net/1902.1/17073)**.
 
@@ -43,7 +43,7 @@ type: cv
 
 2009\. Kenneth Benoit, Thomas  Bräuninger, and Marc Debus. “[Challenges for estimating policy preferences: Announcing an open access archive of political documents](/assets/files/pdfs/Benoit_etal_German_Politics_2009.pdf).” _**German Politics**_ 18(3, September): 440-453.
 
-2009. Kenneth Benoit, Slava Mikhaylov, and Michael Laver. “[Treating Words as Data with Error: Uncertainty in Text Statements of Policy Positions](/assets/files/pdfs/blm2009ajps.pdf).” _**American Journal of Political Science**_ 53(2, April): 495-513\. _[Replication materials and the error dataset can be found here](http://www.kenbenoit.net/?page_id=461)_.
+2009. Kenneth Benoit, Slava Mikhaylov, and Michael Laver. “[Treating Words as Data with Error: Uncertainty in Text Statements of Policy Positions](/assets/files/pdfs/blm2009ajps.pdf).” _**American Journal of Political Science**_ 53(2, April): 495-513\. _[Replication materials and the error dataset can be found here](/cmp-random-error)_.
 
 2008\. Kenneth Benoit and Michael Marsh. “[The Campaign Value of Incumbency: A New Solution to the Puzzle of Less Effective Incumbent Spending](/assets/files/pdfs/ajps_348.pdf).” **_American Journal of Political Science_** 52(4, October): 874-890. _[Replication materials here](/assets/files/cvi_Benoit_Marsh_2008_replication.zip)_[.](/assets/files/cvi_Benoit_Marsh_2008_replication.zip)
 
@@ -97,13 +97,13 @@ type: cv
 
 2001\. Benoit, Kenneth and John W. Schiemann. “[Institutional Choice in New Democracies: Bargaining Over Hungary’s 1989 Electoral Law](/assets/files/pdfs/benoit_2001_JTP.pdf).” **_Journal of Theoretical Politics_** 13(2, April): 159-188.
 
-2000\. Benoit, Kenneth. “[Which Electoral Formula is the Most Proportional? A New Look with New Evidence](/assets/files/pdfs/PA84-381-388.pdf).” **_Political Analysis_** 8(4): 381-388. [Replication dataset.](http://www.kenbenoit.net/kens-cv/papers.html%22%20%5Cl%20%22ocaldata1994)
+2000\. Benoit, Kenneth. “[Which Electoral Formula is the Most Proportional? A New Look with New Evidence](/assets/files/pdfs/PA84-381-388.pdf).” **_Political Analysis_** 8(4): 381-388. [Replication dataset available upon request.]
 
 1996-97\. Benoit, Kenneth and Gary King. “[A Preview of EI and EzI: Programs for Ecological Inference](/assets/files/pdfs/SSCR1996.pdf).” **_Social Science Computer Review_** 14(4):433-438.
 
 1996\. Benoit, Kenneth. “[Hungary’s Two-Vote Electoral System](/assets/files/pdfs/Representation1996.pdf).” **_Representation_** 33(4): 162-170.
 
-1996\. Benoit, Kenneth. “[Democracies Really Are More Pacific (In General): Reexamining Regime Type and War Involvement](/assets/files/pdfs/Benoit_JCR1996.pdf).” _**Journal of Conflict Resolutio**n_ 40(4): 636-657. [Replication dataset.](/assets/files/rdwi-final-data.zip)
+1996\. Benoit, Kenneth. “[Democracies Really Are More Pacific (In General): Reexamining Regime Type and War Involvement](/assets/files/pdfs/Benoit_JCR1996.pdf).” _**Journal of Conflict Resolution**_ 40(4): 636-657. [Replication dataset.](/assets/files/rdwi-final-data.zip)
 
 ### Books
 
