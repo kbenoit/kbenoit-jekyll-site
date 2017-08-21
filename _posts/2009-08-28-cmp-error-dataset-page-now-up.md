@@ -4,7 +4,7 @@ title: CMP error dataset page now up
 date: 2009-08-28T11:51:08+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=472
+
 permalink: /cmp-error-dataset-page-now-up/
 categories:
   - Latest research

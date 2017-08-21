@@ -4,7 +4,7 @@ title: Statistical haiku
 date: 2010-01-29T16:54:23+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=661
+
 permalink: /statistical-haiku/
 categories:
   - Uncategorized

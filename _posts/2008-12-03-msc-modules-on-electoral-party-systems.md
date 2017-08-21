@@ -4,7 +4,7 @@ title: MSc Modules on Electoral, Party Systems
 date: 2008-12-03T15:32:25+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=147
+
 permalink: /msc-modules-on-electoral-party-systems/
 categories:
   - Course-related

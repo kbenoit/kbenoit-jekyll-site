@@ -4,7 +4,7 @@ title: 'PO7003 Field Seminar A in Political Science &#8211; 2008-09'
 date: 2008-09-25T11:37:24+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=68
+
 permalink: /field-seminar-a-2008-2009-week-1-readings/
 categories:
   - Field Seminar

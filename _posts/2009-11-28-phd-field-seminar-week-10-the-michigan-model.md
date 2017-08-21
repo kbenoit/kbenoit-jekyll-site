@@ -4,7 +4,7 @@ title: Field seminar B 2009-2010, Week 10
 date: 2009-11-28T10:02:18+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=622
+
 permalink: /phd-field-seminar-week-10-the-michigan-model/
 categories:
   - Field Seminar

@@ -4,7 +4,7 @@ title: 'TCD political science on a par with &quot;best of Britain&quot;'
 date: 2008-10-15T13:27:12+00:00
 author: KB
 layout: single
-guid: http://www.kenbenoit.net/?p=123
+
 permalink: /tcd-political-science-on-a-par-with-best-of-britain-2/
 categories:
   - Latest research

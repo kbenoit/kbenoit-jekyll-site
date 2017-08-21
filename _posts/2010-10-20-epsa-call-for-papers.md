@@ -4,7 +4,7 @@ title: European Political Science Association
 date: 2010-10-20T15:37:16+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=867
+
 permalink: /epsa-call-for-papers/
 categories:
   - Uncategorized

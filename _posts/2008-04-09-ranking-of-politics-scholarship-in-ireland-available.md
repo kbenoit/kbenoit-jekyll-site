@@ -4,7 +4,7 @@ title: Ranking of Politics Scholarship in Ireland
 date: 2008-04-09T15:07:43+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=20
+
 permalink: /ranking-of-politics-scholarship-in-ireland-available/
 categories:
   - Latest research

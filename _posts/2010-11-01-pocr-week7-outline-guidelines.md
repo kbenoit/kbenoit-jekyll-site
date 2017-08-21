@@ -4,7 +4,7 @@ title: Principles of Comparative Research Week 7 Outline Guidelines
 date: 2010-11-01T11:22:33+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=894
+
 permalink: /pocr-week7-outline-guidelines/
 categories:
   - Course-related

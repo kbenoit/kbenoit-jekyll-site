@@ -4,7 +4,7 @@ title: New MSc in International Politics
 date: 2010-02-24T08:54:49+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=694
+
 permalink: /new-msc-in-international-politics/
 categories:
   - Course-related

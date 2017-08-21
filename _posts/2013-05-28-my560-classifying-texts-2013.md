@@ -4,7 +4,7 @@ title: 'MY560: Supervised Methods for Classifying and Scaling Texts'
 date: 2013-05-28T12:37:01+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=1115
+
 permalink: /my560-classifying-texts-2013/
 categories:
   - Course-related

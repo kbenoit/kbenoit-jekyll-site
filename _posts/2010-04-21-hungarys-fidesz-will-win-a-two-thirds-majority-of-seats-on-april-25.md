@@ -4,7 +4,7 @@ title: 'Hungary&#8217;s Fidesz will win a Two-Thirds Majority of Seats on April 
 date: 2010-04-21T06:29:35+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=713
+
 permalink: /hungarys-fidesz-will-win-a-two-thirds-majority-of-seats-on-april-25/
 categories:
   - Latest research

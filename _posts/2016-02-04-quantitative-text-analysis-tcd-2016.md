@@ -4,7 +4,7 @@ title: Quantitative Text Analysis (TCD 2016)
 date: 2016-02-04T21:48:30+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=1459
+
 permalink: /quantitative-text-analysis-tcd-2016/
 categories:
 - Course-related

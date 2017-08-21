@@ -4,7 +4,7 @@ title: Who should be included in and who should author scholarly impact assessme
 date: 2008-05-30T09:34:44+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=25
+
 permalink: /on-the-question-of-who-should-be-included-in-and-who-should-author-scholarly-impact-assessment-reports/
 categories:
   - Latest research

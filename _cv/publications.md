@@ -43,7 +43,7 @@ type: cv
 
 2009\. Kenneth Benoit, Thomas  Bräuninger, and Marc Debus. “[Challenges for estimating policy preferences: Announcing an open access archive of political documents](/assets/files/pdfs/Benoit_etal_German_Politics_2009.pdf).” _**German Politics**_ 18(3, September): 440-453.
 
-2009. Kenneth Benoit, Slava Mikhaylov, and Michael Laver. “[Treating Words as Data with Error: Uncertainty in Text Statements of Policy Positions](/assets/files/pdfs/blm2009ajps.pdf).” _**American Journal of Political Science**_ 53(2, April): 495-513\. _[Replication materials and the error dataset can be found here](/cmp-random-error)_.
+2009. Kenneth Benoit, Slava Mikhaylov, and Michael Laver. “[Treating Words as Data with Error: Uncertainty in Text Statements of Policy Positions](/assets/files/pdfs/blm2009ajps.pdf).” _**American Journal of Political Science**_ 53(2, April): 495-513\. _[Replication materials and the error dataset can be found here](/cmp-random-error/)_.
 
 2008\. Kenneth Benoit and Michael Marsh. “[The Campaign Value of Incumbency: A New Solution to the Puzzle of Less Effective Incumbent Spending](/assets/files/pdfs/ajps_348.pdf).” **_American Journal of Political Science_** 52(4, October): 874-890. _[Replication materials here](/assets/files/cvi_Benoit_Marsh_2008_replication.zip)_[.](/assets/files/cvi_Benoit_Marsh_2008_replication.zip)
 

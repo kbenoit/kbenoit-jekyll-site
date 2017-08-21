@@ -4,7 +4,7 @@ title: How to batch convert pdf files to text
 date: 2014-07-31T10:39:36+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=1316
+
 permalink: /how-to-batch-convert-pdf-files-to-text/
 dsq_thread_id:
   - "5785074759"

@@ -4,7 +4,7 @@ title: Spring 2009 course information now posted
 date: 2008-12-17T14:55:53+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=192
+
 permalink: /spring-2009-course-information-now-posted/
 categories:
   - Course-related

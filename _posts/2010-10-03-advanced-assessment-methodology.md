@@ -4,7 +4,7 @@ title: Enhanced Assessment Methodology
 date: 2010-10-03T14:27:47+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=780
+
 permalink: /advanced-assessment-methodology/
 categories:
   - Uncategorized

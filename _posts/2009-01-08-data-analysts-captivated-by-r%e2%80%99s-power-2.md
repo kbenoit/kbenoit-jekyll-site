@@ -4,7 +4,7 @@ title: Data Analysts Captivated by R’s Power
 date: 2009-01-08T11:36:43+00:00
 author: KB
 layout: single
-guid: http://www.kenbenoit.net/?p=237
+
 permalink: '/data-analysts-captivated-by-r%e2%80%99s-power-2/'
 categories:
   - Statistics

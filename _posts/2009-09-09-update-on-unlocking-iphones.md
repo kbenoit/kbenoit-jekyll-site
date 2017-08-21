@@ -4,7 +4,7 @@ title: Update on unlocking iPhones
 date: 2009-09-09T06:55:56+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=506
+
 permalink: /update-on-unlocking-iphones/
 categories:
   - Computers

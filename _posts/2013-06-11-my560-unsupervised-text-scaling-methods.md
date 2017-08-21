@@ -4,7 +4,7 @@ title: 'MY560: Unsupervised Text Scaling Methods'
 date: 2013-06-11T08:52:19+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=1119
+
 permalink: /my560-unsupervised-text-scaling-methods/
 categories:
   - Uncategorized

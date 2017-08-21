@@ -4,7 +4,7 @@ title: Correlation causes causation
 date: 2011-10-22T16:23:17+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=1008
+
 permalink: /correlation-causes-causation/
 categories:
   - Uncategorized

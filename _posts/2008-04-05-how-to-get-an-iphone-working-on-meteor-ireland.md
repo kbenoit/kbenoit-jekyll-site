@@ -4,7 +4,7 @@ title: How to get an iPhone working on Meteor Ireland
 date: 2008-04-05T21:12:32+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=21
+
 permalink: /how-to-get-an-iphone-working-on-meteor-ireland/
 categories:
   - Computers

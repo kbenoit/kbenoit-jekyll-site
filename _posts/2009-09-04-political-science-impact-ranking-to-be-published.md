@@ -4,7 +4,7 @@ title: Political Science Impact Ranking to be Published
 date: 2009-09-04T14:29:48+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=483
+
 permalink: /political-science-impact-ranking-to-be-published/
 categories:
   - Latest research

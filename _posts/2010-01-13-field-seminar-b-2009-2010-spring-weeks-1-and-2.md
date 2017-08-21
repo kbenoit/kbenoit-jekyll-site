@@ -4,7 +4,7 @@ title: Field seminar B 2009-2010, Spring Weeks 1 and 2
 date: 2010-01-13T10:33:36+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=635
+
 permalink: /field-seminar-b-2009-2010-spring-weeks-1-and-2/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: How to set proxy settings for R (Mac OSX)
 date: 2009-01-14T17:51:40+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=261
+
 permalink: /how-to-set-proxy-settings-for-r-mac-osx/
 categories:
   - Macintosh

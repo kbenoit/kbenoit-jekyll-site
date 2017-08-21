@@ -4,7 +4,7 @@ title: Technical questions
 date: 2011-07-23T12:01:08+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=1004
+
 permalink: /technical-questions/
 categories:
   - Uncategorized

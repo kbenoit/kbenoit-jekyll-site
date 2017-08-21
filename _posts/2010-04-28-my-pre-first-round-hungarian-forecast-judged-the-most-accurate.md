@@ -4,7 +4,7 @@ title: My pre-first round Hungarian forecast judged the most accurate
 date: 2010-04-28T12:16:42+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=719
+
 permalink: /my-pre-first-round-hungarian-forecast-judged-the-most-accurate/
 categories:
   - Latest research

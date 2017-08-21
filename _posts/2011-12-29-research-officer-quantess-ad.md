@@ -4,7 +4,7 @@ title: 'Job listing: Research Officer in Quantitative Text Analysis'
 date: 2011-12-29T11:21:20+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=1018
+
 permalink: /research-officer-quantess-ad/
 categories:
   - Quantitative Methods

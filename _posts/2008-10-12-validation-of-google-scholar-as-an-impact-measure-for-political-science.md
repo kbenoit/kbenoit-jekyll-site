@@ -4,7 +4,7 @@ title: Validation of Google Scholar as an Impact Measure for Political Science
 date: 2008-10-12T20:40:06+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=91
+
 permalink: /validation-of-google-scholar-as-an-impact-measure-for-political-science/
 categories:
   - Latest research

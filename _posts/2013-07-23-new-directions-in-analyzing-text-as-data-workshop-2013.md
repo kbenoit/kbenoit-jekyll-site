@@ -4,7 +4,7 @@ title: New Directions in Analyzing Text as Data Workshop (2013)
 date: 2013-07-23T12:03:38+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=1136
+
 permalink: /new-directions-in-analyzing-text-as-data-workshop-2013/
 categories:
   - Uncategorized

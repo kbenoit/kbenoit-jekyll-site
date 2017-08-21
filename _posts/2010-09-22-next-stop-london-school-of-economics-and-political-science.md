@@ -4,7 +4,7 @@ title: 'Next stop: London School of Economics and Political Science'
 date: 2010-09-22T14:18:29+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=734
+
 permalink: /next-stop-london-school-of-economics-and-political-science/
 categories:
   - Uncategorized

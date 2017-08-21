@@ -4,7 +4,7 @@ title: Data Mining and Statistical Learning
 date: 2015-01-23T10:49:27+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=1401
+
 permalink: /statistical-learning-tcd2015/
 categories:
   - Course-related

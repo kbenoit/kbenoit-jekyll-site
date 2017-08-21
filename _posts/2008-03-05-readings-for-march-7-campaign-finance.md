@@ -4,7 +4,7 @@ title: 'Readings for March 7 &#8211; Campaign Finance'
 date: 2008-03-05T14:08:23+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=19
+
 permalink: /readings-for-march-7-campaign-finance/
 categories:
   - Field Seminar

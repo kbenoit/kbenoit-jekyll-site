@@ -4,7 +4,7 @@ title: The power of simulation
 date: 2009-08-24T09:57:13+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=454
+
 permalink: /the-power-of-simulations/
 categories:
   - Quantitative Methods

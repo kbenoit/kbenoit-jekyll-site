@@ -4,7 +4,7 @@ title: PhD Scholarships in Political Science at Trinity College Dublin
 date: 2009-01-08T16:25:54+00:00
 author: Ken
 layout: single
-guid: http://www.kenbenoit.net/?p=240
+
 permalink: /phd-scholarships-in-political-science-at-trinity-college-dublin/
 categories:
   - Course-related
