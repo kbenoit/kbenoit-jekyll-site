@@ -12,7 +12,7 @@ categories:
 
 
 
-  Michael Marsh and I have just finalized [our comparative assessment of the research output an impact of political studies scholars in Ireland](http://www.kenbenoit.net/?page_id=50#citationspaper). This exercise compares citation measures for all permanent, full-time academic staff in eight Irish politics departments (in the Republic and in Northern Ireland). That paper can be found **[here](http://www.kenbenoit.net/?page_id=50#citationspaper)** and earlier discussions during the drafting of this paper feature **[elsewhere on this blog](http://www.kenbenoit.net/?p=20)**.
+  Michael Marsh and I have just finalized [our comparative assessment of the research output an impact of political studies scholars in Ireland](/assets/files/pdfs/Benoit_Marsh_PRQ_2010.pdf). This exercise compares citation measures for all permanent, full-time academic staff in eight Irish politics departments (in the Republic and in Northern Ireland). That paper can be found **[here](/assets/files/pdfs/Benoit_Marsh_PRQ_2010.pdf)** and earlier discussions during the drafting of this paper feature **[elsewhere on this blog](/ranking-of-politics-scholarship-in-ireland-available/)**.
 
 
 
@@ -51,4 +51,3 @@ Differences between departmental profiles can be summarized graphically using bo
 
 
 Different departments not only have different numbers of staff, they also have very different age profiles. Counting total citations clearly advantages departments with senior staff whose longer careers have provided more opportunity to accumulate citations. In the second box plot, we portray the profiles of departments according to productivity, on a linear scale, according to the Google Scholar citations per year. Essex, shown in gray, has a median that is all but indistinguishable from Trinity's.
-
