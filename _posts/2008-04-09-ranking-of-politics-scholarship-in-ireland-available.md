@@ -22,7 +22,7 @@ The preliminary version of **a paper that profiles departments and ranks the top
 
 Here is a Dilbert cartoon that offering one apparently common view that may apply to bibliometrics:
 
-[<img class="aligncenter size-full wp-image-23" title="dilbert1" src="http://www.kenbenoit.net/wp-content/uploads/2008/05/dilbert1.jpg" alt="" width="500" height="155" srcset="http://www.kenbenoit.net/wp-content/uploads/2008/05/dilbert1.jpg 560w, http://www.kenbenoit.net/wp-content/uploads/2008/05/dilbert1-300x93.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://www.kenbenoit.net/wp-content/uploads/2008/05/dilbert1.jpg)
+[<img class="aligncenter size-full wp-image-23" title="dilbert1" src="http:///assets/images/dilbert1.jpg" alt="" width="500" height="155" srcset="http:///assets/images/dilbert1.jpg 560w, http:///assets/images/dilbert1-300x93.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />](http:///assets/images/dilbert1.jpg)
 
 There has also been some **interesting correspondence** regarding our paper. On April 24, 2008 we received [**this official letter**](/assets/files/pdfs/UCDreply28apr2008.pdf "UCD's reply letter on our exercise") from Professor Jennifer Todd, Chair of the Research and Innovation Committee from UCD&#8217;s School of Politics and International Relations. (This letter was also publicly sent to the Political Studies Association of Ireland mailing list.) Our reply was also posted to the PSAI mailing list:
 
@@ -91,4 +91,3 @@ On June 4, President of the PSAI (Political Studies Association of Ireland) sent
     Neil Collins
 
 </address>
-
