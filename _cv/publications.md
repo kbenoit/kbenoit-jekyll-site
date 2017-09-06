@@ -7,9 +7,11 @@ type: cv
 
 ### Articles
 
+Forthcoming. Julio Amador, Sofia Collignon-Delmar, Kenneth Benoit, and Akitaka Matsuo.  "[Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data](/assets/files/pdfs/Amador_etal_SPP_2017.pdf)". _**Statistics, Politics and Policy**_.
+
 2017\. Daniel Schwarz, Denise Traber and Kenneth Benoit. “[Estimating Intra-Party Preferences: Comparing Speeches to Votes](/assets/files/pdfs/Schwarz_Traber_Benoit_PSRM.pdf).” **_Political Science Research and Methods_** 5(2): 379-396. doi:10.1017/psrm.2015.77.
 
-2016\. Paul Nulty, Yannis Theocharis, Sebastian Adrian Popa, Olivier Parnet, and Kenneth Benoit. “[Social Media and Political Communication in the 2014 Elections to the European Parliament](/assets/files/pdfs/Nulty_et_al_2016.pdf)”. _**Electoral Studies **_ 44: 429-444.
+2016\. Paul Nulty, Yannis Theocharis, Sebastian Adrian Popa, Olivier Parnet, and Kenneth Benoit. “[Social Media and Political Communication in the 2014 Elections to the European Parliament](/assets/files/pdfs/Nulty_et_al_2016.pdf)”. _**Electoral Studies**_ 44: 429-444.
 
 2016\. Benoit, Kenneth, Drew Conway, Benjamin E. Lauderdale, Michael Laver, and Slava Mikhaylov “[Crowd-Sourced Text Analysis: Reproducible and Agile Production of Political Data.](http://eprints.lse.ac.uk/62242/)” _**American Political Science Review**_ 110 (2, May).
 
