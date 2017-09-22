@@ -5,7 +5,7 @@ type: pages
 
 This page contains replication materials and the error dataset providing estimates of random error in the Comparative Manifesto Project’s dataset of coded quasi-sentence from election programmes. These are described in:
 
-*  2012\. Mikhaylov, Slava, Michael Laver, and Kenneth Benoit. “[Coder Reliability and Misclassification in the Human Coding of Party Manifestos](/assets/files/pdfs/MLB_PA_2012.pdf).” **_Political Analysis  _**20(1): 78–91**.
+*  2012\. Mikhaylov, Slava, Michael Laver, and Kenneth Benoit. “[Coder Reliability and Misclassification in the Human Coding of Party Manifestos](pdfs/MLB_PA_2012.pdf).” **_Political Analysis  _**20(1): 78–91**.
 
 
 ## Replication Materials

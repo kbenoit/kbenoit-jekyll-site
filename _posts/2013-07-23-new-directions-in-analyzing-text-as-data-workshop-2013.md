@@ -36,9 +36,9 @@ Part of an annual event jointly sponsored by the Institute for Quantitative Soci
 
 **1) POLICY ANALYSIS FROM TEXTUAL DATA (9:15-10:45AM)**
 
-  - “[Scaling Politically Meaningful Dimensions Using Texts and Votes](/assets/files/pdfs/NDATAD2013/LDAIRTPaper_Lauderdale.pdf),” [Benjamin Lauderdale](mailto:b.e.lauderdale@lse.ac.uk).
+  - “[Scaling Politically Meaningful Dimensions Using Texts and Votes](pdfs/NDATAD2013/LDAIRTPaper_Lauderdale.pdf),” [Benjamin Lauderdale](mailto:b.e.lauderdale@lse.ac.uk).
 
-  - “[The Evolution of the Security Dilemma in US-China Relations](/assets/files/pdfs/NDATAD2013/US-China%20Relations%20Baggott.pdf),” [Erin Baggott](mailto:ebaggott@fas.harvard.edu).
+  - “[The Evolution of the Security Dilemma in US-China Relations](pdfs/NDATAD2013/US-China%20Relations%20Baggott.pdf),” [Erin Baggott](mailto:ebaggott@fas.harvard.edu).
 
 
 
@@ -51,7 +51,7 @@ Part of an annual event jointly sponsored by the Institute for Quantitative Soci
 
   - “[Judicial Identity and the Written Word: Evidence From Causal Text Analysis](https://dl.dropboxusercontent.com/u/11481940/Gill_Hall_JudicialIdentity.pdf),” [Michael Gill](mailto:michael.z.gill@gmail.com) and [Andrew B. Hall](mailto:hall@fas.harvard.edu).
 
-  - “[Analysis of Causal Topics in Text Data and Time Series with Applications to Presidential Prediction Markets](/assets/files/pdfs/NDATAD2013/km0617s-final-kim.pdf),” Hyun Duk Kim, ChengXiang Zhai, Thomas A. Rietz, [Daniel Diermeier](mailto:d-diermeier@kellogg.northwestern.edu), Meichun Hsu, Malu Castellanos, and Carlos Ceja.
+  - “[Analysis of Causal Topics in Text Data and Time Series with Applications to Presidential Prediction Markets](pdfs/NDATAD2013/km0617s-final-kim.pdf),” Hyun Duk Kim, ChengXiang Zhai, Thomas A. Rietz, [Daniel Diermeier](mailto:d-diermeier@kellogg.northwestern.edu), Meichun Hsu, Malu Castellanos, and Carlos Ceja.
 
 
   Discussants: Andrew Martin and Kevin Quinn
@@ -61,7 +61,7 @@ Part of an annual event jointly sponsored by the Institute for Quantitative Soci
 
 #### 3) NEW APPLICATIONS FOR OLD SCHOOL QUANTITATIVE CORPUS LINGUISTICS APPROACHES (1:30-3:00PM)
 
-  - “[Towards the automated measurement of deliberative communication](/assets/files/pdfs/NDATAD2013/Goldetal2013_Towards%20Automating%20the%20Measurement%20of%20Deliberative%20Communication.pdf).” Valentin Gold and [Katharina Holzinger](mailto:katharina.holzinger@uni-konstanz.de)
+  - “[Towards the automated measurement of deliberative communication](pdfs/NDATAD2013/Goldetal2013_Towards%20Automating%20the%20Measurement%20of%20Deliberative%20Communication.pdf).” Valentin Gold and [Katharina Holzinger](mailto:katharina.holzinger@uni-konstanz.de)
 
   - “[UK Press Portrayal of Migrant Groups: A Public-Facing Application of Quantitative Corpus Linguistic Analysis to Newspaper Texts](http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/Report%20-%20migration%20in%20the%20news.pdf),” (and more about the overall project [here](http://www.migrationobservatory.ox.ac.uk/reports/migration-news)) [Scott Blinder](mailto:scott.blinder@compas.ox.ac.uk) and [William Allen](mailto:william.allen@compas.ox.ac.uk ).
 
@@ -74,9 +74,9 @@ Part of an annual event jointly sponsored by the Institute for Quantitative Soci
 
 #### 4) TRICK, OR TWEET? (3:30-5:00PM)
 
-  - “[Evolution of Political Discussion on Twitter &#8211; Ideology, Issues, and Events](/assets/files/pdfs/NDATAD2013/barbera_twitter_london.pdf)”, [Pablo Barbara](mailto:pablo.barbera@nyu.edu), Rich Bonneau, John Jost, [Jonathan Nagler](mailto:jonathan.nagler@nyu.edu), [Josh Tucker](mailto:joshua.tucker@nyu.edu)
+  - “[Evolution of Political Discussion on Twitter &#8211; Ideology, Issues, and Events](pdfs/NDATAD2013/barbera_twitter_london.pdf)”, [Pablo Barbara](mailto:pablo.barbera@nyu.edu), Rich Bonneau, John Jost, [Jonathan Nagler](mailto:jonathan.nagler@nyu.edu), [Josh Tucker](mailto:joshua.tucker@nyu.edu)
 
-  - “[Predicting and Interpolating State-level polling using Twitter textual data](/assets/files/pdfs/NDATAD2013/Beauchamp_twitterpolls_2.pdf)”, [Nick Beauchamp](mailto:n.beauchamp@neu.edu)
+  - “[Predicting and Interpolating State-level polling using Twitter textual data](pdfs/NDATAD2013/Beauchamp_twitterpolls_2.pdf)”, [Nick Beauchamp](mailto:n.beauchamp@neu.edu)
 
 
   Discussants: [Andy Eggers](mailto:a.c.eggers@lse.ac.uk) and [Noah Smith](mailto:nasmith@cs.cmu.edu)  <b></b>
@@ -91,8 +91,8 @@ Part of an annual event jointly sponsored by the Institute for Quantitative Soci
 
 #### 5) MEDIA FRENZY (Saturday, 9:30-11:00AM)
 
-  - “[Taking Out the Trash: An Empirical Investigation of Strategic Timing of News Releases](/assets/files/pdfs/NDATAD2013/Taking%20Out%20The%20Trash.pdf).” Greg Austin and [Joseph Walsh](mailto:jtwalsh@crimson.ua.edu).
-  - “[News Media: platform or power broker?  A study of political quotes in newspaper content using syntactic analysis](/assets/files/pdfs/NDATAD2013/atteveldt_textasdata_dutchgrammar.pdf).” [Wouter van Atteveldt](mailto:wouter@vanatteveldt.com).
+  - “[Taking Out the Trash: An Empirical Investigation of Strategic Timing of News Releases](pdfs/NDATAD2013/Taking%20Out%20The%20Trash.pdf).” Greg Austin and [Joseph Walsh](mailto:jtwalsh@crimson.ua.edu).
+  - “[News Media: platform or power broker?  A study of political quotes in newspaper content using syntactic analysis](pdfs/NDATAD2013/atteveldt_textasdata_dutchgrammar.pdf).” [Wouter van Atteveldt](mailto:wouter@vanatteveldt.com).
 
 
   Discussants: [Arthur Spirling](mailto:aspirling@gov.harvard.edu) and [Cheryl Schonhardt-Bailey](mailto:C.M.Schonhardt-Bailey@lse.ac.uk)
@@ -105,7 +105,7 @@ Part of an annual event jointly sponsored by the Institute for Quantitative Soci
 
   - “[Identifying Media Frames and Frame Dynamics within and across Policy Issues](http://www.cs.cmu.edu/~nasmith/temp/frames-2013.pdf),” [Amber E. Boydstun](mailto:aboydstun@ucdavis.edu), [Justin H. Gross](mailto:jhgross@unc.edu), [Philip Resnik](mailto:resnik@umd.edu), [Noah A. Smith](mailto:nasmith@cs.cmu.edu)
 
-  - “[Signals of Doubt: Harnessing the Power of Text-Mining to Understand Media Coverage of Climate Change](/assets/files/pdfs/NDATAD2013/skepticism_bc2013.pdf),” [Constantine Boussalis](cboussalis@law.harvard.edu)
+  - “[Signals of Doubt: Harnessing the Power of Text-Mining to Understand Media Coverage of Climate Change](pdfs/NDATAD2013/skepticism_bc2013.pdf),” [Constantine Boussalis](cboussalis@law.harvard.edu)
 
 
 
@@ -117,8 +117,8 @@ Part of an annual event jointly sponsored by the Institute for Quantitative Soci
 
 #### 7) AND NOW FOR SOME COMPUTER SCIENCE APPROACHES (13:30-15:00)
 
-  - “[Measuring Ideological Proportions in Political Speeches](/assets/files/pdfs/NDATAD2013/sim%2Bacree%2Bgross%2Bsmith.emnlp13.pdf),” Yanchuan Sim, Brice D. L. Acree, [Justin Gross](mailto:jhgross@unc.edu), and [Noah A. Smith](mailto:nasmith@cs.cmu.edu). (And a political science version of this paper [available here](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2299991).)
-  -  “[Tracing the Flow of Policy Ideas in Legislatures: A Computational Approach](/assets/files/pdfs/NDATAD2013/PolicyIdeas2013TextasData.pdf),” [John Wilkerson](mailto:jwilker@uw.edu), David Smith, Nick Stramp, Jeremy Dashiell. John will also briefly describe the [Poliinformatics project](http://poliinformatics.org).
+  - “[Measuring Ideological Proportions in Political Speeches](pdfs/NDATAD2013/sim%2Bacree%2Bgross%2Bsmith.emnlp13.pdf),” Yanchuan Sim, Brice D. L. Acree, [Justin Gross](mailto:jhgross@unc.edu), and [Noah A. Smith](mailto:nasmith@cs.cmu.edu). (And a political science version of this paper [available here](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2299991).)
+  -  “[Tracing the Flow of Policy Ideas in Legislatures: A Computational Approach](pdfs/NDATAD2013/PolicyIdeas2013TextasData.pdf),” [John Wilkerson](mailto:jwilker@uw.edu), David Smith, Nick Stramp, Jeremy Dashiell. John will also briefly describe the [Poliinformatics project](http://poliinformatics.org).
 
 
   Discussants: [Hanna Wallach](mailto:wallach@cs.umass.edu) and [Ken Younge](mailto:kyounge@purdue.edu)
@@ -129,9 +129,9 @@ Part of an annual event jointly sponsored by the Institute for Quantitative Soci
 #### 8) TOOLS AND METHODS ROUNDTABLE (15:15-17:00PM)
 
   - “[Structural topic models for open-ended survey responses](http://scholar.harvard.edu/files/dtingley/files/topicmodelsopenendedexperiments.pdf),” [Brandon M. Stewart](mailto:brandonmstewart@gmail.com).
-  - “[Policy Miner: From Oysters to Pearls](/assets/files/pdfs/NDATAD2013/Rahmani_Arnold_2013.pdf)”, Hossein Rahmani and [Christine Arnold](mailto:c.arnold@maastrichtuniversity.nl).
-  - “[Corpus-Based Dictionaries for Sentiment Analysis of Specialized Vocabularies](/assets/files/pdfs/NDATAD2013/Rice-Zorn-LSE-V01.pdf),” [Doug Rice](mailto:douglas.r.rice@gmail.com) and Christopher Zorn.
-  - &#8220;[PiCloud: A Simple Approach to Cloud Computing](/assets/files/pdfs/NDATAD2013/cloud_computing_slides.pdf),&#8221; [Ken Younge](mailto:kyounge@purdue.edu).
+  - “[Policy Miner: From Oysters to Pearls](pdfs/NDATAD2013/Rahmani_Arnold_2013.pdf)”, Hossein Rahmani and [Christine Arnold](mailto:c.arnold@maastrichtuniversity.nl).
+  - “[Corpus-Based Dictionaries for Sentiment Analysis of Specialized Vocabularies](pdfs/NDATAD2013/Rice-Zorn-LSE-V01.pdf),” [Doug Rice](mailto:douglas.r.rice@gmail.com) and Christopher Zorn.
+  - &#8220;[PiCloud: A Simple Approach to Cloud Computing](pdfs/NDATAD2013/cloud_computing_slides.pdf),&#8221; [Ken Younge](mailto:kyounge@purdue.edu).
 
 
   (General audience reaction will replace discussants for this session.)

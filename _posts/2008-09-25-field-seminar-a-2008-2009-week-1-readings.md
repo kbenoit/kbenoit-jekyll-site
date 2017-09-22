@@ -18,7 +18,7 @@ The **meeting time and place** is Friday 10-13:00, College Green 4, starting 3 O
 
 ### Week 1 &#8211; 3 Oct 2008 &#8211; Ken Benoit - Policy Positions and Policy Spaces
 
-Kenneth Benoit and Michael Laver. 2006. _[**Party Policy in Modern Democracies**](http://www.politics.tcd.ie/ppmd/)_. London: Routledge, 2006. Wiesehomeier, Nina and Kenneth Benoit."Presidents, Parties And Policy Competition."University of Konstanz and Trinity College Dublin manuscript. [**Version: July 7, 2008.**](/assets/files/pdfs/PPPC_LatinAm_7july2008.pdf)
+Kenneth Benoit and Michael Laver. 2006. _[**Party Policy in Modern Democracies**](http://www.politics.tcd.ie/ppmd/)_. London: Routledge, 2006. Wiesehomeier, Nina and Kenneth Benoit."Presidents, Parties And Policy Competition."University of Konstanz and Trinity College Dublin manuscript. [**Version: July 7, 2008.**](pdfs/PPPC_LatinAm_7july2008.pdf)
 
 
 
@@ -47,7 +47,7 @@ Kenneth Benoit and Michael Laver. 2006. _[**Party Policy in Modern Democracies**
 
 
 
-  2004. Benoit, Kenneth and Jacqueline Hayden. "[Institutional Change and Persistence: The Evolution of Poland&#8217;s Electoral System 1989-2001](/assets/files/pdfs/BenoitHayden_JOP2004.pdf)."_Journal of Politics _66 (May, 2): 396-427.
+  2004. Benoit, Kenneth and Jacqueline Hayden. "[Institutional Change and Persistence: The Evolution of Poland&#8217;s Electoral System 1989-2001](pdfs/BenoitHayden_JOP2004.pdf)."_Journal of Politics _66 (May, 2): 396-427.
 
 
 
