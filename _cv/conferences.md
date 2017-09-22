@@ -5,7 +5,7 @@ type: cv
 
 **(Selected conferences and presentations)**
 
-30 June 2009\. “[**Issues and Challenges in Estimating Political Preferences from** ](pdfs/EITM_Mannheim_2009.pdf)[**Text**](pdfs/EITM_Mannheim_2009.pdf)“. Empirical Implications of Theoretical Models, ECPR Summer School, University of Mannheim.
+30 June 2009\. “[**Issues and Challenges in Estimating Political Preferences from** ](/pdfs/EITM_Mannheim_2009.pdf)[**Text**](/pdfs/EITM_Mannheim_2009.pdf)“. Empirical Implications of Theoretical Models, ECPR Summer School, University of Mannheim.
 
 19-20 October 2007\. Political Studies Association of Ireland annual conference. Presented paper “Irish Political Parties and Policcy Stances on European Integration: A Research Note.”
 

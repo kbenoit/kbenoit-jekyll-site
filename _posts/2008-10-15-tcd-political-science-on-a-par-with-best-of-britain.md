@@ -12,7 +12,7 @@ categories:
 
 
 
-  Michael Marsh and I have just finalized [our comparative assessment of the research output an impact of political studies scholars in Ireland](pdfs/Benoit_Marsh_PRQ_2010.pdf). This exercise compares citation measures for all permanent, full-time academic staff in eight Irish politics departments (in the Republic and in Northern Ireland). That paper can be found **[here](pdfs/Benoit_Marsh_PRQ_2010.pdf)** and earlier discussions during the drafting of this paper feature **[elsewhere on this blog](/ranking-of-politics-scholarship-in-ireland-available/)**.
+  Michael Marsh and I have just finalized [our comparative assessment of the research output an impact of political studies scholars in Ireland](/pdfs/Benoit_Marsh_PRQ_2010.pdf). This exercise compares citation measures for all permanent, full-time academic staff in eight Irish politics departments (in the Republic and in Northern Ireland). That paper can be found **[here](/pdfs/Benoit_Marsh_PRQ_2010.pdf)** and earlier discussions during the drafting of this paper feature **[elsewhere on this blog](/ranking-of-politics-scholarship-in-ireland-available/)**.
 
 
 

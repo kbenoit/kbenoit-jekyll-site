@@ -24,7 +24,7 @@ Here is a Dilbert cartoon that offering one apparently common view that may appl
 
 [<img class="aligncenter size-full wp-image-23" title="dilbert1" src="/assets/images/dilbert1.jpg" alt="" width="500" height="155" srcset="/assets/images/dilbert1.jpg 560w, /assets/images/dilbert1-300x93.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />](/assets/images/dilbert1.jpg)
 
-There has also been some **interesting correspondence** regarding our paper. On April 24, 2008 we received [**this official letter**](pdfs/UCDreply28apr2008.pdf "UCD's reply letter on our exercise") from Professor Jennifer Todd, Chair of the Research and Innovation Committee from UCD&#8217;s School of Politics and International Relations. (This letter was also publicly sent to the Political Studies Association of Ireland mailing list.) Our reply was also posted to the PSAI mailing list:
+There has also been some **interesting correspondence** regarding our paper. On April 24, 2008 we received [**this official letter**](/pdfs/UCDreply28apr2008.pdf "UCD's reply letter on our exercise") from Professor Jennifer Todd, Chair of the Research and Innovation Committee from UCD&#8217;s School of Politics and International Relations. (This letter was also publicly sent to the Political Studies Association of Ireland mailing list.) Our reply was also posted to the PSAI mailing list:
 
 <address style="padding-left: 30px;">
   Dear Jennifer,
