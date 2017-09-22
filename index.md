@@ -20,3 +20,4 @@ Quantitative methods for scaling latent political traits have much in common wi
 {% comment %}
 this is a comment to make a blank commit and push for site regeneration
 {% endcomment %}
+<!-- CHECK WHICH VERSION OF REPO IS USED FOR SITE REGENERATION 12:10PM-->
