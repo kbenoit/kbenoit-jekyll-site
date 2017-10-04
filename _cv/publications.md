@@ -7,6 +7,8 @@ type: cv
 
 ### Articles
 
+Forthcoming.  Welbers, Kasper, Wouter van Atteveldt, and Kenneth Benoit.  "Text analysis in R."  _**Communications Methods and Measures**_.
+
 Forthcoming. Julio Amador, Sofia Collignon-Delmar, Kenneth Benoit, and Akitaka Matsuo.  "[Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data](/pdfs/Amador_etal_SPP_2017.pdf)". _**Statistics, Politics and Policy**_.
 
 2017\. Daniel Schwarz, Denise Traber and Kenneth Benoit. “[Estimating Intra-Party Preferences: Comparing Speeches to Votes](/pdfs/Schwarz_Traber_Benoit_PSRM.pdf).” **_Political Science Research and Methods_** 5(2): 379-396. doi:10.1017/psrm.2015.77.
