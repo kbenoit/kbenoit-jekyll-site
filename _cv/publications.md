@@ -39,7 +39,7 @@ Forthcoming. Julio Amador, Sofia Collignon-Delmar, Kenneth Benoit, and Akitaka M
 
 2010\. Kenneth Benoit and Michael Marsh. “[Incumbent and Challenger Campaign Spending Effects in Proportional Electoral Systems: The Irish Elections of 2002](/pdfs/Benoit_Marsh_PRQ_2010.pdf).” _**Political Research Quarterly**_ 63(1, March): 159-173\. **Replication materials** [**here**](/assets/files/Benoit_Marsh_PRQ2010_replication.zip).
 
-2009\.  Kenneth Benoit. “[Irish Political Parties and Policy Stances on European Integration](/pdfs/Benoit_IPS_2009.pdf).” _**Irish Political Studies** _24(4, December): 447-466.
+2009\.  Kenneth Benoit. “[Irish Political Parties and Policy Stances on European Integration](/pdfs/Benoit_IPS_2009.pdf).” _**Irish Political Studies**_ 24(4, December): 447-466.
 
 2009\. Nina Wiesehomeier and Kenneth Benoit. “[Presidents, Parties And Policy Competition.](/pdfs/Wiesehomeier_Benoit_JOP_2009.pdf)” _**Journal of Politics**_ 71(4, October): 1435-1447. _Winner of the Gulbenkian Prize 2011( for the best paper published by a young social scientist [in all fields except economics] from a Portuguese institution in an international journal in the past two years)._ The **web-based appendix** and the **dataset and replication materials** are available from [http://ninaw.webfactional.com/?page_id=11](http://ninaw.webfactional.com/?page_id=11).
 
