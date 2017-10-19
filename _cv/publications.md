@@ -89,7 +89,7 @@ Forthcoming. Julio Amador, Sofia Collignon-Delmar, Kenneth Benoit, and Akitaka M
 
 2003\. Laver, Michael and Kenneth Benoit. “[The Evolution of Party Systems Between Elections](/pdfs/laverbenoitAJPS.pdf).” **_American Journal of Political Science_** 47(2, April): 215-233.
 
-2003. Gascon, Generoso G. _et. al._ (as a coauthor). “[Randomized Treatment Study of Inosiplex Versus Combined Inosiplex and Intraventricular Interferon-α](/pdfs/J Child Neurol-2003-Gascon-819-27.pdf) **[in Subacute Sclerosing Panencephalitis (SSPE): International Multicenter Study](/pdfs/J%20Child%20Neurol-2003-Gascon-819-27.pdf).”**_**Journal of Child Neurolology**_ 18: 819-827.
+2003. Gascon, Generoso G. _et. al._ (as a coauthor). "[Randomized Treatment Study of Inosiplex Versus Combined Inosiplex and Intraventricular Interferon-α](/pdfs/J%20Child%20Neurol-2003-Gascon-819-27.pdf)." _**Journal of Child Neurolology**_ 18: 819-827.
 
 2002\. Benoit, Kenneth. “[Like Déja Vu All Over Again: The Hungarian Elections of 2002](/pdfs/Benoit_2002_JCSTP.pdf "Like Deja Vu All Over Again").” **_Journal of Communist Studies and Transition Politics_** 18(4, Dec): 119-133.
 
@@ -97,7 +97,7 @@ Forthcoming. Julio Amador, Sofia Collignon-Delmar, Kenneth Benoit, and Akitaka M
 
 2002\. Benoit, Kenneth. “[The Endogeneity Problem in Electoral Studies: A Critical Reexamination of Duverger’s Mechanical Effect](/pdfs/benoit_2002_ES.pdf).” **_Electoral Studies_** 21(1, March): 35-46\.<a name="tex2html25"></a>
 
-2001\. Benoit, Kenneth. “[District Magnitude, Electoral Formula, and the Number of Parties](/pdfs/benoit_2001-ejpr.pdf).”_ **European Journal of Political Research**_ 39(2, March): 203-224\. [Local Hungarian election dataset](/assets/files/HungaryLocal1994.zip) and [replication code](/assets/files/HungaryLocal1994_mnform.zip).
+2001\. Benoit, Kenneth. “[District Magnitude, Electoral Formula, and the Number of Parties](/pdfs/benoit_2001-ejpr.pdf).” _**European Journal of Political Research**_ 39(2, March): 203-224\. [Local Hungarian election dataset](/assets/files/HungaryLocal1994.zip) and [replication code](/assets/files/HungaryLocal1994_mnform.zip).
 
 2001\. Benoit, Kenneth and John W. Schiemann. “[Institutional Choice in New Democracies: Bargaining Over Hungary’s 1989 Electoral Law](/pdfs/benoit_2001_JTP.pdf).” **_Journal of Theoretical Politics_** 13(2, April): 159-188.
 
