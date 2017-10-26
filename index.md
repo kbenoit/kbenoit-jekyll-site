@@ -7,7 +7,7 @@ path: ""
 
 [Google Scholar Page](http://scholar.google.co.uk/citations?user=hp1p9TEAAAAJ "Kenneth Benoit's Google Scholar page")
 
-Patrick Perry and Kenneth Benoit.  October 23, 2017.  "[Scaling Text with the Class Affinity Model]()."  
+Patrick Perry and Kenneth Benoit.  October 23, 2017.  "[Scaling Text with the Class Affinity Model](http://arxiv.org/abs/1710.08963)."  
 
 {: .notice}
   Probabilistic methods for classifying text form a rich tradition in machine
