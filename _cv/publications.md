@@ -15,7 +15,7 @@ Forthcoming. Julio Amador, Sofia Collignon-Delmar, Kenneth Benoit, and Akitaka M
 
 2016\. Paul Nulty, Yannis Theocharis, Sebastian Adrian Popa, Olivier Parnet, and Kenneth Benoit. “[Social Media and Political Communication in the 2014 Elections to the European Parliament](/pdfs/Nulty_et_al_2016.pdf)”. _**Electoral Studies**_ 44: 429-444.
 
-2016\. Benoit, Kenneth, Drew Conway, Benjamin E. Lauderdale, Michael Laver, and Slava Mikhaylov “[Crowd-Sourced Text Analysis: Reproducible and Agile Production of Political Data.](http://eprints.lse.ac.uk/62242/)” _**American Political Science Review**_ 110 (2, May).
+2016\. Benoit, Kenneth, Drew Conway, Benjamin E. Lauderdale, Michael Laver, and Slava Mikhaylov. "[Crowd-Sourced Text Analysis: Reproducible and Agile Production of Political Data.](http://eprints.lse.ac.uk/62242/)" _**American Political Science Review**_ 110 (2, May): 278-295.
 
 2015\. Herzog, Alexander and Kenneth Benoit. “[The Most Unkindest Cuts: Speaker Selection and Expressed Government Dissent During Economic Crisis](/pdfs/Herzog_Benoit_JOP_2015.pdf)“.  _**Journal of Politics**_ 77(4, October): 1157-1175.
 
