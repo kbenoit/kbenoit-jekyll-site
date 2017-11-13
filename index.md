@@ -7,7 +7,7 @@ path: ""
 
 [Google Scholar Page](http://scholar.google.co.uk/citations?user=hp1p9TEAAAAJ "Kenneth Benoit's Google Scholar page")
 
-Benoit, Kenneth, Kevin Munger, and Arthur Spirling. October 30, 2017.  "[Measuring and Explaining Political Sophistication Through Textual Complexity](http://www.nyu.edu/projects/spirling/documents/BMS_complex.pdf)."  London School of Economics and New York University manuscript.
+Benoit, Kenneth, Kevin Munger, and Arthur Spirling. October 30, 2017.  "[Measuring and Explaining Political Sophistication Through Textual Complexity](http://ssrn.com/abstract=3062061)."  London School of Economics and New York University manuscript.
 
 {: .notice}
  The sophistication of political communication has been measured using
