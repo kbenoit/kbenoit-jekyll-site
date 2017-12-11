@@ -27,11 +27,11 @@ Forthcoming. Julio Amador, Sofia Collignon-Delmar, Kenneth Benoit, and Akitaka M
 
 2012\. Benoit, Kenneth,  Michael Laver, Will Lowe, and Slava Mikhaylov. “[How to scale coded text units without bias: A response to Gemenis](/pdfs/Benoitetal_ElStudies_2012.pdf).” _**Electoral Studies**_  31: 605–608.
 
-2012\. Benoit, Kenneth and Michael Laver. “[The Dimensionality Of Political Space: Epistemological And Methodological Considerations](/pdfs/EUP-2012_Benoit-Laver.pdf).” _**European Union Politics** _13(2): 194-218.
+2012\. Benoit, Kenneth and Michael Laver. “[The Dimensionality Of Political Space: Epistemological And Methodological Considerations](/pdfs/EUP-2012_Benoit-Laver.pdf).” _**European Union Politics**_ 13(2): 194-218.
 
 2012\. McElroy, Gail and Kenneth Benoit. “[Policy Positioning in the European Parliament](/pdfs/European%20Union%20Politics-2012-McElroy-150-67.pdf).” _**European Union Politics**_. 13(1): 150-167. [Web-based appendix here](/pdfs/MEPS2010_EUP_Appendix.pdf).
 
-2012\. Mikhaylov, Slava, Michael Laver, and Kenneth Benoit. “[Coder Reliability and Misclassification in the Human Coding of Party Manifestos](/pdfs/MLB_PA_2012.pdf).” **_Political Analysis  _**20(1): 78–91**. Replication materials including original data available [**here**](/assets/files/CMP_reliability_replication.zip).
+2012\. Mikhaylov, Slava, Michael Laver, and Kenneth Benoit. “[Coder Reliability and Misclassification in the Human Coding of Party Manifestos](/pdfs/MLB_PA_2012.pdf).” **_Political Analysis_** 20(1): 78–91**. Replication materials including original data available [**here**](/assets/files/CMP_reliability_replication.zip).
 
 2011\. William Lowe, Kenneth Benoit, Slava Mikhaylov, and Michael Laver. “[Scaling Policy Preferences From Coded Political Texts](/pdfs/Loweetal_2010_LSQ.pdf).” _**Legislative Studies Quarterly** 26(1, Feb): 123-155\._ The **replication** **dataset** also containing more than 20 new scales (and confidence intervals) is available **[here](http://hdl.handle.net/1902.1/17073)**.
 
@@ -53,7 +53,7 @@ Forthcoming. Julio Amador, Sofia Collignon-Delmar, Kenneth Benoit, and Akitaka M
 
 2008\. Kenneth Benoit and Michael Laver. “[Compared to What? A Comment on ‘A Robust Transformation Procedure for Interpreting Political Text’ by Martin and Vanberg.](/pdfs/BenoitLaver_PA_2007.pdf)” _**Political Analysis**_ 16(1, Winter): 101-111.
 
-2007\. Laver, Michael and Kenneth Benoit. “[Le changement des systèmes partisans et la transformation des espaces politiques.](/pdfs/RIPC2007french.pdf)” **_Revue Internationale de Politique Compar_é_e_** 14(2): 303-324. [Original English version, “Party system change: evidence of changing policy spaces”, presented at IPSA 2006.](/pdfs/PartyChangeIPSA2006FINAL.pdf)
+2007\. Laver, Michael and Kenneth Benoit. “[Le changement des systèmes partisans et la transformation des espaces politiques.](/pdfs/RIPC2007french.pdf)” **_Revue Internationale de Politique Comparée_** 14(2): 303-324. [Original English version, “Party system change: evidence of changing policy spaces”, presented at IPSA 2006.](/pdfs/PartyChangeIPSA2006FINAL.pdf)
 
 2007\. Benoit, Kenneth. “[Electoral Laws as Political Consequences: Explaining the Origins and Change of Electoral Institutions](/pdfs/Benoit_07ARPS_electoral_laws.pdf).” **_Annual Review of Political Science_** 10: 363-90.
 
