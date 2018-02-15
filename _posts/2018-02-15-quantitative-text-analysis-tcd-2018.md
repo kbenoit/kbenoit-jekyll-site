@@ -16,10 +16,12 @@ categories:
 {:toc}
 
 ## Meeting times
+{:.no_toc}
 
 16 February, 23 February, 9 March, 16 March, 23 March 2018.
 
 ## Short Outline
+{:.no_toc}
 
 The course surveys methods for systematically extracting quantitative information from political text for social scientific purposes, starting with classical content analysis and dictionary-based methods, to classification methods, and state-of-the-art scaling methods and topic models for estimating quantities from text using statistical techniques. The course lays a theoretical foundation for text analysis but mainly takes a very practical and applied approach, so that students learn how to apply these methods in actual research. The common focus across all methods is that they can be reduced to a three-step process: first, identifying texts and units of texts for analysis; second, extracting from the texts quantitatively measured features - such as coded content categories, word counts, word types, dictionary counts, or parts of speech - and converting these into a quantitative matrix; and third, using quantitative or statistical methods to analyse this matrix in order to generate inferences about the texts or their authors. The course systematically covers these methods in a logical progression, with a practical, hands-on approach where each technique will be applied using appropriate software to real texts.
 
@@ -33,7 +35,8 @@ The course is also designed to cover many fundamental issues in quantitative tex
 
 This session will cover fundamentals, including the continuum from traditional (non-computer assisted) content analysis to fully automated quantitative text analysis. We will cover the conceptual foundations of content analysis and quantitative content analysis, discuss the objectives, the approach to knowledge, and the particular view of texts when performing quantitative analysis. We will also discuss issues including where to obtain textual data; formatting and working with text files; indexing and meta-data; units of analysis; and definitions of features and measures commonly extracted from texts, including stemming, and stop-words.
 
-#### Required Reading:
+#### Required Reading
+{:.no_toc}
 
 - Vignette and instructions at https://docs.quanteda.io  
 - Tutorials at https://tutorials.quanteda.io/  
@@ -43,8 +46,8 @@ This session will cover fundamentals, including the continuum from traditional 
 - Dunning (1993)  
 
 
-#### Recommended Reading:
-
+#### Recommended Reading
+{:.no_toc}
 
 - Krippendorff (2013, Ch. 1–2, 5, 7)  
 - Wikipedia entry on Character encoding, http://en.wikipedia.org/wiki/Text_encoding  
@@ -55,6 +58,7 @@ This session will cover fundamentals, including the continuum from traditional 
 
 
 #### Resources
+{:.no_toc}
 
 * [Exercise 1: Working with Texts in quanteda](/assets/courses/tcd2018qta/exercise1.Rmd)
 * [Example code for Week 1](/assets/courses/tcd2018qta/day1examples.R) (using [quanteda](http://github.com/kbenoit/quanteda))
@@ -64,18 +68,21 @@ This session will cover fundamentals, including the continuum from traditional 
 
 Here we focus on quantitative methods for describing texts, focusing on summary measures that highlight particular characteristics of documents and allowing these to be compared. These meth- ods include characterizing texts through concordances, co-occurrences, and keywords in context; complexity and readability measures; and an in-depth discussion of text types, tokens, and equiv- alencies. We will also discuss weighting strategies for features, such as tf-idf. The emphasis will be on comparing texts, through concordances and keyword identification, dissimilarity measures, association models, and vector-space models.
 
-#### Required Reading:
+#### Required Reading
+{:.no_toc}
 
 - Krippendorff (2013, Ch. 10)  
 - Lowe et al. (2011)  
 - Manning, Raghavan and Schütze (2008, Section 6.3)
 
 
-#### Recommended Reading:
+#### Recommended Reading
+{:.no_toc}
 
 - Seale, Ziebland and Charteris-Black (2006)
 
 #### Resources
+{:.no_toc}
 
 - [Exercise 2: Describing and comparing texts and their features](/assets/courses/tcd2018qta/exercise2.html)
 - [Example code for Week 2](/assets/courses/tcd2018qta/day2examples.R)
@@ -85,21 +92,22 @@ Here we focus on quantitative methods for describing texts, focusing on summary 
 
 Automatic dictionary-based methods involve association of pre-defined word lists with particular quantitative values assigned by the researcher for some characteristic of interest. This topic covers the design model behind dictionary construction, including guidelines for testing and refining dic- tionaries. Hand-on work will cover commonly used dictionaries such as LIWC, RID, and the Harvard IV-4, with applications. We will also review a variety of text pre-processing issues and textual data concepts such as word types, tokens, and equivalencies, including word stemming and trimming of words based on term and/or document frequency.
 
-#### Required Reading:
+#### Required Reading
+{:.no_toc}
 
 - Neuendorf (2002, Ch. 6)  
 - Laver and Garry (2000)  
 - Rooduijn and Pauwels (2011)
 
-#### Recommended Reading:
+#### Recommended Reading
+{:.no_toc}
 
 - Pennebaker and Chung (2008)  
 - Tausczik and Pennebaker (2010)  
 - Loughran and McDonald (2011)  
 
-
-
 #### Resources
+{:.no_toc}
 
 - [Exercise 3: Applying, modifying, and creating dictionaries for the analysis of political texts.
  (](/assets/courses/tcd2018qta/exercise3.html)and the [.Rmd source](/assets/courses/tcd2018qta/exercise3.Rmd) for those who would like to use it as a template for their answers)
@@ -111,14 +119,16 @@ Automatic dictionary-based methods involve association of pre-defined word lists
 
 Classification methods permit the automatic classification of texts in a test set following machine learning from a training set. We will introduce machine learning methods for classifying documents, including one of the most popular classifiers, the Naive Bayes model. The topic also introduces validation and reporting methods for classifiers and discusses where these methods are applicable. Building on the Naive Bayes classifier, we introduce the “Wordscores” method of Laver, Benoit and Garry (2003) for scaling latent traits, and show the link between classification and scaling. We also cover applications of penalized regression to score and scale texts.
 
-#### Required Reading:
+#### Required Reading
+{:.no_toc}
 
 - Manning, Raghavan and Schütze (2008, Ch. 13)  
 - Lantz (2013, Ch. 3–4)  
 - Evans et al. (2007)  
 - Laver, Benoit and Garry (2003)  
 
-#### Recommended Reading:
+#### Recommended Reading
+{:.no_toc}
 
 - Lantz (2013, Ch. 10)  
 - Statsoft,“Naive Bayes Classifier Introductory Overview,”http://www.statsoft.com/textbook/naive-bayes-classifier/.  
@@ -142,13 +152,15 @@ Dirichlet Allocation (LDA) model and the Structural Topic Model (STM), which
 allows researchers to use covariates to learn about the prevalence and content
 of topics.
 
-#### Required Reading:
+#### Required Reading
+{:.no_toc}
 
 * Blei (2012)
 * Roberts et al. (2014)
 * Blei, Ng and Jordan (2003)
 
-#### Recommended Reading:
+#### Recommended Reading
+{:.no_toc}
 
 * Beil, Ester and Xu (2002)
 * Chang et al. (2009)
@@ -158,9 +170,8 @@ of topics.
 * James et al. (2013, Ch. 10.3)
 * Zumel and Mount (2014, Ch. 8)
 
-
-
 #### Resources
+{:.no_toc}
 
 - [Exercise 4: Classifying legal documents and legislative speeches.](/assets/courses/tcd2018qta/exercise4.html)  
 - _Exercise 4 solution_  
@@ -274,11 +285,13 @@ Zumel, Nina and John Mount. 2014. _Practical Data Science with R_. Manning Publi
 ### Final Assignment
 
 #### Project Guidelines
+{:.no_toc}
 
 The final project is a written analysis of approximately 4,000-5,000 words. The project replaces a final exam, and is designed to give you a chance to analyze a set of texts that you have chosen, reflecting (hopefully) your own research interests. This can be, and probably makes the most sense to be, textual data from something you are already studying. Which texts you choose, what question you investigate, and how you analyze the texts is your choice, but you must justify the choice.
 
 
 #### Content
+{:.no_toc}
 
 Your content should include the following:
 
@@ -293,10 +306,12 @@ Your content should include the following:
 
 
 #### Formatting
+{:.no_toc}
 
 There is no rigid set of guidelines, but you should use a Chicago manual of style compatible referencing system (parenthetical references rather than footnotes). Tables should be formatted rather than consisting of pasted output from a statistical package. Think of trying to look (roughly) as if you were formatting a journal article.
 
 
 #### Deadline
+{:.no_toc}
 
 30 April 2018, 5pm, by email to [kbenoit@tcd.ie](mailto:kbenoit@tcd.ie).

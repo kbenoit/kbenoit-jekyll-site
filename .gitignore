@@ -16,5 +16,5 @@ npm-debug.log*
 .Rproj.user
 r-scr/
 .Rhistory
-
+_posts/*.html
 .Rhistory
