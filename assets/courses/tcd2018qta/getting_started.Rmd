@@ -1,10 +1,15 @@
 ---
 title: "Quant 3: Supplemental Materials for Week 1"
 date: "16 February 2018"
-output:
-  html_document: default
-  pdf_document: default
+output: html_document
 ---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "##"
+)
+```
 
 # Introduction to RMarkdown
 
