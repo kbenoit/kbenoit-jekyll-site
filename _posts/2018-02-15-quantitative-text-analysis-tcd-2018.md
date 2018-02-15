@@ -65,8 +65,9 @@ from texts, including stemming, and stop-words.
 #### Resources
 {:.no_toc}
 
+* [Week 1 slides](/assets/courses/tcd2018qta/QTA_TCD_Day1.pdf)  
 * [Getting Started with quanteda and R](/assets/courses/tcd2018qta/getting_started.html) and the [`.Rmd` source](/assets/courses/tcd2018qta/getting_started.Rmd), which you should save and try to knit
-* [Exercise 1: Working with Texts in quanteda](/assets/courses/tcd2018qta/exercise1.html) and [`.Rmd` source](/assets/courses/tcd2018qta/exercise1.html)
+* [Assignment 1: Working with Texts in quanteda](/assets/courses/tcd2018qta/exercise1_LASTNAME_FIRSTNAME.html) and [`.Rmd` source](/assets/courses/tcd2018qta/exercise1_LASTNAME_FIRSTNAME.Rmd)
 
 
 ### [Week 2: Quantitative methods for comparing texts](/assets/courses/tcd2018qta/QTA_TCD_Day2.pdf)
@@ -88,7 +89,8 @@ Here we focus on quantitative methods for describing texts, focusing on summary 
 #### Resources
 {:.no_toc}
 
-- [Exercise 2: Describing and comparing texts and their features](/assets/courses/tcd2018qta/exercise2.html)
+- [Week 2 slides](/assets/courses/tcd2018qta/QTA_TCD_Day2.pdf)
+- [Exercise 2: Describing and comparing texts and their features](/assets/courses/tcd2018qta/assignment2_LASTNAME_FIRSTNAME.html) and [`.Rmd` source](assignment2_LASTNAME_FIRSTNAME.Rmd)
 - [Example code for Week 2](/assets/courses/tcd2018qta/day2examples.R)
 
 
