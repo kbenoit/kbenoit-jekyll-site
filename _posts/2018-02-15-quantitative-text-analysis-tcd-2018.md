@@ -12,16 +12,15 @@ categories:
 - Text Analysis
 ---
 
+16 February, 23 February, 9 March, 16 March, 23 March 2018.
+
+**Instructor:** Professor Kenneth Benoit, kbenoit@tcd.ie.  Assignment marking by [Stefan Muüller](MULLERS@tcd.ie).
+
 * This will become a table of contents (this text will be scraped).
 {:toc}
 
-## Meeting times
-{:.no_toc}
 
-16 February, 23 February, 9 March, 16 March, 23 March 2018.
-
-## Short Outline
-{:.no_toc}
+## Overview
 
 The course surveys methods for systematically extracting quantitative information from political text for social scientific purposes, starting with classical content analysis and dictionary-based methods, to classification methods, and state-of-the-art scaling methods and topic models for estimating quantities from text using statistical techniques. The course lays a theoretical foundation for text analysis but mainly takes a very practical and applied approach, so that students learn how to apply these methods in actual research. The common focus across all methods is that they can be reduced to a three-step process: first, identifying texts and units of texts for analysis; second, extracting from the texts quantitatively measured features - such as coded content categories, word counts, word types, dictionary counts, or parts of speech - and converting these into a quantitative matrix; and third, using quantitative or statistical methods to analyse this matrix in order to generate inferences about the texts or their authors. The course systematically covers these methods in a logical progression, with a practical, hands-on approach where each technique will be applied using appropriate software to real texts.
 
@@ -53,7 +52,6 @@ from texts, including stemming, and stop-words.
 - Krippendorff (2013, Chs. 9–10)  
 - Dunning (1993)  
 
-
 #### Recommended Reading
 {:.no_toc}
 
@@ -63,7 +61,6 @@ from texts, including stemming, and stop-words.
 - Neuendorf (2002, Chs. 4–7)  
 - Krippendorff (2013, Ch. 6)  
 - Däubler et al. (2012)
-
 
 #### Resources
 {:.no_toc}
@@ -82,7 +79,6 @@ Here we focus on quantitative methods for describing texts, focusing on summary 
 - Krippendorff (2013, Ch. 10)  
 - Lowe et al. (2011)  
 - Manning, Raghavan and Schütze (2008, Section 6.3)
-
 
 #### Recommended Reading
 {:.no_toc}
@@ -119,11 +115,10 @@ Automatic dictionary-based methods involve association of pre-defined word lists
 
 - [Exercise 3: Applying, modifying, and creating dictionaries for the analysis of political texts.
  (](/assets/courses/tcd2018qta/exercise3.html)and the [.Rmd source](/assets/courses/tcd2018qta/exercise3.Rmd) for those who would like to use it as a template for their answers)
-- _Exercise 3 solution_
 - [Example code for Week 3](/assets/courses/tcd2018qta/day3examples.R)
 
 
-### [Week 4: Machine Learning and Scaling for Texts](/assets/courses/tcd2018qta/QTA_TCD_Day4.pdf)
+### [Week 4: Machine learning and scaling for texts](/assets/courses/tcd2018qta/QTA_TCD_Day4.pdf)
 
 Classification methods permit the automatic classification of texts in a test set following machine learning from a training set. We will introduce machine learning methods for classifying documents, including one of the most popular classifiers, the Naive Bayes model. The topic also introduces validation and reporting methods for classifiers and discusses where these methods are applicable. Building on the Naive Bayes classifier, we introduce the “Wordscores” method of Laver, Benoit and Garry (2003) for scaling latent traits, and show the link between classification and scaling. We also cover applications of penalized regression to score and scale texts.
 
@@ -150,7 +145,7 @@ Classification methods permit the automatic classification of texts in a test se
 - Lowe (2008)
 
 
-### [Week 5: Clustering and Topic models](/assets/courses/tcd2018qta/QTA_TCD_Day5.pdf)
+### [Week 5: Clustering and topic models](/assets/courses/tcd2018qta/QTA_TCD_Day5.pdf)
 
 This session will teach how to automatically classify documents into unknown
 categories using topic models and clustering methods.   We will cover vector
@@ -193,7 +188,6 @@ of topics.
 
 The final project is a written analysis of approximately 4,000-5,000 words. The project replaces a final exam, and is designed to give you a chance to analyze a set of texts that you have chosen, reflecting (hopefully) your own research interests. This can be, and probably makes the most sense to be, textual data from something you are already studying. Which texts you choose, what question you investigate, and how you analyze the texts is your choice, but you must justify the choice.
 
-
 #### Content
 {:.no_toc}
 
@@ -208,17 +202,16 @@ Your content should include the following:
 7.  Results. Apply the methods, present the findings. Be sure to be explicit about any steps taken.
 8.  Conclusions. What conclusions on the question can we draw from the results?
 
-
 #### Formatting
 {:.no_toc}
 
 There is no rigid set of guidelines, but you should use a Chicago manual of style compatible referencing system (parenthetical references rather than footnotes). Tables should be formatted rather than consisting of pasted output from a statistical package. Think of trying to look (roughly) as if you were formatting a journal article.
 
-
 #### Deadline
 {:.no_toc}
 
 30 April 2018, 5pm, by email to [kbenoit@tcd.ie](mailto:kbenoit@tcd.ie).
+
 
 ## References
 
