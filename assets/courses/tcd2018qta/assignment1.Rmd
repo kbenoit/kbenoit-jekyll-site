@@ -1,0 +1,93 @@
+---
+title: 'Quant 3: Assignment 1'
+author: "YOUR NAME HERE"
+date: "22 February 2018"
+output: html_document
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "##"
+)
+```
+
+### Overview
+
+The purpose of this assignment is to familiarize yourself with R, RMarkdown, and `quanteda`.
+
+As with the rest of assignments throughout the term, the goal is to write R code in the chunks within this RMarkdown file that will accomplish the tasks detailed below. Where questions are asked, include your answer in the after the question.
+
+Start by loading the `quanteda` package.
+
+```{r}
+library("quanteda")
+```
+
+You will use the corpus of inaugural addresses by U.S. presidents `data_corpus_inaugural` for this part of the exercise. These data are available as soon as you load `quanteda` and are lazily-loaded once you access them.
+
+Write code to inspect which inaugural address was the longest. Have a look at `texts()` to extract character vectors from the quanteda corpus object.
+
+```{r}
+which.max(nchar(texts(data_corpus_inaugural)))
+```
+
+### Question 1
+
+Explain how this answer works.
+
+How could you do this using a **quanteda** function?
+
+### Question 2
+
+Which president gave the longest speech and in what year was that?
+
+Generate a document-feature matrix from this corpus and call it `sotu_dfm`. Make sure that the text is put into __lowercase__ and words are __stemmed__ as preprocessing steps.
+
+```{r}
+# fill in the line below
+# sotu_dfm <- dfm(...   
+```
+
+### Question 3
+
+Now, look at the 20 most common features in the document-feature matrix.  Hint: `?topfeatures`
+
+```{r}
+# examine top 20 common features
+# topfeatures(, n = 10)
+```
+
+What do most of those tokens have in common?  
+
+What step(s) might you take to focus on a more interesting set of word frequencies?
+
+
+### Question 4
+
+Write code to figure out how many different types of punctuation and how many different types of stopwords were removed.  You may use `tokens()`.  Hints:  `try the `verbose = TRUE` option.  You might prefer to do this using `tokens()` or some of the `tokens_*()` functions.
+
+```{r}
+
+```
+
+### Question 5
+
+Plot a wordcloud of the dfm that has the stopwords, punctuation characters, and numbers removed, but without stemming.  Plot this only for words with a minimum count of 10.  
+
+```{r}
+# textplot_wordcloud(   )
+```
+
+### Question 6
+
+Search for the word "Christmas" from the `data_corpus_irishbudget2010` object.  What is the context in which this term is being used?
+
+Search for the word "Irish" and save the results of this keywords-in-context object to a new object called `irish_kwic`.  Plot an "x-ray" plot for this kwic, in the code bloc below:
+```{r fig.width = 10}
+# textplot_xray()
+```
+
+#### Extra credit
+
+Examine the context of words *related to* "disaster". Hint: you can use the stem of the word along with setting the `regex` argument to `TRUE`.  Execute a query using a pattern match that returns different variations of words based on "disaster" (such as disasters, disastrous, disastrously, etc.).

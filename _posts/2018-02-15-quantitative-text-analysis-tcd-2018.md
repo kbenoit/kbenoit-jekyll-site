@@ -65,8 +65,8 @@ from texts, including stemming, and stop-words.
 #### Resources
 {:.no_toc}
 
-* [Exercise 1: Working with Texts in quanteda](/assets/courses/tcd2018qta/exercise1.Rmd)
-* [Example code for Week 1](/assets/courses/tcd2018qta/day1examples.R) (using [quanteda](http://github.com/kbenoit/quanteda))
+* [Getting Started with quanteda and R](/assets/courses/tcd2018qta/getting_started.html) and the [`.Rmd` source](/assets/courses/tcd2018qta/getting_started.Rmd), which you should save and try to knit
+* [Exercise 1: Working with Texts in quanteda](/assets/courses/tcd2018qta/exercise1.html) and [`.Rmd` source](/assets/courses/tcd2018qta/exercise1.html)
 
 
 ### [Week 2: Quantitative methods for comparing texts](/assets/courses/tcd2018qta/QTA_TCD_Day2.pdf)
