@@ -31,9 +31,17 @@ The course is also designed to cover many fundamental issues in quantitative tex
 
 ## Detailed  Course Schedule
 
-### [Week 1: Introduction and Issues in quantitative text analysis](/assets/courses/tcd2018qta/QTA_TCD_Day1.pdf)
+### [Week 1: Introduction and issues in quantitative text analysis](/assets/courses/tcd2018qta/QTA_TCD_Day1.pdf)
 
-This session will cover fundamentals, including the continuum from traditional (non-computer assisted) content analysis to fully automated quantitative text analysis. We will cover the conceptual foundations of content analysis and quantitative content analysis, discuss the objectives, the approach to knowledge, and the particular view of texts when performing quantitative analysis. We will also discuss issues including where to obtain textual data; formatting and working with text files; indexing and meta-data; units of analysis; and definitions of features and measures commonly extracted from texts, including stemming, and stop-words.
+This session will cover fundamentals, including the continuum from traditional
+(non-computer assisted) content analysis to fully automated quantitative text
+analysis. We will cover the conceptual foundations of content analysis and
+quantitative content analysis, discuss the objectives, the approach to
+knowledge, and the particular view of texts when performing quantitative
+analysis. We will also discuss issues including where to obtain textual data;
+formatting and working with text files; indexing and meta-data; units of
+analysis; and definitions of features and measures commonly extracted
+from texts, including stemming, and stop-words.
 
 #### Required Reading
 {:.no_toc}
@@ -88,7 +96,7 @@ Here we focus on quantitative methods for describing texts, focusing on summary 
 - [Example code for Week 2](/assets/courses/tcd2018qta/day2examples.R)
 
 
-### [Session 3: Automated dictionary-based approaches](/assets/courses/tcd2018qta/QTA_TCD_Day3.pdf)
+### [Week 3: Automated dictionary-based approaches](/assets/courses/tcd2018qta/QTA_TCD_Day3.pdf)
 
 Automatic dictionary-based methods involve association of pre-defined word lists with particular quantitative values assigned by the researcher for some characteristic of interest. This topic covers the design model behind dictionary construction, including guidelines for testing and refining dic- tionaries. Hand-on work will cover commonly used dictionaries such as LIWC, RID, and the Harvard IV-4, with applications. We will also review a variety of text pre-processing issues and textual data concepts such as word types, tokens, and equivalencies, including word stemming and trimming of words based on term and/or document frequency.
 
@@ -115,7 +123,7 @@ Automatic dictionary-based methods involve association of pre-defined word lists
 - [Example code for Week 3](/assets/courses/tcd2018qta/day3examples.R)
 
 
-###  [Week 4: Machine Learning and Scaling for Texts](/assets/courses/tcd2018qta/QTA_TCD_Day4.pdf)
+### [Week 4: Machine Learning and Scaling for Texts](/assets/courses/tcd2018qta/QTA_TCD_Day4.pdf)
 
 Classification methods permit the automatic classification of texts in a test set following machine learning from a training set. We will introduce machine learning methods for classifying documents, including one of the most popular classifiers, the Naive Bayes model. The topic also introduces validation and reporting methods for classifiers and discusses where these methods are applicable. Building on the Naive Bayes classifier, we introduce the “Wordscores” method of Laver, Benoit and Garry (2003) for scaling latent traits, and show the link between classification and scaling. We also cover applications of penalized regression to score and scale texts.
 
@@ -142,7 +150,7 @@ Classification methods permit the automatic classification of texts in a test se
 - Lowe (2008)
 
 
-#### [Week 5: Clustering and Topic models](/assets/courses/tcd2018qta/QTA_TCD_Day5.pdf)
+### [Week 5: Clustering and Topic models](/assets/courses/tcd2018qta/QTA_TCD_Day5.pdf)
 
 This session will teach how to automatically classify documents into unknown
 categories using topic models and clustering methods.   We will cover vector
@@ -178,7 +186,41 @@ of topics.
 - [Example code for Week 4](/assets/courses/tcd2018qta/day4examples.R)
 
 
-### References
+## Final Assignment
+
+#### Project Guidelines
+{:.no_toc}
+
+The final project is a written analysis of approximately 4,000-5,000 words. The project replaces a final exam, and is designed to give you a chance to analyze a set of texts that you have chosen, reflecting (hopefully) your own research interests. This can be, and probably makes the most sense to be, textual data from something you are already studying. Which texts you choose, what question you investigate, and how you analyze the texts is your choice, but you must justify the choice.
+
+
+#### Content
+{:.no_toc}
+
+Your content should include the following:
+
+1.  A cover sheet including the title and your name.  
+2.  An abstract page, with an abstract of no more than 200 words.  
+3.  Introduction.  An expanded version of your abstract, which introduces the question, states the rationale for trying to answer it, briefly describes your corpus, identifies the methods you apply to the texts, and summarizes the findings.
+4.  Motivation. Why have you chosen to analyze this topic? Is there a compelling social reason? Does it contribute to scholarship? This can include a “literature review” (but don’t overdo it).
+5.  Description of your corpus. You are free to choose any corpus you wish, of any size, although you must include a justification for the choice of texts, and acknowledge the source. You will need to document any format conversions or pre-processing steps you have applied to the texts prior to analysis. You should also present some basic summary statistics about the texts, prior to analysis.
+6.  Description of your methods. What techniques will you apply to analyze the texts? Is there a precedent (in previous scholarly literature) for applying such methods to texts similar to yours? Defend why the application of the methods is appropriate.
+7.  Results. Apply the methods, present the findings. Be sure to be explicit about any steps taken.
+8.  Conclusions. What conclusions on the question can we draw from the results?
+
+
+#### Formatting
+{:.no_toc}
+
+There is no rigid set of guidelines, but you should use a Chicago manual of style compatible referencing system (parenthetical references rather than footnotes). Tables should be formatted rather than consisting of pasted output from a statistical package. Think of trying to look (roughly) as if you were formatting a journal article.
+
+
+#### Deadline
+{:.no_toc}
+
+30 April 2018, 5pm, by email to [kbenoit@tcd.ie](mailto:kbenoit@tcd.ie).
+
+## References
 
 Barberá, Pablo. 2015. "Birds of the Same Feather Tweet Together: Bayesian Ideal Point Estimation Using Twitter Data." _Political Analysis_ 23(1):76--91. doi: [`10.1093/pan/mpu011`](https://doi.org/10.1093/pan/mpu011).
 
@@ -279,39 +321,3 @@ Young, L., and Soroka, S. 2012. "[Affective news: The automated coding of sentim
 Yu, B., S. Kaufmann and D. Diermeier. 2008. “Classifying Party Affiliation from Political Speech.” _Journal of Information Technology and Politics_ 5(1):33–48.
 
 Zumel, Nina and John Mount. 2014. _Practical Data Science with R_. Manning Publications.
-
-
-
-### Final Assignment
-
-#### Project Guidelines
-{:.no_toc}
-
-The final project is a written analysis of approximately 4,000-5,000 words. The project replaces a final exam, and is designed to give you a chance to analyze a set of texts that you have chosen, reflecting (hopefully) your own research interests. This can be, and probably makes the most sense to be, textual data from something you are already studying. Which texts you choose, what question you investigate, and how you analyze the texts is your choice, but you must justify the choice.
-
-
-#### Content
-{:.no_toc}
-
-Your content should include the following:
-
-1.  A cover sheet including the title and your name.  
-2.  An abstract page, with an abstract of no more than 200 words.  
-3.  Introduction.  An expanded version of your abstract, which introduces the question, states the rationale for trying to answer it, briefly describes your corpus, identifies the methods you apply to the texts, and summarizes the findings.
-4.  Motivation. Why have you chosen to analyze this topic? Is there a compelling social reason? Does it contribute to scholarship? This can include a “literature review” (but don’t overdo it).
-5.  Description of your corpus. You are free to choose any corpus you wish, of any size, although you must include a justification for the choice of texts, and acknowledge the source. You will need to document any format conversions or pre-processing steps you have applied to the texts prior to analysis. You should also present some basic summary statistics about the texts, prior to analysis.
-6.  Description of your methods. What techniques will you apply to analyze the texts? Is there a precedent (in previous scholarly literature) for applying such methods to texts similar to yours? Defend why the application of the methods is appropriate.
-7.  Results. Apply the methods, present the findings. Be sure to be explicit about any steps taken.
-8.  Conclusions. What conclusions on the question can we draw from the results?
-
-
-#### Formatting
-{:.no_toc}
-
-There is no rigid set of guidelines, but you should use a Chicago manual of style compatible referencing system (parenthetical references rather than footnotes). Tables should be formatted rather than consisting of pasted output from a statistical package. Think of trying to look (roughly) as if you were formatting a journal article.
-
-
-#### Deadline
-{:.no_toc}
-
-30 April 2018, 5pm, by email to [kbenoit@tcd.ie](mailto:kbenoit@tcd.ie).
