@@ -12,7 +12,7 @@ categories:
 - Text Analysis
 ---
 
-16 February, 23 February, 9 March, 16 March, 23 March 2018.
+**When and where:** 16 February, 23 February, 9 March, 16 March, 23 March 2018; Arts Building 3020.
 
 **Instructor:** Professor Kenneth Benoit, kbenoit@tcd.ie.  Assignment marking by [Stefan Muüller](MULLERS@tcd.ie).
 
@@ -217,7 +217,7 @@ There is no rigid set of guidelines, but you should use a Chicago manual of styl
 
 Barberá, Pablo. 2015. "Birds of the Same Feather Tweet Together: Bayesian Ideal Point Estimation Using Twitter Data." _Political Analysis_ 23(1):76--91. doi: [`10.1093/pan/mpu011`](https://doi.org/10.1093/pan/mpu011).
 
-Beauchamp, N. 2017. "[Predicting and Interpolating State‐Level Polls Using Twitter Textual Data.](http://onlinelibrary.wiley.com/doi/10.1111/ajps.12274/full)" American Journal of Political Science, 61(2), 490-503.
+Beauchamp, N. 2017. "[Predicting and Interpolating State‐Level Polls Using Twitter Textual Data.](http://onlinelibrary.wiley.com/doi/10.1111/ajps.12274/full)" _American Journal of Political Science_ 61(2), 490-503.
 
 Beil, F, M Ester and X Xu. 2002. Frequent term-based text clustering. In _Eighth ACM SIGKDD international conference on Knowledge discovery and data mining_. pp. 436–442.
 
@@ -309,7 +309,7 @@ Steinert-Threlkeld, Z. 2018. "[Twitter as Data.](https://www.cambridge.org/core/
 Tausczik, Y R and James W Pennebaker. 2010. “The Psychological Meaning of Words: LIWC and
 Computerized Text Analysis Methods.” _Journal of Language and Social Psychology_ 29(1):24–54.
 
-Young, L., and Soroka, S. 2012. "[Affective news: The automated coding of sentiment in political texts.](http://www.tandfonline.com/doi/abs/10.1080/10584609.2012.671234)" Political Communication, 29(2), 205-231.
+Young, L., and Soroka, S. 2012. "[Affective news: The automated coding of sentiment in political texts.](http://www.tandfonline.com/doi/abs/10.1080/10584609.2012.671234)" _Political Communication_ 29(2), 205-231.
 
 Yu, B., S. Kaufmann and D. Diermeier. 2008. “Classifying Party Affiliation from Political Speech.” _Journal of Information Technology and Politics_ 5(1):33–48.
 
