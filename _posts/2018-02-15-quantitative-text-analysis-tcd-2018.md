@@ -28,7 +28,7 @@ The course surveys methods for systematically extracting quantitative informati
 
 The course is also designed to cover many fundamental issues in quantitative text analysis such as inter-coder agreement, reliability, validation, accuracy, and precision. It focuses on methods of converting texts into quantitative matrixes of features, and then analysing those features using statistical methods. The course briefly covers the qualitative technique of human coding and an- notation but only for the purposes of creating a validation set for automated approaches. These automated approaches include dictionary construction and application, classification and machine learning, scaling models, and topic models. For each topic, we will systematically cover published applications and examples of these methods, from a variety of disciplinary and applied fields but focusing on political science. Lessons will consist of a mixture of theoretical grounding in content analysis approaches and techniques, with hands on analysis of real texts using content analytic and statistical software.
 
-## Detailed  Course Schedule
+## Detailed Course Schedule
 
 ### [Week 1: Introduction and issues in quantitative text analysis](/assets/courses/tcd2018qta/QTA_TCD_Day1.pdf)
 
@@ -67,7 +67,7 @@ from texts, including stemming, and stop-words.
 
 * [Week 1 slides](/assets/courses/tcd2018qta/QTA_TCD_Day1.pdf)  
 * [Getting Started with quanteda and R](/assets/courses/tcd2018qta/getting_started.html) and the [`.Rmd` source](/assets/courses/tcd2018qta/getting_started.Rmd), which you should save and try to knit
-* [Assignment 1: Working with Texts in quanteda](/assets/courses/tcd2018qta/exercise1_LASTNAME_FIRSTNAME.html) and [`.Rmd` source](/assets/courses/tcd2018qta/exercise1_LASTNAME_FIRSTNAME.Rmd)
+* [Assignment 1: Working with Texts in quanteda](/assets/courses/tcd2018qta/exercise1_LASTNAME_FIRSTNAME.html) and [`.Rmd` source](https://github.com/kbenoit/kbenoit.github.io/blob/master/assets/courses/tcd2018qta/assignment1_LASTNAME_FIRSTNAME.Rmd)
 
 
 ### [Week 2: Quantitative methods for comparing texts](/assets/courses/tcd2018qta/QTA_TCD_Day2.pdf)
