@@ -36,17 +36,19 @@ which.max(nchar(texts(data_corpus_inaugural)))
 
 Explain how this answer works.
 
+This answer works because of the magic of the most amazing text package in existence.  And because whatever.
+
 How could you do this using a **quanteda** function?
 
 ### Question 2
 
 Which president gave the longest speech and in what year was that?
 
-Generate a document-feature matrix from this corpus and call it `sotu_dfm`. Make sure that the text is put into __lowercase__ and words are __stemmed__ as preprocessing steps.
+Generate a document-feature matrix from this corpus and call it `ic_dfm`. Make sure that the text is put into __lowercase__ and words are __stemmed__ as preprocessing steps.
 
 ```{r}
 # fill in the line below
-# sotu_dfm <- dfm(...   
+# ic_dfm <- dfm(...   
 ```
 
 ### Question 3
