@@ -13,21 +13,22 @@ Forthcoming. Julio Amador, Sofia Collignon-Delmar, Kenneth Benoit, and Akitaka M
 
 2017\. Daniel Schwarz, Denise Traber and Kenneth Benoit. "[Estimating Intra-Party Preferences: Comparing Speeches to Votes](/pdfs/Schwarz_Traber_Benoit_PSRM.pdf)." **_Political Science Research and Methods_** 5(2): 379-396. [10.1017/psrm.2015.77](https://doi.org/10.1017/psrm.2015.77).
 
-2016\. Paul Nulty, Yannis Theocharis, Sebastian Adrian Popa, Olivier Parnet, and Kenneth Benoit. “[Social Media and Political Communication in the 2014 Elections to the European Parliament](/pdfs/Nulty_et_al_2016.pdf)”. _**Electoral Studies**_ 44: 429-444.
+2016\. Paul Nulty, Yannis Theocharis, Sebastian Adrian Popa, Olivier Parnet, and Kenneth Benoit. “[Social Media and Political Communication in the 2014 Elections to the European Parliament](/pdfs/Nulty_et_al_2016.pdf)”. _**Electoral Studies**_ 44: 429-444.  [10.1016/j.electstud.2016.04.014](https://doi.org/10.1016/j.electstud.2016.04.014)
 
-2016\. Benoit, Kenneth, Drew Conway, Benjamin E. Lauderdale, Michael Laver, and Slava Mikhaylov. "[Crowd-Sourced Text Analysis: Reproducible and Agile Production of Political Data.](http://eprints.lse.ac.uk/62242/)" _**American Political Science Review**_ 110 (2, May): 278-295. **Replication materials** available [here](https://github.com/kbenoit/CSTA-APSR).
+2016\. Benoit, Kenneth, Drew Conway, Benjamin E. Lauderdale, Michael Laver, and Slava Mikhaylov. "[Crowd-Sourced Text Analysis: Reproducible and Agile Production of Political Data.](http://eprints.lse.ac.uk/62242/)" _**American Political Science Review**_ 110 (2, May): 278-295. [10.1017/S0003055416000058](https://doi.org/10.1017/S0003055416000058) **Replication materials** available [here](https://github.com/kbenoit/CSTA-APSR).
 
-2015\. Herzog, Alexander and Kenneth Benoit. “[The Most Unkindest Cuts: Speaker Selection and Expressed Government Dissent During Economic Crisis](/pdfs/Herzog_Benoit_JOP_2015.pdf)“.  _**Journal of Politics**_ 77(4, October): 1157-1175.
+2015\. Herzog, Alexander and Kenneth Benoit. “[The Most Unkindest Cuts: Speaker Selection and Expressed Government Dissent During Economic Crisis](/pdfs/Herzog_Benoit_JOP_2015.pdf)“.  _**Journal of Politics**_ 77(4, October): 1157-1175. [10.1086/682670](https://doi.org/10.1086/682670)
 
-2015\. Laver, Michael and Kenneth Benoit. “[The Basic Arithmetic of Legislative Decisions](/pdfs/Basic_arithmetic_LaverBenoit_2012_final.pdf "The basic arithmetic of legislative decisions (preprint)").” _**American Journal of Political Science**_ 59(2, April): 275-291. [Presentation](https://www.icloud.com/iw/#keynote/BALPcQwc1Vgs5415CPGBOONq3_-dp4hD4O2E/Integer_Arithmetic).
+2015\. Laver, Michael and Kenneth Benoit. “[The Basic Arithmetic of Legislative Decisions](/pdfs/Basic_arithmetic_LaverBenoit_2012_final.pdf "The basic arithmetic of legislative decisions (preprint)").” _**American Journal of Political Science**_ 59(2, April): 275-291. [10.1111/ajps.12111](https://doi.org/10.1111/ajps.12111) [Presentation](https://www.icloud.com/iw/#keynote/BALPcQwc1Vgs5415CPGBOONq3_-dp4hD4O2E/Integer_Arithmetic).
 
-2013\. Lowe, Will and Kenneth Benoit. “[Validating Estimates of Latent Traits From Textual Data Using Human Judgment as a Benchmark](/pdfs/Political Analysis-2013-Lowe-298-313.pdf).” **_Political Analysis_** 21: 298–313. Replication materials available soon from the [Political Analysis dataverse](http://hdl.handle. net/1902.1/20387).
+2013\. Lowe, Will and Kenneth Benoit. “[Validating Estimates of Latent Traits From Textual Data Using Human Judgment as a Benchmark](/pdfs/Political Analysis-2013-Lowe-298-313.pdf).” **_Political Analysis_** 21: 298–313. [10.1093/pan/mpt002](
+https://doi.org/10.1093/pan/mpt002) Replication materials available soon from the [Political Analysis dataverse](http://hdl.handle. net/1902.1/20387).
 
-2012\. Däubler, Thomas, Kenneth Benoit, Slava Mikhaylov, and Michael Laver. “[Natural Sentences as Valid Units for Coded Political Texts](/pdfs/Daubler_etal_2012.pdf).” **_British Journal of Political Science_**. 42(4): 937–951\. [Coding instructions for the unitization study](/pdfs/Coding%20Instructions%20for%20Unitization%20Study.pdf).
+2012\. Däubler, Thomas, Kenneth Benoit, Slava Mikhaylov, and Michael Laver. “[Natural Sentences as Valid Units for Coded Political Texts](/pdfs/Daubler_etal_2012.pdf).” **_British Journal of Political Science_**. 42(4): 937–951\. [10.1017/S0007123412000105](https://doi.org/10.1017/S0007123412000105) [Coding instructions for the unitization study](/pdfs/Coding%20Instructions%20for%20Unitization%20Study.pdf).
 
-2012\. Benoit, Kenneth,  Michael Laver, Will Lowe, and Slava Mikhaylov. “[How to scale coded text units without bias: A response to Gemenis](/pdfs/Benoitetal_ElStudies_2012.pdf).” _**Electoral Studies**_  31: 605–608.
+2012\. Benoit, Kenneth,  Michael Laver, Will Lowe, and Slava Mikhaylov. “[How to scale coded text units without bias: A response to Gemenis](/pdfs/Benoitetal_ElStudies_2012.pdf).” _**Electoral Studies**_  31: 605–608. [10.1016/j.electstud.2012.05.004](https://doi.org/10.1016/j.electstud.2012.05.004)
 
-2012\. Benoit, Kenneth and Michael Laver. “[The Dimensionality Of Political Space: Epistemological And Methodological Considerations](/pdfs/EUP-2012_Benoit-Laver.pdf).” _**European Union Politics**_ 13(2): 194-218.
+2012\. Benoit, Kenneth and Michael Laver. “[The Dimensionality Of Political Space: Epistemological And Methodological Considerations](/pdfs/EUP-2012_Benoit-Laver.pdf).” _**European Union Politics**_ 13(2): 194-218. [10.1177/1465116511434618](https://doi.org/10.1177/1465116511434618)
 
 2012\. McElroy, Gail and Kenneth Benoit. “[Policy Positioning in the European Parliament](/pdfs/European%20Union%20Politics-2012-McElroy-150-67.pdf).” _**European Union Politics**_. 13(1): 150-167. [Web-based appendix here](/pdfs/MEPS2010_EUP_Appendix.pdf).
 
