@@ -67,7 +67,7 @@ from texts, including stemming, and stop-words.
 
 * [Week 1 slides](/assets/courses/tcd2018qta/QTA_TCD_Day1.pdf)  
 * [Getting Started with quanteda and R](/assets/courses/tcd2018qta/getting_started.html) and the [`.Rmd` source](/assets/courses/tcd2018qta/getting_started.Rmd), which you should save and try to knit
-* [Assignment 1: Working with Texts in quanteda](/assets/courses/tcd2018qta/exercise1_LASTNAME_FIRSTNAME.html) and [`.Rmd` source](https://github.com/kbenoit/kbenoit.github.io/blob/master/assets/courses/tcd2018qta/assignment1_LASTNAME_FIRSTNAME.Rmd)
+* [Assignment 1: Working with Texts in quanteda](/assets/courses/tcd2018qta/exercise1_LASTNAME_FIRSTNAME.html) and [`.Rmd` source](https://cdn.rawgit.com/kbenoit/kbenoit.github.io/4bf16046/assets/courses/tcd2018qta/assignment1_LASTNAME_FIRSTNAME.Rmd)
 
 
 ### [Week 2: Quantitative methods for comparing texts](/assets/courses/tcd2018qta/QTA_TCD_Day2.pdf)
