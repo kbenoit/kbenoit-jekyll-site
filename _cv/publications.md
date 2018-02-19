@@ -7,11 +7,11 @@ type: cv
 
 ### Articles
 
-Forthcoming. Julio Amador, Sofia Collignon-Delmar, Kenneth Benoit, and Akitaka Matsuo.  "[Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data](/pdfs/Amador_etal_SPP_2017.pdf)". _**Statistics, Politics and Policy**_.
+Forthcoming. Julio Amador, Sofia Collignon-Delmar, Kenneth Benoit, and Akitaka Matsuo.  "[Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data](/pdfs/Amador_etal_SPP_2017.pdf)". _**Statistics, Politics and Policy**_. [10.1515/spp-2017-0006](https://doi.org/10.1515/spp-2017-0006)
 
 2017\.  Welbers, Kasper, Wouter van Atteveldt, and Kenneth Benoit.  "[Text analysis in R](/pdfs/text_analysis_in_R.pdf)."  _**Communications Methods and Measures**_.  11(4): 245-265. [10.1080/19312458.2017.1387238](http://dx.doi.org/10.1080/19312458.2017.1387238)
 
-2017\. Daniel Schwarz, Denise Traber and Kenneth Benoit. "[Estimating Intra-Party Preferences: Comparing Speeches to Votes](/pdfs/Schwarz_Traber_Benoit_PSRM.pdf)." **_Political Science Research and Methods_** 5(2): 379-396. doi:10.1017/psrm.2015.77.
+2017\. Daniel Schwarz, Denise Traber and Kenneth Benoit. "[Estimating Intra-Party Preferences: Comparing Speeches to Votes](/pdfs/Schwarz_Traber_Benoit_PSRM.pdf)." **_Political Science Research and Methods_** 5(2): 379-396. [10.1017/psrm.2015.77](https://doi.org/10.1017/psrm.2015.77).
 
 2016\. Paul Nulty, Yannis Theocharis, Sebastian Adrian Popa, Olivier Parnet, and Kenneth Benoit. “[Social Media and Political Communication in the 2014 Elections to the European Parliament](/pdfs/Nulty_et_al_2016.pdf)”. _**Electoral Studies**_ 44: 429-444.
 
@@ -19,7 +19,7 @@ Forthcoming. Julio Amador, Sofia Collignon-Delmar, Kenneth Benoit, and Akitaka M
 
 2015\. Herzog, Alexander and Kenneth Benoit. “[The Most Unkindest Cuts: Speaker Selection and Expressed Government Dissent During Economic Crisis](/pdfs/Herzog_Benoit_JOP_2015.pdf)“.  _**Journal of Politics**_ 77(4, October): 1157-1175.
 
-2015\. Laver, Michael and Kenneth Benoit. “[The basic arithmetic of legislative decisions](/pdfs/Basic_arithmetic_LaverBenoit_2012_final.pdf "The basic arithmetic of legislative decisions (preprint)").” _**American Journal of Political Science**_ 59(2, April): 275-291. [Presentation](https://www.icloud.com/iw/#keynote/BALPcQwc1Vgs5415CPGBOONq3_-dp4hD4O2E/Integer_Arithmetic).
+2015\. Laver, Michael and Kenneth Benoit. “[The Basic Arithmetic of Legislative Decisions](/pdfs/Basic_arithmetic_LaverBenoit_2012_final.pdf "The basic arithmetic of legislative decisions (preprint)").” _**American Journal of Political Science**_ 59(2, April): 275-291. [Presentation](https://www.icloud.com/iw/#keynote/BALPcQwc1Vgs5415CPGBOONq3_-dp4hD4O2E/Integer_Arithmetic).
 
 2013\. Lowe, Will and Kenneth Benoit. “[Validating Estimates of Latent Traits From Textual Data Using Human Judgment as a Benchmark](/pdfs/Political Analysis-2013-Lowe-298-313.pdf).” **_Political Analysis_** 21: 298–313. Replication materials available soon from the [Political Analysis dataverse](http://hdl.handle. net/1902.1/20387).
 
