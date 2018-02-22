@@ -18,3 +18,4 @@ r-scr/
 .Rhistory
 _posts/*.html
 .Rhistory
+.RData

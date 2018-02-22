@@ -90,8 +90,7 @@ Here we focus on quantitative methods for describing texts, focusing on summary 
 {:.no_toc}
 
 - [Week 2 slides](/assets/courses/tcd2018qta/QTA_TCD_Day2.pdf)
-- [Exercise 2: Describing and comparing texts and their features](/assets/courses/tcd2018qta/assignment2_LASTNAME_FIRSTNAME.html) and [`.Rmd` source](assignment2_LASTNAME_FIRSTNAME.Rmd)
-- [Example code for Week 2](/assets/courses/tcd2018qta/day2examples.R)
+- [Exercise 2: Describing and comparing texts and their features](/assets/courses/tcd2018qta/assignment2_LASTNAME_FIRSTNAME.html) and [`.Rmd` source](https://cdn.rawgit.com/kbenoit/kbenoit.github.io/4bf16046/assets/courses/tcd2018qta/assignment2_LASTNAME_FIRSTNAME.Rmd)
 
 
 ### [Week 3: Automated dictionary-based approaches](/assets/courses/tcd2018qta/QTA_TCD_Day3.pdf)

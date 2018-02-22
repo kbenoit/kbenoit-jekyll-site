@@ -1,0 +1,95 @@
+---
+title: "Assignment 2"
+author: "YOUR NAME HERE"
+date: "23 February 2018"
+output: html_document
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "##"
+)
+```
+
+```{r, echo = FALSE}
+suppressPackageStartupMessages(
+    library("quanteda", quietly = TRUE, warn.conflicts = FALSE, verbose = FALSE)
+)
+```
+
+       
+1.  **Using regular expressions** (5 pts)
+    
+    Regular expressions are very important concepts in text processing, as they offer
+    tools for searching and matching text strings based on symbolic representations.
+    For the dictionary and thesaurus features, we can define equivalency classes in terms
+    of regular expressions.  There is an excellent tutorial on regular expressions at
+    http://www.regular-expressions.info.
+    
+    This provides an easy way to recover syntactic variations on specific words, without relying
+    on a stemmer.  For instance, we could query a regular expression on tax-related words, using: 
+    ```{r, eval = FALSE}
+    library("quanteda")
+    kwic(data_corpus_inaugural, "tax", valuetype = "regex")
+    ```
+    
+    What is the result between that command, and the version `kwic(data_corpus_inaugural, "tax")`?  
+    
+    What if we on wanted to construct a regular expression to query only "valued" and "values" but not other variations of the lemma "value"?
+    Could we construct a "glob" pattern match for the same two words?
+    
+
+2.  **Descriptive statistics** (5 pts)
+    
+    `summary.corpus()` provides a method to return summary statistics that can be saved to an object.  Save the
+    results of calling this method on `data_corpus_irishbudget2010` and use it to compute a TTR for each document.
+
+
+3.  **Readability**. (10 pts)
+
+    Compare the readability of US presidents grouped by party.  You can do this by calling `textstat_readability()` on a character vector 
+    created by grouping the texts by party, using
+    ```{r, eval = FALSE}
+    data(data_corpus_sotu, package = "quanteda.corpora")
+    partyTexts <- texts(data_corpus_sotu, groups = "party")
+    ```
+
+
+4.  **Lexical Diversity over Time** (15 pts)
+
+    a.  We can plot the type-token ratio of the Irish budget speeches
+        over time. To do this, begin by extracting a subset of iebudgets
+        that contains only the first speaker from each year:
+
+        ```{r, eval = FALSE}
+        require(quanteda, warn.conflicts = FALSE, quietly = TRUE)
+        data(data_corpus_irishbudgets, package = "quanteda.corpora")
+        finMins <- corpus_subset(data_corpus_irishbudgets, number == "01")
+        tokeninfo <- summary(finMins)
+        ```
+        
+        Note the quotation marks around the value condition for the `number` document variable.  Why are these required here?
+
+    b.  Get the type-token ratio for each text from this subset, and
+        plot the resulting vector of TTRs as a function of the year.
+        
+    c.  Now compare the results from the `textstat_lexdiv()` function applied to a dfm constructed from the same documents.  Are the results the same?
+
+5.  **Weighting strategies**
+
+    Consider the following matrix:
+    ```{r}
+    m <- matrix(c(0, 1, 3, 0, 1, 0, 5, 0, 2, 0, 6, 4), nrow = 3,
+                dimnames = list(docs = paste0("doc", 1:3),
+                                features = LETTERS[1:4]))
+    ```
+    
+    a. Compute, using "manual" computations, the following:
+    -  relative term frequency (within document)
+    -  the document frequency of each feature
+    -  the _tf-idf_ using a base 10 logarithm and unnormalized term frequencies.
+    
+    b. Coerce the object to a `dfm` format, and use `dfm_weight()` to verify your calculations.
+    
+
