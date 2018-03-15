@@ -114,13 +114,19 @@ Automatic dictionary-based methods involve association of pre-defined word lists
 #### Resources
 {:.no_toc}
 
-- [Week 2 slides](/assets/courses/tcd2018qta/QTA_TCD_Day3.pdf)  
+- [Week 3 slides](/assets/courses/tcd2018qta/QTA_TCD_Day3.pdf)  
 - [Exercise 3: Applying, modifying, and creating dictionaries for the analysis of political texts.](/assets/courses/tcd2018qta/assignment3_LASTNAME_FIRSTNAME.html) and [`.Rmd` source](https://cdn.rawgit.com/kbenoit/kbenoit.github.io/73accef5/assets/courses/tcd2018qta/assignment3_LASTNAME_FIRSTNAME.Rmd)
 
 
 ### [Week 4: Machine learning and scaling for texts](/assets/courses/tcd2018qta/QTA_TCD_Day4.pdf)
 
 Classification methods permit the automatic classification of texts in a test set following machine learning from a training set. We will introduce machine learning methods for classifying documents, including one of the most popular classifiers, the Naive Bayes model. The topic also introduces validation and reporting methods for classifiers and discusses where these methods are applicable. Building on the Naive Bayes classifier, we introduce the “Wordscores” method of Laver, Benoit and Garry (2003) for scaling latent traits, and show the link between classification and scaling. We also cover applications of penalized regression to score and scale texts.
+
+#### Resources
+{:.no_toc}
+
+- [Week 4 slides](/assets/courses/tcd2018qta/QTA_TCD_Day4.pdf)  
+- [Exercise 4: Machine learning and scaling for texts.](/assets/courses/tcd2018qta/assignment4_LASTNAME_FIRSTNAME.html) and [`.Rmd` source]()
 
 #### Required Reading
 {:.no_toc}
