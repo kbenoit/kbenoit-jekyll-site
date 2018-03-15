@@ -115,7 +115,7 @@ Automatic dictionary-based methods involve association of pre-defined word lists
 {:.no_toc}
 
 - [Week 3 slides](/assets/courses/tcd2018qta/QTA_TCD_Day3.pdf)  
-- [Exercise 3: Applying, modifying, and creating dictionaries for the analysis of political texts.](/assets/courses/tcd2018qta/assignment3_LASTNAME_FIRSTNAME.html) and [`.Rmd` source](https://cdn.rawgit.com/kbenoit/kbenoit.github.io/73accef5/assets/courses/tcd2018qta/assignment3_LASTNAME_FIRSTNAME.Rmd)
+- [Exercise 3: Applying, modifying, and creating dictionaries for the analysis of political texts.](/assets/courses/tcd2018qta/assignment3_LASTNAME_FIRSTNAME.html) and [`.Rmd` source](https://cdn.rawgit.com/kbenoit/kbenoit.github.io/3ef69b09/assets/courses/tcd2018qta/assignment3_LASTNAME_FIRSTNAME.Rmd)
 
 
 ### [Week 4: Machine learning and scaling for texts](/assets/courses/tcd2018qta/QTA_TCD_Day4.pdf)
