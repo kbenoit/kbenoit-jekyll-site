@@ -140,9 +140,9 @@ Classification methods permit the automatic classification of texts in a test se
 {:.no_toc}
 
 - Lantz (2013, Ch. 10)  
-- Statsoft,“Naive Bayes Classifier Introductory Overview,”http://www.statsoft.com/textbook/naive-bayes-classifier/.  
+- Statsoft, "Naive Bayes Classifier Introductory Overview," http://www.statsoft.com/textbook/naive-bayes-classifier/.  
 - An online article by Paul Graham on classifying spam e-mail. http://www.paulgraham. com/spam.html.  
-- Bionicspirit.com,9Feb2012,“HowtoBuildaNaiveBayesClassifier,”http://bionicspirit. com/blog/2012/02/09/howto-build-naive-bayes-classifier.html.  
+- Bionicspirit.com, 9 Feb 2012, "How to Build a Naive Bayes Classifier," http://bionicspirit. com/blog/2012/02/09/howto-build-naive-bayes-classifier.html.  
 - Yu, Kaufmann and Diermeier (2008)  
 - Zumel and Mount (2014, Ch. 5–6)  
 - Benoit and Nulty (2013)  
