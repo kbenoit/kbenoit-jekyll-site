@@ -1,0 +1,198 @@
+---
+title: "Assignment 4"
+author: "YOUR NAME HERE"
+date: "16 March 2018"
+output: html_document
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "##"
+)
+```
+
+```{r, echo = FALSE}
+library("quanteda", quietly = TRUE, warn.conflicts = FALSE, verbose = FALSE)
+```
+
+### Machine Learning for Text
+
+In this assignment, you will use R to understand and apply document classification and supervised scaling using R and **quanteda**.
+
+#### 1. **Classifying movie reviews, Part 1**  (20 points)
+
+We will start with a classic computer science dataset of movie reviews, [(Pang and Lee 2004)](http://www.cs.cornell.edu/home/llee/papers/cutsent.pdf).
+The movies corpus has an attribute `Sentiment` that labels each text as either `pos` or `neg` according to the original imdb.com archived newspaper review star rating.  We will begin by examining the conditional probabilities at the word level.
+
+a.  Load the movies dataset and examine the attributes:
+
+```{r}
+require(quanteda, warn.conflicts = FALSE, quietly = TRUE)
+data(data_corpus_movies, package = "quanteda.corpora")
+summary(data_corpus_movies, 10)
+```    
+
+b. What is the overall probability of the class `pos` in the corpus? Are the classes balanced? (Hint: Use `table()` on the docvar of `Sentiment`.) 
+        
+```{r}
+
+```
+
+c. Make a dfm from the corpus, grouping the documents by the `Sentiment` docvar. 
+
+Words with very low overall frequencies in a corpus of this size are unlikely to be good general predictors. Remove words that occur less than twenty times using `dfm_trim`.
+
+```{r}
+
+```
+
+d. Calculate the word-level likelihoods for each class, from the reduced dfm.  (This is the probability of a word given the class `pos` and `neg`.)  What are the word likelihoods for `"good"` and "`great`"? What do you learn? Use `kwic()` to find out the context of `"good"`.
+
+Clue: you don't have to compute the probabilities by hand. You should be able to obtain them using `dfm_weight`.
+    
+```{r}
+```
+
+
+#### 2.  **Classifying movie reviews, Part 2**. (30 points)
+
+Now we will use `quanteda`’s naive bayes `textmodel_nb()` to run a prediction on the movie reviews.
+
+a. The movie corpus contains 1000 positive examples followed by 1000 negative examples.  When extracting training and testing labels, we want to get a mix of positive and negative in each set, so first we need to shuffle the corpus. You can do this with the `corpus_sample*()` function:
+
+```{r}
+set.seed(1234)  # use this just before the command below
+moviesShuffled <- corpus_sample(data_corpus_movies, size = 2000)
+```
+
+Next, make a dfm from the shuffled corpus, and make training labels. In this case, we are using 1500 training labels, and leaving the remaining 500 unlabelled to use as a test set. Trim the dataset to remove rare features.
+
+```{r}
+movieDfm <- dfm_trim( dfm(moviesShuffled, verbose = FALSE), min_count = 10)
+trainclass <- factor(c(docvars(moviesShuffled, "Sentiment")[1:1500], rep(NA, 500)))
+table(trainclass, useNA = "ifany")
+```
+
+b. **(7.5 points)** Now, run the training and testing commands of the Naive Bayes classifier, and compare the predictions for the documents with the actual document labels for the test set using a confusion matrix.
+
+```{r}
+
+```
+
+c. Compute the following statistics for the last classification: 
+    
+1. precision and recall, *for the positive-positive prediction*;
+        
+```{r}
+
+```
+
+Hint: Computing precision and recall is not the same if we are considering the "true positive" to be predicting positive for a true positive, versus predicting negative for a true negative.  Since the factors of `Sentiment` are ordered alphabetically, and since the table command puts lower integer codes for factors first, `movtable` by default puts the (1,1) cell as the case of predicting negative reviews as the "true positive", not predicting positive reviews.  To get the positive-postive prediction you will need to reverse index it, e.g. `movTable[2:1, 2:1]`.
+
+2.  \(F1\) from the above; and
+        
+```{r}
+
+```
+
+3. accuracy.
+        
+```{r}
+
+```
+
+d. Extract the posterior class probabilities of the words `good` and `great`. Do the results confirm your previous finding? Clue: look at the documentation for `textmodel_nb()` for how to extract the posterior class probabilities.
+
+```{r}
+
+```
+
+#### 3.  **Classifying movie reviews, Part 3**  (20 points)
+
+We'll start by running the classification task using a lasso regression using the `cv_glmnet()` function in the `glmnet` package. 
+
+```{r}
+library(glmnet)
+lasso <- cv.glmnet(x = movieDfm[1:1500,], y = trainclass[1:1500], 
+                   alpha = 1, nfolds = 5, family = "binomial")
+```
+
+a. Show the graph with the cross-validated performance of the model based on the number of features included. You should find a curvilinear pattern. Why do you think this pattern emerges?
+
+```{r}
+
+```
+
+b. Predict the scores for the remaining 500 reviews in the test set and then compute precision and recall for the positive-positive, the F1 score, and the accuracy. Do the results improve?
+
+```{r}
+
+
+```
+
+c. Look at the coefficients with the highest and lowest values in the best cross-validated model. What type of features is the classifier relying on to make predictions? Do you think this is a good model?
+
+```{r}
+
+
+```
+
+
+#### 4.  **Classifying amicus briefs using Naive Bayes.**  (30 points)
+
+This exercise uses *amicus curiae* briefs from US Supreme Court cases on affirmative action in college admissions. [(Evans et al 2007)](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-1461.2007.00113.x/full).  [Amicus curiae](http://en.wikipedia.org/wiki/Amicus_curiae) are persons or organizations not party to a legal case who are permitted by the court to offer it advice in the form of an *amicus brief*. The amicus briefs in this corpus are from an affirmative action case in which an applicant to a university who was denied a place petitioned the Supreme Court, claiming that they were unfairly rejected because of affirmative action policies.  *Amicus curiae* could advise the court either in support of the petitioner, therefore opposing affirmative action, or in favour of the respondent — the University— therefore supporting affirmative action.  
+
+We will use the original briefs from the [Bolinger case](http://en.wikipedia.org/wiki/Grutter_v._Bollinger#Case_.28_Supreme_Court_.29) examined by Evans et al (2007) for the training set, and the amicus briefs as the test set.
+    
+```{r}
+data(data_corpus_amicus, package = "quanteda.corpora")
+summary(data_corpus_amicus, 5)
+```
+
+The first four texts will be our training set - these are already set in the docvars to the `amicusCorpus` object.  
+
+```{r}
+# set training class
+trainclass <- docvars(data_corpus_amicus, "trainclass")
+# set test class
+testclass  <- docvars(data_corpus_amicus, "testclass")
+```
+
+a. Construct a dfm, and then predict the test class values using the Naive Bayes classifer.
+
+```{r}
+
+```
+
+b. Compute accuracy, and precision and recall for both categories
+    
+```{r}
+
+```
+    
+d. Now rerun steps 2-3 after weighting the dfm using *tf-idf*, and see if this improves prediction.
+    
+```{r}
+
+
+```
+
+#### Hints
+
+You might find the following code useful for computing precision and recall:
+```{r}
+precrecall <- function(mytable, verbose=TRUE) {
+    truePositives <- mytable[1,1]
+    falsePositives <- sum(mytable[1,]) - truePositives
+    falseNegatives <- sum(mytable[,1]) - truePositives
+    precision <- truePositives / (truePositives + falsePositives)
+    recall <- truePositives / (truePositives + falseNegatives)
+    if (verbose) {
+        print(mytable)
+        cat("\n precision =", round(precision, 2), 
+            "\n    recall =", round(recall, 2), "\n")
+    }
+    invisible(c(precision, recall))
+}
+```
