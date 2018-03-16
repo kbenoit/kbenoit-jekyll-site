@@ -126,7 +126,7 @@ Classification methods permit the automatic classification of texts in a test se
 {:.no_toc}
 
 - [Week 4 slides](/assets/courses/tcd2018qta/QTA_TCD_Day4.pdf)  
-- [Exercise 4: Machine learning and scaling for texts.](/assets/courses/tcd2018qta/assignment4_LASTNAME_FIRSTNAME.html) and [`/assets/courses/tcd2018qta/assignment4_LASTNAME_FIRSTNAME.Rmd` source]()
+- [Exercise 4: Machine learning and scaling for texts.](/assets/courses/tcd2018qta/assignment4_LASTNAME_FIRSTNAME.html) and [`.Rmd` source](https://cdn.rawgit.com/kbenoit/kbenoit.github.io/5fb4ba46/assets/courses/tcd2018qta/assignment4_LASTNAME_FIRSTNAME.Rmd)
 
 #### Required Reading
 {:.no_toc}
