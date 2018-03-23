@@ -133,8 +133,6 @@ Classification methods permit the automatic classification of texts in a test se
 
 - Manning, Raghavan and Schütze (2008, Ch. 13)  
 - Lantz (2013, Ch. 3–4)  
-- Evans et al. (2007)  
-- Laver, Benoit and Garry (2003)  
 
 #### Recommended Reading
 {:.no_toc}
@@ -151,22 +149,16 @@ Classification methods permit the automatic classification of texts in a test se
 - Lowe (2008)
 
 
-### [Week 5: Clustering and topic models](/assets/courses/tcd2018qta/QTA_TCD_Day5.pdf)
+### [Week 5: Scaling models](/assets/courses/tcd2018qta/QTA_TCD_Day5.pdf)
 
-This session will teach how to automatically classify documents into unknown
-categories using topic models and clustering methods.   We will cover vector
-representations of documents, measuring distance and similarity, hierarchical
-and k-means clustering.  We will learn how to run the parametric Latent
-Dirichlet Allocation (LDA) model and the Structural Topic Model (STM), which
-allows researchers to use covariates to learn about the prevalence and content
-of topics.
+Building on the Naive Bayes classifier, we introduce the “Wordscores” method of Laver, Benoit and Garry (2003) for scaling latent traits, and show the link between classification and scaling.  We also cover the unsupervised "Wordfish" scaling method of Slapin and Proksch (2008).
 
 #### Required Reading
 {:.no_toc}
 
-* Blei (2012)
-* Roberts et al. (2014)
-* Blei, Ng and Jordan (2003)
+- Evans et al. (2007)  
+- Laver, Benoit and Garry (2003)  
+- Slapin and Proksch (2008)
 
 #### Recommended Reading
 {:.no_toc}
@@ -182,9 +174,7 @@ of topics.
 #### Resources
 {:.no_toc}
 
-- [Exercise 4: Classifying legal documents and legislative speeches.](/assets/courses/tcd2018qta/exercise4.html)  
-- _Exercise 4 solution_  
-- [Example code for Week 4](/assets/courses/tcd2018qta/day4examples.R)
+- [Exercise 5: Classifying legal documents and legislative speeches.](/assets/courses/tcd2018qta/exercise5.html)  
 
 
 ## Final Assignment
