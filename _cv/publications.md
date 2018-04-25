@@ -7,7 +7,9 @@ type: cv
 
 ### Articles
 
-Forthcoming. Julio Amador, Sofia Collignon-Delmar, Kenneth Benoit, and Akitaka Matsuo.  "[Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data](/pdfs/Amador_etal_SPP_2017.pdf)". _**Statistics, Politics and Policy**_. [10.1515/spp-2017-0006](https://doi.org/10.1515/spp-2017-0006)
+2018\.  Lincoln A. Mullen, Kenneth Benoit, Os Keyes, Dmitry Selivanov, and Jeffrey Arnold.  "Fast, Consistent Tokenization of Natural Language Text." _**Journal of Open Source Software**_, 3(23), 655.  [10.21105/joss.00655](https://doi.org/10.21105/joss.00655).
+
+2017\. Julio Amador, Sofia Collignon-Delmar, Kenneth Benoit, and Akitaka Matsuo.  "[Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data](/pdfs/Amador_etal_SPP_2017.pdf)". _**Statistics, Politics and Policy**_  8(1): 85–104. doi: 10.1515/spp-2017-0006.   [10.1515/spp-2017-0006](https://doi.org/10.1515/spp-2017-0006)
 
 2017\.  Welbers, Kasper, Wouter van Atteveldt, and Kenneth Benoit.  "[Text analysis in R](/pdfs/text_analysis_in_R.pdf)."  _**Communications Methods and Measures**_.  11(4): 245-265. [10.1080/19312458.2017.1387238](http://dx.doi.org/10.1080/19312458.2017.1387238)
 

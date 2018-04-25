@@ -10,8 +10,9 @@ _[European Political Science Association](http://www.epsanet.org)_: Co-founder;
 
 University Service, London School of Economics and Political Science:
 
-*   Head of Department, Department of Methodology, 2011–2013.
-*   Director of the Doctoral Training Centre, 2011–2013.
+*   Head of Department, Department of Methodology, 2011–2013.  
+*   Director, Social and Economic Data Sciences Unit, 2016–present.  
+*   Director of the Doctoral Training Centre, 2011–2013.  
 
 _External examiner_ for Research Methods in the Department of Political Science, University College London, 2012-present.
 

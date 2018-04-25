@@ -5,7 +5,7 @@ type: cv
 
 ### Academic Positions
 
-London School of Economics and Political Science, Methodology Institute. Professor and Head of the Department of Methodology Institute, 2011-2013; 2015-.
+London School of Economics and Political Science, Department of Methodology. Professor of Quantitative Social Research Methods, Head of Department of Methodology, 2011--present.  Director, Social and Economic Data Science Unit, 2016--present.
 
 Trinity College, University of Dublin, Department of Political Science. Professor of Quantitative Social Sciences, 2007-2010; Associate Professor, 2005-2007; Fellow, 2003-2010; Lecturer, 1998-2005.
 
