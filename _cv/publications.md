@@ -9,6 +9,8 @@ type: cv
 
 Forthcoming\.  Benoit, Kenneth, Kevin Munger, and Arthur Spirling. "[Measuring and Explaining Political Sophistication Through Textual Complexity](http://ssrn.com/abstract=3062061)."  _**American Journal of Political Science**_.
 
+2018\. Benoit, Kenneth, Kohei Watanabe, Haiyan Wang, Paul Nulty, Adam Obeng, Stefan Müller, and Akitaka Matsuo.  "quanteda: An R package for the quantitative analysis of textual data."  _**Journal of Open Source Software**_.  
+
 2018\.  Lincoln A. Mullen, Kenneth Benoit, Os Keyes, Dmitry Selivanov, and Jeffrey Arnold.  "Fast, Consistent Tokenization of Natural Language Text." _**Journal of Open Source Software**_, 3(23), 655.  [10.21105/joss.00655](https://doi.org/10.21105/joss.00655).
 
 2017\. Julio Amador, Sofia Collignon-Delmar, Kenneth Benoit, and Akitaka Matsuo.  "[Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data](/pdfs/Amador_etal_SPP_2017.pdf)". _**Statistics, Politics and Policy**_  8(1): 85–104. doi: 10.1515/spp-2017-0006.   [10.1515/spp-2017-0006](https://doi.org/10.1515/spp-2017-0006)
