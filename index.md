@@ -7,24 +7,6 @@ path: ""
 
 [Google Scholar Page](http://scholar.google.co.uk/citations?user=hp1p9TEAAAAJ "Kenneth Benoit's Google Scholar page")
 
-Benoit, Kenneth, Kevin Munger, and Arthur Spirling. October 30, 2017.  "[Measuring and Explaining Political Sophistication Through Textual Complexity](http://ssrn.com/abstract=3062061)."  London School of Economics and New York University manuscript.
-
-{: .notice}
- The sophistication of political communication has been measured using
- "readability" scores developed from other contexts, but their application
- out of domain is problematic.  We systematically review the shortcomings of
- previous measures, before developing a new approach, with software, better suited to the  task.
- We use the crowd to perform thousands of pairwise comparisons of text
- snippets and incorporate these results into a statistical model of
- comprehension. We include previously excluded features such as parts of speech,
- and a measure of word rarity derived from term frequencies in the Google books dataset.
- Our technique not only shows which features are appropriate to the political
- domain and how, but also  provides a measure easily applied and rescaled to
- political texts in a way that facilitates comparison with reference to a
- meaningful baseline. We reassess patterns in US and UK political corpora to
- demonstrate how substantive conclusions differ when using our improved
- approach.
-
 Patrick Perry and Kenneth Benoit.  October 26, 2017.  "[Scaling Text with the Class Affinity Model](http://arxiv.org/abs/1710.08963)."  London School of Economics and New York University manuscript.  
 
 {: .notice}
