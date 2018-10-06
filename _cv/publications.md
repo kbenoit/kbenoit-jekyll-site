@@ -9,7 +9,7 @@ type: cv
 
 Forthcoming\.  Benoit, Kenneth, Kevin Munger, and Arthur Spirling. "[Measuring and Explaining Political Sophistication Through Textual Complexity](http://ssrn.com/abstract=3062061)."  _**American Journal of Political Science**_.
 
-2018\. Benoit, Kenneth, Kohei Watanabe, Haiyan Wang, Paul Nulty, Adam Obeng, Stefan Müller, and Akitaka Matsuo.  "quanteda: An R package for the quantitative analysis of textual data."  _**Journal of Open Source Software**_.  
+2018\. Benoit, Kenneth, Kohei Watanabe, Haiyan Wang, Paul Nulty, Adam Obeng, Stefan Müller, and Akitaka Matsuo.  "[quanteda: An R package for the quantitative analysis of textual data](https://www.theoj.org/joss-papers/joss.00774/10.21105.joss.00774.pdf)".  _**Journal of Open Source Software**_.  3(30), 774. [https://doi.org/10.21105/joss.00774](https://doi.org/10.21105/joss.00774).
 
 2018\.  Lincoln A. Mullen, Kenneth Benoit, Os Keyes, Dmitry Selivanov, and Jeffrey Arnold.  "Fast, Consistent Tokenization of Natural Language Text." _**Journal of Open Source Software**_, 3(23), 655.  [10.21105/joss.00655](https://doi.org/10.21105/joss.00655).
 
