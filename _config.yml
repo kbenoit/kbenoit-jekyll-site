@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Ken Benoit"
   avatar           : "/assets/images/Ken-B.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Professor of Quantitative Social Research Methods @ LSE"
+  bio              : "Professor of Computational Social Science @ LSE"
   location         : "London, UK"
   email            : "k.r.benoit@lse.ac.uk"
   uri              :
@@ -97,7 +97,7 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "4158274/ken-benoit" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
   twitter          : "kenbenoit"
