@@ -104,7 +104,7 @@ https://doi.org/10.1093/pan/mpt002) Replication materials available soon from th
 
 2002\. Benoit, Kenneth. "[The Endogeneity Problem in Electoral Studies: A Critical Reexamination of Duverger’s Mechanical Effect](/pdfs/benoit_2002_ES.pdf)." **_Electoral Studies_** 21(1, March): 35-46\.<a name="tex2html25"></a>
 
-2001\. Benoit, Kenneth. "[District Magnitude, Electoral Formula, and the Number of Parties](/pdfs/benoit_2001-ejpr.pdf)." _**European Journal of Political Research**_ 39(2, March): 203-224\. [Local Hungarian election dataset](/assets/files/HungaryLocal1994.zip) and [replication code](/assets/files/HungaryLocal1994_mnform.zip).
+2001\. Benoit, Kenneth. "[District Magnitude, Electoral Formula, and the Number of Parties](/pdfs/benoit_2001-ejpr.pdf)." _**European Journal of Political Research**_ 39(2, March): 203-224\. [Local Hungarian election dataset](/files/HungaryLocal1994.zip) and [replication code](/files/HungaryLocal1994_mnform.zip).
 
 2001\. Benoit, Kenneth and John W. Schiemann. "[Institutional Choice in New Democracies: Bargaining Over Hungary’s 1989 Electoral Law](/pdfs/benoit_2001_JTP.pdf)." **_Journal of Theoretical Politics_** 13(2, April): 159-188.
 
