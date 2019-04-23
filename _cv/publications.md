@@ -7,7 +7,7 @@ type: cv
 
 ### Articles
 
-Forthcoming\.  Benoit, Kenneth, Kevin Munger, and Arthur Spirling. "[Measuring and Explaining Political Sophistication Through Textual Complexity](/pdfs/BMS_AJPS_2019.pdf)."  _**American Journal of Political Science**_. 10.1111/ajps.12423.  [Replication materials here.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9SF3TI)
+2019\.  Benoit, Kenneth, Kevin Munger, and Arthur Spirling. "[Measuring and Explaining Political Sophistication Through Textual Complexity](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12423)."  _**American Journal of Political Science**_ 63(2, April): 491--508. [10.1111/ajps.12423](https://doi.org/10.1111/ajps.12423).  [Replication materials here.](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9SF3TI)
 
 2018\. Benoit, Kenneth, Kohei Watanabe, Haiyan Wang, Paul Nulty, Adam Obeng, Stefan Müller, and Akitaka Matsuo.  "[quanteda: An R package for the quantitative analysis of textual data](https://www.theoj.org/joss-papers/joss.00774/10.21105.joss.00774.pdf)".  _**Journal of Open Source Software**_.  3(30), 774. [10.21105/joss.00774](https://doi.org/10.21105/joss.00774).
 
