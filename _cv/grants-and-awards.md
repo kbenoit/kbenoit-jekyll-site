@@ -16,7 +16,7 @@ type: cv
  Engaging a dialogue on the future path of Europe" (number 649281),
  2015--2018.  €211,075 total.
 
-**Starting Investigator Grant**, European Research Commission, for “QUANTESS: Quantita- tive Analysis of Text for the Social Sciences” (ERC-2011-StG 283794-QUANTESS). €1,357,000 for 2011-2016.
+**Starting Investigator Grant**, European Research Commission, for “QUANTESS: Quantitative Analysis of Text for the Social Sciences” (ERC-2011-StG 283794-QUANTESS). €1,357,000 for 2011-2016.
 
 **Small Project Grant**, Irish Research Council of the Humanities and Social Sciences, 2008-2009\. €48,883 to establish a World Database of Parties, Elections, and Governments.
 
