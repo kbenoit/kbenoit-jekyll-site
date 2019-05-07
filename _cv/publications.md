@@ -38,13 +38,13 @@ https://doi.org/10.1093/pan/mpt002) Replication materials available soon from th
 
 2012\. McElroy, Gail and Kenneth Benoit. "[Policy Positioning in the European Parliament](/pdfs/European%20Union%20Politics-2012-McElroy-150-67.pdf)." _**European Union Politics**_. 13(1): 150-167. [Web-based appendix here](/pdfs/MEPS2010_EUP_Appendix.pdf).
 
-2012\. Mikhaylov, Slava, Michael Laver, and Kenneth Benoit. "[Coder Reliability and Misclassification in the Human Coding of Party Manifestos](/pdfs/MLB_PA_2012.pdf)." **_Political Analysis_** 20(1): 78–91**. Replication materials including original data available [**here**](/assets/files/CMP_reliability_replication.zip).  This research was funded by the European Research Council grant ERC-2011-StG 283794-QUANTESS.
+2012\. Mikhaylov, Slava, Michael Laver, and Kenneth Benoit. "[Coder Reliability and Misclassification in the Human Coding of Party Manifestos](/pdfs/MLB_PA_2012.pdf)." **_Political Analysis_** 20(1): 78–91**. Replication materials including original data available [**here**](/files/CMP_reliability_replication.zip).  This research was funded by the European Research Council grant ERC-2011-StG 283794-QUANTESS.
 
 2011\. William Lowe, Kenneth Benoit, Slava Mikhaylov, and Michael Laver. "[Scaling Policy Preferences From Coded Political Texts](/pdfs/Loweetal_2010_LSQ.pdf)." _**Legislative Studies Quarterly** 26(1, Feb): 123-155\._ The **replication** **dataset** also containing more than 20 new scales (and confidence intervals) is available **[here](https://hdl.handle.net/1902.1/17073)**.
 
 2010\. Gail McElroy and Kenneth Benoit. ["](/pdfs/partygroups_BJPS2.pdf "Download paper file in pdf here")[Party Policy and Group Affiliation in the European Parliament](https://journals.cambridge.org/repo_A74mUSDf)." _**British Journal of Political Science**_ 40(2, April): 377-398.
 
-2010\. Kenneth Benoit and Michael Marsh. "[Incumbent and Challenger Campaign Spending Effects in Proportional Electoral Systems: The Irish Elections of 2002](/pdfs/Benoit_Marsh_PRQ_2010.pdf)." _**Political Research Quarterly**_ 63(1, March): 159-173\. **Replication materials** [**here**](/assets/files/Benoit_Marsh_PRQ2010_replication.zip).
+2010\. Kenneth Benoit and Michael Marsh. "[Incumbent and Challenger Campaign Spending Effects in Proportional Electoral Systems: The Irish Elections of 2002](/pdfs/Benoit_Marsh_PRQ_2010.pdf)." _**Political Research Quarterly**_ 63(1, March): 159-173\. **Replication materials** [**here**](/files/Benoit_Marsh_PRQ2010_replication.zip).
 
 2009\.  Kenneth Benoit. "[Irish Political Parties and Policy Stances on European Integration](/pdfs/Benoit_IPS_2009.pdf)." _**Irish Political Studies**_ 24(4, December): 447-466.
 
@@ -56,7 +56,7 @@ https://doi.org/10.1093/pan/mpt002) Replication materials available soon from th
 
 2009\. Kenneth Benoit, Slava Mikhaylov, and Michael Laver. "[Treating Words as Data with Error: Uncertainty in Text Statements of Policy Positions](/pdfs/blm2009ajps.pdf)." _**American Journal of Political Science**_ 53(2, April): 495-513\. _[Replication materials and the error dataset can be found here](/cmp-random-error/)_.
 
-2008\. Kenneth Benoit and Michael Marsh. "[The Campaign Value of Incumbency: A New Solution to the Puzzle of Less Effective Incumbent Spending](/pdfs/ajps_348.pdf)." **_American Journal of Political Science_** 52(4, October): 874-890. _[Replication materials here](/assets/files/cvi_Benoit_Marsh_2008_replication.zip)_[.](/assets/files/cvi_Benoit_Marsh_2008_replication.zip)
+2008\. Kenneth Benoit and Michael Marsh. "[The Campaign Value of Incumbency: A New Solution to the Puzzle of Less Effective Incumbent Spending](/pdfs/ajps_348.pdf)." **_American Journal of Political Science_** 52(4, October): 874-890. _[Replication materials here](/files/cvi_Benoit_Marsh_2008_replication.zip)_[.](/files/cvi_Benoit_Marsh_2008_replication.zip)
 
 2008\. Kenneth Benoit and Michael Laver. "[Compared to What? A Comment on ‘A Robust Transformation Procedure for Interpreting Political Text’ by Martin and Vanberg.](/pdfs/BenoitLaver_PA_2007.pdf)" _**Political Analysis**_ 16(1, Winter): 101-111.
 
@@ -76,7 +76,7 @@ https://doi.org/10.1093/pan/mpt002) Replication materials available soon from th
 
 2006\. Benoit, Kenneth. "[Duverger’s Law and the Study of Electoral Systems](/pdfs/Benoit_FrenchPolitics_2006.pdf)." **_French Politics_** 4(1): 69-83.
 
-2005\. Benoit, Kenneth and Michael Laver. "[Mapping the Irish Policy Space: Voter and Party Spaces in Preferential Elections](/pdfs/BenoitLaver_ESR_2005.pdf)." **_Economic and Social Review_** 36(2, Summer/Autumn): 83-108\. [Replication materials here.](/assets/files/ESR_2005_replication.zip)
+2005\. Benoit, Kenneth and Michael Laver. "[Mapping the Irish Policy Space: Voter and Party Spaces in Preferential Elections](/pdfs/BenoitLaver_ESR_2005.pdf)." **_Economic and Social Review_** 36(2, Summer/Autumn): 83-108\. [Replication materials here.](/files/ESR_2005_replication.zip)
 
 2005\. Laver, Michael and Kenneth Benoit. "[Estimating Party Policy Positions: Japan in Comparative Context.](/pdfs/LaverBenoit2005JJPS.pdf)" **_Japanese Journal of Political Science_** 6(2, August): 187-209.
 
@@ -90,7 +90,7 @@ https://doi.org/10.1093/pan/mpt002) Replication materials available soon from th
 
 2003\. Benoit, Kenneth and Michael Laver. "[Estimating Irish Party Positions Using Computer Wordscoring: The 2002 Elections](/pdfs/LaverBenoit_IPS2003.pdf)." **_Irish Political Studies_** 18(1): 97-107.
 
-2003\. Benoit, Kenneth and Michael Marsh. "[For A Few Euros More: Campaign Spending Effects in the Irish Local Elections of 1999](/pdfs/BenoitMarshPartyPolitics2003.pdf)." **_Party Politics_** 9(5): 561-582. [Replication materials here](/assets/files/PartyPolitics2003_replication.zip).
+2003\. Benoit, Kenneth and Michael Marsh. "[For A Few Euros More: Campaign Spending Effects in the Irish Local Elections of 1999](/pdfs/BenoitMarshPartyPolitics2003.pdf)." **_Party Politics_** 9(5): 561-582. [Replication materials here](/files/PartyPolitics2003_replication.zip).
 
 2003\. Laver, Michael, Kenneth Benoit, and John Garry. "[Extracting Policy Positions from Political Texts Using Words as Data](/pdfs/WORDSCORESAPSR.pdf)." **_American Political Science Review_** 97(2, May): 311-331.
 
@@ -114,7 +114,7 @@ https://doi.org/10.1093/pan/mpt002) Replication materials available soon from th
 
 1996\. Benoit, Kenneth. "[Hungary’s Two-Vote Electoral System](/pdfs/Representation1996.pdf)." **_Representation_** 33(4): 162-170.
 
-1996\. Benoit, Kenneth. "[Democracies Really Are More Pacific (In General): Reexamining Regime Type and War Involvement](/pdfs/Benoit_JCR1996.pdf)." _**Journal of Conflict Resolution**_ 40(4): 636-657. [Replication dataset.](/assets/files/rdwi-final-data.zip)
+1996\. Benoit, Kenneth. "[Democracies Really Are More Pacific (In General): Reexamining Regime Type and War Involvement](/pdfs/Benoit_JCR1996.pdf)." _**Journal of Conflict Resolution**_ 40(4): 636-657. [Replication dataset.](/files/rdwi-final-data.zip)
 
 ### Books
 
