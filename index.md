@@ -6,7 +6,7 @@ path: ""
 
 [Google Scholar Page](http://scholar.google.co.uk/citations?user=hp1p9TEAAAAJ "Kenneth Benoit's Google Scholar page")
 
-Kenneth Benoit.  July 16, 2019.  "[Text as Data: An Overview](https://www.dropbox.com/s/talzl1istg5rzlm/28%20Benoit%20Text%20as%20Data%20draft%202.pdf?dl=0)."  Forthcoming in Cuirini, Luigi and Robert Franzese, eds. _Handbook of Research Methods in Political Science and International Relations_.  Thousand Oaks: Sage.
+Kenneth Benoit.  July 16, 2019.  "[Text as Data: An Overview](pdfs/28%20Benoit%20Text%20as%20Data%20draft%202.pdf)."  Forthcoming in Cuirini, Luigi and Robert Franzese, eds. _Handbook of Research Methods in Political Science and International Relations_.  Thousand Oaks: Sage.
 
 {: .notice}
   This chapter thoroughly describes the idea of analyzing text "as data" with a social science focus. 
