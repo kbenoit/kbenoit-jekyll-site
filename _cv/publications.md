@@ -136,12 +136,12 @@ Benoit, Kenneth. _Wordscores: Software for Coding Political Texts_. Requires Sta
 
 ### Book Chapters
 
-Forthcoming.  Benoit, Kenneth, Kevin Munger, and Arthur Spirling.  "Dumbing Down? Trends in the Complexity of Political Communication." In Nolan McCarty and Frances Lee eds., _Can America Govern Itself?_.  Cambridge:  Cambridge University Press.
+2019\.  Benoit, Kenneth, Kevin Munger, and Arthur Spirling.  "Dumbing Down? Trends in the Complexity of Political Communication." In Frances Lee and Nolan McCarty eds., _Can America Govern Itself?_.  Cambridge:  Cambridge University Press.  pp220-236.
 
 2017\.  Benoit, Kenneth and Alexander Herzog.  "Text Analysis:
  Estimating Policy Preferences From Written and Spoken Words."  In
  Jennifer Bachner, Kathyrn Wagner Hill, and Benjamin Ginsberg,
- eds. _Analytics, Policy and Governance_.  New Haven: Yale
+ eds., _Analytics, Policy and Governance_.  New Haven: Yale
  University Press.  pp. 137--159.
  
 2011\. Enyedi, Zsolt and Kenneth Benoit. "Critical Election 2010\. The Realignment of the Hungarian Party System in the Left-Right Dimension." [In Hungarian] In _The New Formula: Elections in Hungary in 2010_, eds. Zsolt Enyedi, Robert Tardos and Andrea Szabo. Budapest: DKMKA. pp17-42.
