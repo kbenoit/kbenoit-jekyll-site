@@ -25,7 +25,7 @@ type: cv
 
 2015\. Herzog, Alexander and Kenneth Benoit. "[The Most Unkindest Cuts: Speaker Selection and Expressed Government Dissent During Economic Crisis](/pdfs/Herzog_Benoit_JOP_2015.pdf)".  _**Journal of Politics**_ 77(4, October): 1157-1175. [10.1086/682670](https://doi.org/10.1086/682670). This research was funded by the European Research Council grant ERC-2011-StG 283794-QUANTESS.
 
-2015\. Laver, Michael and Kenneth Benoit. "[The Basic Arithmetic of Legislative Decisions](/pdfs/Basic_arithmetic_LaverBenoit_2012_final.pdf "The basic arithmetic of legislative decisions (preprint)")." _**American Journal of Political Science**_ 59(2, April): 275-291. [10.1111/ajps.12111](https://doi.org/10.1111/ajps.12111) [Presentation](https://www.icloud.com/iw/#keynote/BALPcQwc1Vgs5415CPGBOONq3_-dp4hD4O2E/Integer_Arithmetic).
+2015\. Laver, Michael and Kenneth Benoit. "[The Basic Arithmetic of Legislative Decisions](/pdfs/Basic_arithmetic_LaverBenoit_2012_final.pdf "The basic arithmetic of legislative decisions (preprint)")." _**American Journal of Political Science**_ 59(2, April): 275-291. [10.1111/ajps.12111](https://doi.org/10.1111/ajps.12111) [Presentation](https://www.icloud.com/iw/#keynote/BALPcQwc1Vgs5415CPGBOONq3_-dp4hD4O2E/Integer_Arithmetic).  [On-line legislative type calculator](https://kbenoit.shinyapps.io/legislativetypes/).
 
 2013\. Lowe, Will and Kenneth Benoit. "[Validating Estimates of Latent Traits From Textual Data Using Human Judgment as a Benchmark](/pdfs/Political Analysis-2013-Lowe-298-313.pdf)." **_Political Analysis_** 21: 298–313. [10.1093/pan/mpt002](
 https://doi.org/10.1093/pan/mpt002) Replication materials available soon from the [Political Analysis dataverse](https://hdl.handle. net/1902.1/20387).  This research was funded by the European Research Council grant ERC-2011-StG 283794-QUANTESS.
@@ -136,12 +136,12 @@ Benoit, Kenneth. _Wordscores: Software for Coding Political Texts_. Requires Sta
 
 ### Book Chapters
 
-Forthcoming.  Benoit, Kenneth, Kevin Munger, and Arthur Spirling.  "Dumbing Down? Trends in the Complexity of Political Communication." In Nolan McCarty and Frances Lee eds., _Can America Govern Itself?_.  Cambridge:  Cambridge University Press.
+2019\.  Benoit, Kenneth, Kevin Munger, and Arthur Spirling.  "Dumbing Down? Trends in the Complexity of Political Communication." In Frances Lee and Nolan McCarty eds., _Can America Govern Itself?_.  Cambridge:  Cambridge University Press.  pp220-236.
 
 2017\.  Benoit, Kenneth and Alexander Herzog.  "Text Analysis:
  Estimating Policy Preferences From Written and Spoken Words."  In
  Jennifer Bachner, Kathyrn Wagner Hill, and Benjamin Ginsberg,
- eds. _Analytics, Policy and Governance_.  New Haven: Yale
+ eds., _Analytics, Policy and Governance_.  New Haven: Yale
  University Press.  pp. 137--159.
  
 2011\. Enyedi, Zsolt and Kenneth Benoit. "Critical Election 2010\. The Realignment of the Hungarian Party System in the Left-Right Dimension." [In Hungarian] In _The New Formula: Elections in Hungary in 2010_, eds. Zsolt Enyedi, Robert Tardos and Andrea Szabo. Budapest: DKMKA. pp17-42.

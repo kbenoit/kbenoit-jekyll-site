@@ -4,8 +4,21 @@ path: ""
 ---
 
 
-
 [Google Scholar Page](http://scholar.google.co.uk/citations?user=hp1p9TEAAAAJ "Kenneth Benoit's Google Scholar page")
+
+Kenneth Benoit.  July 16, 2019.  "[Text as Data: An Overview](pdfs/28%20Benoit%20Text%20as%20Data%20draft%202.pdf)."  Forthcoming in Cuirini, Luigi and Robert Franzese, eds. _Handbook of Research Methods in Political Science and International Relations_.  Thousand Oaks: Sage.
+
+{: .notice}
+  This chapter thoroughly describes the idea of analyzing text "as data" with a social science focus. 
+It traces a brief history of this approach and distinguishes it from alternative approaches to text. It 
+identifies the key research designs and methods for various ways that scholars in political science 
+and international relations have used text, with references to fields such as natural language 
+processing and computational linguistics from which some of the key methods are influenced or 
+inherited. It surveys the varieties of ways that textual data is used and analyzed, covering key 
+methods and pointing to applications of each. It also identifies the key stages of a research design 
+using text as data, and critically discusses the practical and epistemological challenges at each 
+stage.
+
 
 Patrick Perry and Kenneth Benoit.  October 26, 2017.  "[Scaling Text with the Class Affinity Model](http://arxiv.org/abs/1710.08963)."  London School of Economics and New York University manuscript.  
 
